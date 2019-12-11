@@ -15,6 +15,18 @@
   </url>
   
   <url>
+    <loc>https://example.com/docs/bill-gates/1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/bill-gates/2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/bill-gates/3/</loc>
+  </url>
+  
+  <url>
     <loc>https://example.com/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
@@ -22,6 +34,10 @@
   <url>
     <loc>https://example.com/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/bill-gates/</loc>
   </url>
   
   <url>

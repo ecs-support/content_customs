@@ -1,4 +1,4 @@
-{{ $tocLevels := default (default 6 .Site.Params.BookToC) .Params.BookToC }}
+{{ $tocLevels := default (default 3 .Site.Params.BookToC) .Params.BookToC }}
 {{ if and $tocLevels .Page.TableOfContents }}
   <aside class="book-toc levels-{{$tocLevels}} fixed">
     {{ .Page.TableOfContents }}
