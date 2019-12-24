@@ -33,9 +33,9 @@
   }
   em {
     
-    background: yellow;
-    color:black;
-    font-weight:600;
+    background: #FFFF99;    
+    font-weight:normal;
+    font-weight: bolder;
   
     
   }
@@ -99,11 +99,17 @@
   
     tr th, tr td {
       padding: $padding-8 $padding-16;
-      border: $padding-1 solid $gray-200;
+      border: $padding-1 solid $gray-500;
+      
+    }
+    th {
+      background:$gray-700;
+      color:$gray-200 ;
+      text-align: center;
     }
 
     tr:nth-child(2n) {
-      background: $gray-100;
+      background: $gray-300;
     }
   }
 
@@ -121,6 +127,7 @@
     dt {
       font-weight: bolder;
       margin-top: $padding-16;
+      
     }
 
     dd {
@@ -133,6 +140,7 @@
     td:nth-child(1) pre {
       margin: 0;
       padding-right: 0;
+      
     }
     td:nth-child(2) pre {
       margin: 0;

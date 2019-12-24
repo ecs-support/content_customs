@@ -13,15 +13,23 @@
   margin-top: $padding-16;
   margin-bottom: $padding-16;
 
-  border: $padding-1 solid $gray-200;
+  border: $padding-1 solid $gray-100;
   border-radius: $border-radius;
+  
 
   overflow: hidden;
 
   .book-expand-head {
-    background: $gray-100;
+    background-color: $gray-200;
+    
     padding: $padding-8 $padding-16;
+    font-weight: 600;
     cursor: pointer;
+    border: $padding-1 solid $gray-500;
+    &:hover{
+      background-color: $gray-600;
+      color:white;
+    }
   }
 
   .book-expand-content {
@@ -39,35 +47,59 @@
   margin-top: $padding-16;
   margin-bottom: $padding-16;
   
-  border: $padding-1 solid $gray-200;
+  border: $padding-2 solid $gray-400;
   border-radius: $border-radius;
 
   overflow: hidden;
-
   display: flex;
   flex-wrap: wrap;
 
   label {
     display: inline-block;
     padding: $padding-8 $padding-16;
-    border-bottom: $padding-1 transparent;
+    
+   // border-bottom: $padding-1 transparent;
     cursor: pointer;
-    background-color: #E0E0E0;
+    background-color: $gray-300;
+    font-weight: 600;
+    border: $padding-2 solid $gray-400;
+    //border-bottom: $padding-2 solid red;
+    //border-right: $padding-4 solid white;
+    color:#003366;
+   // border-bottom: $padding-4 solid #003366;
+
+    
+   &:hover
+    {
+     color:$gray-200;
+     background-color: $gray-700;
+     font-weight: 600;
+     border-bottom: $padding-4 solid #FF6600;
+   }
+   
+
+ 
 
   }
-
+   
   .book-tabs-content {
     order: 999; //Move content blocks to the end
     width: 100%;
-    border-top: $padding-1 solid #FF6600;
     
-    padding: $padding-16;
+    
+    
+    
+    padding: $padding-8;
     display: none;
     
   }
 
   input[type="radio"]:checked + label {
-    border-bottom: $padding-1 solid $color-link;
+    border-bottom: $padding-4 solid #FF6600;    
+    color:$gray-200;
+    background-color: $gray-700;
+    font-weight: 600;
+    
   }
   input[type="radio"]:checked + label + .book-tabs-content {
     display: block;

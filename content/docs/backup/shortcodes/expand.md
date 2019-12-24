@@ -12,7 +12,7 @@ Lorem markdownum insigne...
 {{</* /expand */>}}
 ```
 
-{{< expand >}}
+{{< expand "Custom" >}}
 ## Markdown content
 Lorem markdownum insigne...
 {{< /expand >}}
@@ -26,7 +26,7 @@ Lorem markdownum insigne...
 {{</* /expand */>}}
 ```
 
-{{< expand "Custom Label" "..." >}}
+{{< expand "Custom Label" "↕" >}}
 ## Markdown content
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa

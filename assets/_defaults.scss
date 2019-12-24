@@ -1,10 +1,11 @@
 // Used in layout
 $padding-1: 1px !default;
+$padding-2: 0.125rem !default;
 $padding-4: 0.25rem !default;
 $padding-8: 0.5rem !default;
 $padding-16: 1rem !default;
 
-$font-size-base: 19px !default;
+$font-size-base: 18px !default;
 $font-size-12: 0.75rem !default;
 $font-size-14: 0.875rem !default;
 $font-size-16: 1rem !default;
@@ -24,8 +25,8 @@ $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black: #000 !default;
 
-$color-link: darkblue !default;
-$color-visited-link: blue !default;
+$color-link: #006699 !default;
+$color-visited-link: #006699 !default;
 
 $body-background: #F5F5F5 !default;
 $body-font-color: #202020 !default;
@@ -45,5 +46,6 @@ $sm-breakpoint: $menu-width + $body-min-width !default;
 $hint-colors: (
   info: #003366,
   warning: #FF6600,
-  danger: red
+  danger: red,
+  success: green
 ) !default;
