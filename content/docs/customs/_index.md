@@ -1,12 +1,14 @@
 ---
 title: กรมศุลกากร
 bookCollapseSection: true
-weight: 20
+weight: 10
 bookToc: false
 ---
 
 กรมศุลกากร
 ===
+
+![](http://www.logisticsnetworks.net/upload/resize_org_1493777185-%E0%B8%81%E0%B8%A3%E0%B8%A1.png)
 
 ## ประว้ติกรมศุลกากร
 

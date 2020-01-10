@@ -1,5 +1,5 @@
 ---
-title: เขตการค้าเสรีอาเซียน - จีน
+title: อาเซียน - จีน (ASEAN - China)
 bookCollapseSection: true
 weight: 3
 bookToc: false

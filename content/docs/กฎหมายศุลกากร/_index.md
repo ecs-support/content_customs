@@ -1,7 +1,7 @@
 ---
 title: กฎหมายศุลกากร
 bookCollapseSection: true
-weight: 2
+weight: 7
 bookToc: false
 ---
 

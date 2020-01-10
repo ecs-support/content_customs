@@ -7,9 +7,26 @@ bookToc: false
 
 รหัสประเภทรถ (Car Type)
 ===
-- REFCAR
 
-| NO. |CarTypeCode |CarTypeName |
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+
+<br>
+ <div class="input-group">
+    <input type="text" class="form-control col-sm-7 border-danger" id="myInput" placeholder="ค้นหา...">
+    <div class="input-group-append">
+      <button class="btn btn-danger" type="button">
+        <i class="fa fa-search text-white "></i>
+      </button>
+    </div>
+  </div>
+ 
+
+
+| ลำดับ. |รหัสประเภทรถ |ประเภทรถ |
 |:-----:|:----------:|----------|
 |  1 |1000 |รถขนาดเล็ก |
 |  2 |1100 |กระบะบรรทุก |
@@ -311,5 +328,24 @@ bookToc: false
 |  298 |1901 |ลากจูง(มีเครื่องทุ่นแรง) |
 |  299 |1902 |ลากจูง(มีเครื่องกำเนิดไฟฟ้า) |
 |  300 |1903 |ลากจูง(วัตถุอันตราย) |
+
+<script>
+function filterTable(event) {
+    var filter = event.target.value.toUpperCase();
+    var rows = document.querySelector(".markdown table tbody").rows;
+    
+    for (var i = 0; i < rows.length; i++) {
+        var firstCol = rows[i].cells[1].textContent.toUpperCase();
+        var secondCol = rows[i].cells[2].textContent.toUpperCase();
+        if (firstCol.indexOf(filter) > -1 || secondCol.indexOf(filter) > -1) {
+            rows[i].style.display = "";
+        } else {
+            rows[i].style.display = "none";
+        }      
+    }
+}
+
+document.querySelector('#myInput').addEventListener('keyup', filterTable, false);
+</script>
 
 > [วันที่ปรับปรุงล่าสุด 31 ส.ค. 2559](http://www.customs.go.th/list_strc_download.php?lang=th&left_menu=nmenu_esevice_006&current_id=14232a324147505e4f)

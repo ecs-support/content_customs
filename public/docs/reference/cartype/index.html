@@ -5,7 +5,9 @@
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="รหัสประเภทรถ"><meta property="og:title" content="รหัสประเภทรถ" />
-<meta property="og:description" content="รหัสประเภทรถ (Car Type)  REFCAR     NO. CarTypeCode CarTypeName     1 1000 รถขนาดเล็ก   2 1100 กระบะบรรทุก   3 1101 กระบะบรรทุก(พื้นเรียบ)   4 1102 กระบะบรรทุก(ท้ายลาด)   5 1103 กระบะบรรทุก(มีข้างเสริม)   6 1104 กระบะบรรทุก(มีเครื่องทุ่นแรง)   7 1105 กระบะบรรทุก(แบบยกได้)   8 1106 กระบะบรรทุกมีข้างเสริมมีเครื่องทุ่นแรง   9 1107 กระบะบรรทุกยกได้มีข้างเสริม   10 1108 กระบะบรรทุกยกได้มีข้างเสริมมีเครื่องทุ่นแรง   11 1109 กระบะบรรทุกวางตู้คอนเทนเนอร์   12 1110 กระบะบรรทุกมีข้างเสริมมีหลังคา   13 1111 กระบะบรรทุกท้ายลาดมีเครื่องทุ่นแรง   14 1112 กระบะบรรทุก(ท้ายลาดมีข้างเสริมและติดตั้งเครื่องทุ่นแรง)   15 1113 กระบะบรรทุกพื้นเรียบ (ติดตั้งเครื่องทุ่นแรง)   16 1114 กระบะบรรทุกมีข้างเสริมมีหลังคามีเครื่องทุ่นแรง   17 1115 กระบะบรรทุก (แบบยกได้มีเครื่องทุ่นแรง)   18 1200 ตู้บรรทุก   19 1201 ตู้บรรทุกมีเครื่องทุ่นแรง   20 1202 ตู้บรรทุกเฉพาะกิจ   21 1203 ตู้บรรทุกติดตั้งลิฟท์ขนถ่ายสินค้า   22 1204 ตู้บรรทุกติดตั้งเครื่องทำความเย็น   23 1205 ตู้บรรทุกติดตั้งเครื่องทำความเย็น, ลิฟท์ขนถ่ายสินค้า   24 1300 บรรทุกของเหลว   25 1301 บรรทุกของเหลว(น้ำนม)   26 1302 บรรทุกของเหลว(น้ำมันพืช)   27 1303 บรรทุกของเหลว(น้ำแข็ง)   28 1304 บรรทุกของเหลว(น้ำเชื่อม/กากน้ำตาล/โมลาส)   29 1305 บรรทุกของเหลว(น้ำยางพารา)   30 1306 บรรทุกของเหลว(น้ำ)   31 1307 บรรทุกของเหลว(คลอรีนเหลว)   32 1308 บรรทุกของเหลว(กากกาแฟ พีบี." />
+<meta property="og:description" content="รหัสประเภทรถ (Car Type)    
+   
+   ลำดับ. รหัสประเภทรถ ประเภทรถ     1 1000 รถขนาดเล็ก   2 1100 กระบะบรรทุก   3 1101 กระบะบรรทุก(พื้นเรียบ)   4 1102 กระบะบรรทุก(ท้ายลาด)   5 1103 กระบะบรรทุก(มีข้างเสริม)   6 1104 กระบะบรรทุก(มีเครื่องทุ่นแรง)   7 1105 กระบะบรรทุก(แบบยกได้)   8 1106 กระบะบรรทุกมีข้างเสริมมีเครื่องทุ่นแรง   9 1107 กระบะบรรทุกยกได้มีข้างเสริม   10 1108 กระบะบรรทุกยกได้มีข้างเสริมมีเครื่องทุ่นแรง   11 1109 กระบะบรรทุกวางตู้คอนเทนเนอร์   12 1110 กระบะบรรทุกมีข้างเสริมมีหลังคา   13 1111 กระบะบรรทุกท้ายลาดมีเครื่องทุ่นแรง   14 1112 กระบะบรรทุก(ท้ายลาดมีข้างเสริมและติดตั้งเครื่องทุ่นแรง)   15 1113 กระบะบรรทุกพื้นเรียบ (ติดตั้งเครื่องทุ่นแรง)   16 1114 กระบะบรรทุกมีข้างเสริมมีหลังคามีเครื่องทุ่นแรง   17 1115 กระบะบรรทุก (แบบยกได้มีเครื่องทุ่นแรง)   18 1200 ตู้บรรทุก   19 1201 ตู้บรรทุกมีเครื่องทุ่นแรง   20 1202 ตู้บรรทุกเฉพาะกิจ   21 1203 ตู้บรรทุกติดตั้งลิฟท์ขนถ่ายสินค้า   22 1204 ตู้บรรทุกติดตั้งเครื่องทำความเย็น   23 1205 ตู้บรรทุกติดตั้งเครื่องทำความเย็น, ลิฟท์ขนถ่ายสินค้า   24 1300 บรรทุกของเหลว   25 1301 บรรทุกของเหลว(น้ำนม)   26 1302 บรรทุกของเหลว(น้ำมันพืช)   27 1303 บรรทุกของเหลว(น้ำแข็ง)   28 1304 บรรทุกของเหลว(น้ำเชื่อม/กากน้ำตาล/โมลาส)   29 1305 บรรทุกของเหลว(น้ำยางพารา)   30 1306 บรรทุกของเหลว(น้ำ)   31 1307 บรรทุกของเหลว(คลอรีนเหลว)   32 1308 บรรทุกของเหลว(กากกาแฟ พีบี." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/cartype/" />
 
@@ -16,7 +18,7 @@
 <link rel="stylesheet" href="/knowledge-center/customs-clearance/book.min.27b263a321f8e42331fccb6d8723ce3d628b1aeea879a6fe70d5e854b6fa357b.css" integrity="sha256-J7JjoyH45CMx/MtthyPOPWKLGu6oeab&#43;cNXoVLb6NXs=">
 
 
-<script defer src="/knowledge-center/customs-clearance/en.search.min.442305e43e46552122b5112db80cf6b1de7e88b9a7fc3c6f0e63d5c1d3cfb887.js" integrity="sha256-RCMF5D5GVSEitREtuAz2sd5&#43;iLmn/DxvDmPVwdPPuIc="></script>
+<script defer src="/knowledge-center/customs-clearance/en.search.min.6de7911ed6f6b516c2a54698a42499870f0f60ef49da446393fd463385838cce.js" integrity="sha256-beeRHtb2tRbCpUaYpCSZhw8PYO9J2kRjk/1GM4WDjM4="></script>
 
 <!--
 Made with Book Theme
@@ -100,8 +102,34 @@ https://github.com/alex-shpak/hugo-book
     
       
 
-  <a href="/knowledge-center/customs-clearance/docs/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%A8%E0%B8%B8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/" >
-      กฎหมายศุลกากร
+  <a href="/knowledge-center/customs-clearance/docs/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2/" >
+      การส่งออกสินค้า
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/transit/" >
+      ถ่ายลำ/ผ่านแดน
   </a>
 
 
@@ -204,34 +232,8 @@ https://github.com/alex-shpak/hugo-book
     
       
 
-  <a href="/knowledge-center/customs-clearance/docs/transit/" >
-      ถ่ายลำ/ผ่านแดน
-  </a>
-
-
-    
-
-    
-
-
-
-
-
-
-  </li>
-
-
-      
-    
-      
-        
-
-  <li >
-    
-      
-
-  <a href="/knowledge-center/customs-clearance/docs/company/" >
-      ผู้ประกอบการ
+  <a href="/knowledge-center/customs-clearance/docs/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%A8%E0%B8%B8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/" >
+      กฎหมายศุลกากร
   </a>
 
 
@@ -275,7 +277,7 @@ https://github.com/alex-shpak/hugo-book
         <li>
 
   <a href="/knowledge-center/customs-clearance/docs/reference/exchange-rate/" >
-      อัตราแลกเปลี่ยนกรมศุลกากร
+      อัตราแลกเปลี่ยน
   </a>
 
 </li>
@@ -286,6 +288,36 @@ https://github.com/alex-shpak/hugo-book
 
   <a href="/knowledge-center/customs-clearance/docs/reference/country/" >
       รหัสประเทศ
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/reference/area/" >
+      รหัสสถานที่
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/reference/province/" >
+      รหัสจังหวัด
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/reference/unit/" >
+      รหัสหน่วยสินค้า
   </a>
 
 </li>
@@ -348,8 +380,8 @@ https://github.com/alex-shpak/hugo-book
     
       
 
-  <a href="/knowledge-center/customs-clearance/docs/customs/" >
-      กรมศุลกากร
+  <a href="/knowledge-center/customs-clearance/docs/company/" >
+      ผู้ประกอบการ
   </a>
 
 
@@ -374,8 +406,34 @@ https://github.com/alex-shpak/hugo-book
     
       
 
-  <a href="/knowledge-center/customs-clearance/docs/backup/" >
-      Backup
+  <a href="/knowledge-center/customs-clearance/docs/faq/" >
+      FAQ
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/customs/" >
+      กรมศุลกากร
   </a>
 
 
@@ -438,16 +496,28 @@ https://github.com/alex-shpak/hugo-book
 
 <h1 id="รห-สประเภทรถ-car-type">รหัสประเภทรถ (Car Type)</h1>
 
-<ul>
-<li>REFCAR</li>
-</ul>
+<p><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous"></p>
+
+<p><br>
+ <div class="input-group">
+    <input type="text" class="form-control col-sm-7 border-danger" id="myInput" placeholder="ค้นหา...">
+    <div class="input-group-append">
+      <button class="btn btn-danger" type="button">
+        <i class="fa fa-search text-white "></i>
+      </button>
+    </div>
+  </div></p>
 
 <table>
 <thead>
 <tr>
-<th align="center">NO.</th>
-<th align="center">CarTypeCode</th>
-<th>CarTypeName</th>
+<th align="center">ลำดับ.</th>
+<th align="center">รหัสประเภทรถ</th>
+<th>ประเภทรถ</th>
 </tr>
 </thead>
 
@@ -2253,6 +2323,25 @@ https://github.com/alex-shpak/hugo-book
 </tr>
 </tbody>
 </table>
+
+<script>
+function filterTable(event) {
+    var filter = event.target.value.toUpperCase();
+    var rows = document.querySelector(".markdown table tbody").rows;
+    
+    for (var i = 0; i < rows.length; i++) {
+        var firstCol = rows[i].cells[1].textContent.toUpperCase();
+        var secondCol = rows[i].cells[2].textContent.toUpperCase();
+        if (firstCol.indexOf(filter) > -1 || secondCol.indexOf(filter) > -1) {
+            rows[i].style.display = "";
+        } else {
+            rows[i].style.display = "none";
+        }      
+    }
+}
+
+document.querySelector('#myInput').addEventListener('keyup', filterTable, false);
+</script>
 
 <blockquote>
 <p><a href="http://www.customs.go.th/list_strc_download.php?lang=th&amp;left_menu=nmenu_esevice_006&amp;current_id=14232a324147505e4f">วันที่ปรับปรุงล่าสุด 31 ส.ค. 2559</a></p>
