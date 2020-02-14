@@ -15,3 +15,4 @@ bookToc: false
 -   [พระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560](https://www.excise.go.th/cs/groups/public/documents/document/dwnt/mjcz/~edisp/uatucm273088.pdf)    
 -   [คำอธิบายพระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560](https://www.excise.go.th/cs/groups/public/documents/document/dwnt/mjk4/~edisp/uatucm298930.pdf)    
 -   [พระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560 (ภาษาอังกฤษ)](https://www.excise.go.th/cs/groups/public/documents/document/dwnt/mjk4/~edisp/uatucm298729.pdf)
+-   [หลักเกณฑ์ วิธีการ และเงื่อนไข ผ่อนผันการแจ้งราคาขายปลีกแนะนําและโครงสร้างราคาขายปลีกแนะนํา](https://github.com/ecs-support/knowledge-center/raw/master/data/exampt-price-retail.pdf)

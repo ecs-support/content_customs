@@ -1,7 +1,7 @@
 ---
 title: การโอนย้ายของออกจากสิทธิประโยชน์
 bookCollapseSection: true
-weight: 10
+weight: 7
 bookToc: false
 ---
 

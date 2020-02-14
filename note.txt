@@ -1,3 +1,13 @@
 Run : hugo server --minify --theme book
 Doc : https://gohugo.io/contribute/documentation/
 GitHub : https://github.com/gohugoio/hugo/tree/master/docs
+
+img : https://github.com/ecs-support/knowledge-center/raw/master/img/drawbackpng_Page1.png
+
+
+{{<hint success>}}
+info: #003366,
+warning: #FF6600,
+danger: red,
+success: green,
+{{< /hint>}}

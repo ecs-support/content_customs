@@ -5,7 +5,7 @@ $padding-4: 0.25rem !default;
 $padding-8: 0.5rem !default;
 $padding-16: 1rem !default;
 
-$font-size-base: 18px !default;
+$font-size-base: 17.5px !default;
 $font-size-12: 0.75rem !default;
 $font-size-14: 0.875rem !default;
 $font-size-16: 1rem !default;
@@ -25,8 +25,9 @@ $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black: #000 !default;
 
-$color-link: #006699 !default;
+$color-link: #006690 !default;
 $color-visited-link: #006699 !default;
+$color-hover: #E32934 !default;
 
 $body-background: #F5F5F5 !default;
 $body-font-color: #202020 !default;
@@ -46,6 +47,6 @@ $sm-breakpoint: $menu-width + $body-min-width !default;
 $hint-colors: (
   info: #003366,
   warning: #FF6600,
-  danger: red,
-  success: green
+  danger: #E32934,
+  success: green,
 ) !default;

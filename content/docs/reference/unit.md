@@ -13,7 +13,7 @@ bookToc: false
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
-
+<div class="container-fluid">
 <br>
  <div class="input-group">
     <input type="text" class="form-control col-sm-7 border-danger" id="myInput" placeholder="ค้นหา...">
@@ -24,7 +24,7 @@ bookToc: false
     </div>
   </div>
 
-| ลำดับ. |รหัสหน่วยสินค้า | หน่วยสินค้า |
+| ลำดับ. |รหัส | หน่วยสินค้า |
 |:-----:|:-----:|-----|
 |  1 |04 |SMALL SPRAY |
 |  2 |05 |LIFT |

@@ -21,14 +21,15 @@
 
   .book-expand-head {
     background-color: $gray-200;
-    
+    color:#003366;
     padding: $padding-8 $padding-16;
-    font-weight: 600;
+    font-weight: bolder;
     cursor: pointer;    
-    border: $padding-1 solid $gray-500;
+    border: $padding-1 solid #E32934;
     &:hover{
-      background-color: $gray-600;
+      background-color: #003366;
       color:white;
+      border: $padding-1 solid #E32934;
     }
   }
 

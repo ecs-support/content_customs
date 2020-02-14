@@ -14,9 +14,18 @@ bookToc: false
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
 
+<style>
+table .input-group {
+  width:100%;
+}
+</style>
+
+
+
+<div class="container-fluid">
 <br>
  <div class="input-group">
-    <input type="text" class="form-control col-sm-4 border-danger" id="myInput" placeholder="ค้นหา...">
+    <input type="text" class="form-control col-sm-4 border-danger" id="myInput" placeholder="ค้นหา..."  >
     <div class="input-group-append">
       <button class="btn btn-danger" type="button">
         <i class="fa fa-search text-white "></i>
@@ -106,6 +115,11 @@ bookToc: false
 | 77  | 96           | นราธิวาส        |
 
 <script>
+var rows = document.querySelector(".markdown table tbody").rows;
+for (var i = 0; i < 20; i++) {
+  rows[i].style.display = "";
+}
+
 function filterTable(event) {
     var filter = event.target.value.toUpperCase();
     var rows = document.querySelector(".markdown table tbody").rows;

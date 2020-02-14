@@ -9,7 +9,7 @@
   }
 
   h1, h2, h3, h4, h5, h6 {
-    font-weight: normal;
+    font-weight: bolder;
     line-height: 1em;
     margin-top: 1.5em;
     margin-bottom: $padding-16;
@@ -31,19 +31,19 @@
     font-weight: bolder;
     
   }
-  em {
+  em {  
     
-    background: #FFFF99;    
-    font-weight:normal;
+    color:#E32934;     
     font-weight: bolder;
-  
-    
+
   }
   a {
     text-decoration: none;
 
     &:hover {
       text-decoration: underline;
+      color:#E32934;
+      
     }
   }
 
@@ -77,8 +77,8 @@
     border-left: $padding-4 solid $gray-200;
     border-radius: $border-radius;
 
-    border-left: #FF6600 7px solid;
-    color : black;
+    border-left: #003366  7px solid;
+    
     font-weight: 500;
     margin: 20px 0 30px;
     background-color: #E0E0E0;
@@ -103,7 +103,7 @@
       
     }
     th {
-      background:$gray-700;
+      background:#003366;
       color:$gray-200 ;
       text-align: center;
     }

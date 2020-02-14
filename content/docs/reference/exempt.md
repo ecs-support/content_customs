@@ -17,7 +17,7 @@ bookToc: false
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
-
+<div class="container-fluid">
 <br>
 <div class="input-group mb-3">
   <select name="select" class="custom-select col-sm-7 border-danger" id="myInput">
@@ -51,7 +51,7 @@ bookToc: false
 <option value='EXEMPT5'>EXEMPT5</option>
 <option value='EXEMPT88'>EXEMPT88</option>
 <option value='EXEMPT99'>EXEMPT99</option>
-        </select>
+        </select>        
     <div class="input-group-append">
       <button class="btn btn-danger sm-3" type="button">
         <i class="fa fa-search text-white "></i>
@@ -59,7 +59,7 @@ bookToc: false
     </div>
   </div>
 
-| ลำดับ |หน่วยงาน |รหัสยกเว้น |วันที่ออกใบอนุญาต |
+| ลำดับ |หน่วยงาน |รหัสยกเว้น |ลงวันที่ |
 |:-----:|----------|:---------:|:----------:|
 | 1 |กรมการอุตสาหกรรมทหาร |EXEMPT1. |20171113 |
 | 2 |กรมการอุตสาหกรรมทหาร |EXEMPT2 |20171113 |
@@ -152,7 +152,7 @@ function filterTable(event) {
 
 document.querySelector('#myInput').addEventListener('change', filterTable, false);
 </script>
-
+</div>
 {{< /tab >}}
 
 {{< tab "คำอธิบายการยกเว้น" >}}
@@ -177,3 +177,4 @@ document.querySelector('#myInput').addEventListener('change', filterTable, false
 
 
 > [วันที่ปรับปรุงล่าสุด 21 ต.ค. 2562](http://www.customs.go.th/list_multi_tab.php?link=list_xdownload.php&left_menu=nmenu_esevice_160901_01&ini_tab=nmenu_esevice_160901_01&ini_content=permitted_and_certificate_02&order_by=co_last_update_datetime&sort_type=0&&tab=nmenu_esevice_160901_01_160901_02&xleft_menu=nmenu_esevice_160901_01_160901_02)
+
