@@ -3,6 +3,7 @@ weight: 2
 bookFlatSection: true
 title: รหัสประเทศ
 bookToc: false
+
 ---
 
 รหัสประเทศ (Country Code)
@@ -14,7 +15,14 @@ bookToc: false
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<script src="sort-table.js"></script>
+
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+<style>  
+  .markdown table tr th:hover {
+  cursor: pointer;
+}
+</style>
 <div class="container-fluid">
 <br>
  <div class="input-group">
@@ -28,7 +36,7 @@ bookToc: false
 
 
 | NO. | รหัสประเทศ |ชื่อประเทศ |สกุลเงิน |
-|:------:|:-------:|-------------|----------|
+|:------:|:-------:|---------|-----|
 |  1 |AD |ANDORRA |AUD |
 |  2 |AE |UNITED ARAB EMIRATES |THB |
 |  3 |AF |AFGHANISTAN |BEF |
@@ -268,11 +276,13 @@ bookToc: false
 |  237 |ZW |ZIMBABWE | |
 
 
+
 <script>
-function filterTable(event) {
+
+
+  function filterTable(event) {
     var filter = event.target.value.toUpperCase();
     var rows = document.querySelector(".markdown table tbody").rows;
-    
     for (var i = 0; i < rows.length; i++) {
         var firstCol = rows[i].cells[1].textContent.toUpperCase();
         var secondCol = rows[i].cells[2].textContent.toUpperCase();
@@ -284,7 +294,68 @@ function filterTable(event) {
     }
 }
 
+function sortTable(n) {
+  var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+  table = document.getElementsByTagName("table");
+  switching = true;
+  //Set the sorting direction to ascending:
+  dir = "asc"; 
+  /*Make a loop that will continue until
+  no switching has been done:*/
+  while (switching) {
+    //start by saying: no switching is done:
+    switching = false;
+    rows = table.rows;
+    /*Loop through all table rows (except the
+    first, which contains table headers):*/
+    for (i = 1; i < (rows.length - 1); i++) {
+      //start by saying there should be no switching:
+      shouldSwitch = false;
+      /*Get the two elements you want to compare,
+      one from current row and one from the next:*/
+      x = rows[i].getElementsByTagName("TD")[n];
+      y = rows[i + 1].getElementsByTagName("TD")[n];
+      /*check if the two rows should switch place,
+      based on the direction, asc or desc:*/
+      if (dir == "asc") {
+        if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+          //if so, mark as a switch and break the loop:
+          shouldSwitch= true;
+          break;
+        }
+      } else if (dir == "desc") {
+        if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+          //if so, mark as a switch and break the loop:
+          shouldSwitch = true;
+          break;
+        }
+      }
+    }
+    if (shouldSwitch) {
+      /*If a switch has been marked, make the switch
+      and mark that a switch has been done:*/
+      rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+      switching = true;
+      //Each time a switch is done, increase this count by 1:
+      switchcount ++;      
+    } else {
+      /*If no switching has been done AND the direction is "asc",
+      set the direction to "desc" and run the while loop again.*/
+      if (switchcount == 0 && dir == "asc") {
+        dir = "desc";
+        switching = true;
+      }
+    }
+  }
+}
+
+th = table.getElementsByTagName("th");
 document.querySelector('#myInput').addEventListener('keyup', filterTable, false);
+th[1].addEventListener('click',sortTable(1), false);
+th[2].addEventListener('click',sortTable(2), false);
+
+
+
 </script>
 
 

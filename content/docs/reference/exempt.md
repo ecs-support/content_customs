@@ -134,24 +134,7 @@ bookToc: false
 | 71 |สำนักงานปรมาณูเพื่อสันติ |EXEMPT88 |20171113 |
 | 72 |สำนักงานปรมาณูเพื่อสันติ |EXEMPT99 |20171113 |
 
-<script>
-function filterTable(event) {
-    var filter = event.target.value.toUpperCase();
-    var rows = document.querySelector(".markdown table tbody").rows;
-    
-    for (var i = 0; i < rows.length; i++) {
-        var firstCol = rows[i].cells[1].textContent.toUpperCase();
-        var secondCol = rows[i].cells[2].textContent.toUpperCase();
-        if (firstCol.indexOf(filter) !== -1 || secondCol.indexOf(filter) !== -1) {
-            rows[i].style.display = "";
-        } else {
-            rows[i].style.display = "none";
-        }      
-    }
-}
 
-document.querySelector('#myInput').addEventListener('change', filterTable, false);
-</script>
 </div>
 {{< /tab >}}
 
@@ -173,7 +156,22 @@ document.querySelector('#myInput').addEventListener('change', filterTable, false
 {{< /tabs >}}
 
 
-
+<script>
+    function filterTable(event){
+    var filter = event.target.value.toUpperCase();
+    var rows = document.querySelector(".markdown table tbody").rows;
+    
+    for (var i = 0; i < rows.length; i++) {
+        var firstCol = rows[i].cells[1].textContent.toUpperCase();
+        var secondCol = rows[i].cells[2].textContent.toUpperCase();
+        if (firstCol.indexOf(filter) !== -1 || secondCol.indexOf(filter) !== -1) {
+            rows[i].style.display = "";
+        } else {
+            rows[i].style.display = "none";
+        }      
+    }}
+    document.querySelector('#myInput').addEventListener('change', filterTable, false);
+</script>
 
 
 > [วันที่ปรับปรุงล่าสุด 21 ต.ค. 2562](http://www.customs.go.th/list_multi_tab.php?link=list_xdownload.php&left_menu=nmenu_esevice_160901_01&ini_tab=nmenu_esevice_160901_01&ini_content=permitted_and_certificate_02&order_by=co_last_update_datetime&sort_type=0&&tab=nmenu_esevice_160901_01_160901_02&xleft_menu=nmenu_esevice_160901_01_160901_02)

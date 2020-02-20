@@ -2,7 +2,7 @@ Run : hugo server --minify --theme book
 Doc : https://gohugo.io/contribute/documentation/
 GitHub : https://github.com/gohugoio/hugo/tree/master/docs
 
-img : https://github.com/ecs-support/knowledge-center/raw/master/img/drawbackpng_Page1.png
+img : https://github.com/ecs-support/knowledge-center/raw/master/img/xxxxxxx.jpg
 
 
 {{<hint success>}}

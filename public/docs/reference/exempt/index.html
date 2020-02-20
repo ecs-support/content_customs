@@ -15,10 +15,10 @@
 <link rel="icon" href="/knowledge-center/customs-clearance/favicon.png" type="image/x-icon">
 
 
-<link rel="stylesheet" href="/knowledge-center/customs-clearance/book.min.1e3cf087ea0284bbae501a720184cf7f78ffeea229485910a0e0cfdce8535498.css" integrity="sha256-Hjzwh&#43;oChLuuUBpyAYTPf3j/7qIpSFkQoODP3OhTVJg=">
+<link rel="stylesheet" href="/knowledge-center/customs-clearance/book.min.280727509a215f3170df19137f55af035ec34d8a82fe408c4c1bca87b90f31da.css" integrity="sha256-KAcnUJohXzFw3xkTf1WvA17DTYqC/kCMTBvKh7kPMdo=">
 
 
-<script defer src="/knowledge-center/customs-clearance/en.search.min.f5697fc3428c0c765cf4a3b5e258fab59f18760dce5f1726eb19ea2ab19af6ff.js" integrity="sha256-9Wl/w0KMDHZc9KO14lj6tZ8Ydg3OXxcm6xnqKrGa9v8="></script>
+<script defer src="/knowledge-center/customs-clearance/en.search.min.bf09c10bbc4b340a684088af962eebe40163e6c4734e472ed455900885ebbcb0.js" integrity="sha256-vwnBC7xLNApoQIivli7r5AFj5sRzTkcu1FWQCIXrvLA="></script>
 
 <!--
 Made with Book Theme
@@ -1069,27 +1069,7 @@ https://github.com/alex-shpak/hugo-book
 </tbody>
 </table>
 
-<p><script>
-function filterTable(event) {
-    var filter = event.target.value.toUpperCase();
-    var rows = document.querySelector(&ldquo;.markdown table tbody&rdquo;).rows;</p>
-
-<pre><code>for (var i = 0; i &lt; rows.length; i++) {
-    var firstCol = rows[i].cells[1].textContent.toUpperCase();
-    var secondCol = rows[i].cells[2].textContent.toUpperCase();
-    if (firstCol.indexOf(filter) !== -1 || secondCol.indexOf(filter) !== -1) {
-        rows[i].style.display = &quot;&quot;;
-    } else {
-        rows[i].style.display = &quot;none&quot;;
-    }      
-}
-</code></pre>
-
-<p>}</p>
-
-<p>document.querySelector(&lsquo;#myInput&rsquo;).addEventListener(&lsquo;change&rsquo;, filterTable, false);
-</script>
-</div></p>
+<p></div></p>
 
   </div>
 
@@ -1169,6 +1149,23 @@ function filterTable(event) {
 
 </div>
 
+
+<script>
+    function filterTable(event){
+    var filter = event.target.value.toUpperCase();
+    var rows = document.querySelector(".markdown table tbody").rows;
+    
+    for (var i = 0; i < rows.length; i++) {
+        var firstCol = rows[i].cells[1].textContent.toUpperCase();
+        var secondCol = rows[i].cells[2].textContent.toUpperCase();
+        if (firstCol.indexOf(filter) !== -1 || secondCol.indexOf(filter) !== -1) {
+            rows[i].style.display = "";
+        } else {
+            rows[i].style.display = "none";
+        }      
+    }}
+    document.querySelector('#myInput').addEventListener('change', filterTable, false);
+</script>
 
 <blockquote>
 <p><a href="http://www.customs.go.th/list_multi_tab.php?link=list_xdownload.php&amp;left_menu=nmenu_esevice_160901_01&amp;ini_tab=nmenu_esevice_160901_01&amp;ini_content=permitted_and_certificate_02&amp;order_by=co_last_update_datetime&amp;sort_type=0&amp;&amp;tab=nmenu_esevice_160901_01_160901_02&amp;xleft_menu=nmenu_esevice_160901_01_160901_02">วันที่ปรับปรุงล่าสุด 21 ต.ค. 2562</a></p>

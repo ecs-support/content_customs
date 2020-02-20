@@ -33,8 +33,9 @@
   }
   em {  
     
-    color:#E32934;     
+    color:#000;     
     font-weight: bolder;
+    background: #FFFF33;
 
   }
   a {
@@ -77,11 +78,11 @@
     border-left: $padding-4 solid $gray-200;
     border-radius: $border-radius;
 
-    border-left: #003366  7px solid;
+    border-left: green  8px solid;
     
     font-weight: 500;
     margin: 20px 0 30px;
-    background-color: #E0E0E0;
+    background-color: rgba(green, 0.2);
 
     :first-child { margin-top: 0; }
     :last-child { margin-bottom: 0; }

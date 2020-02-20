@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "D:\\GitBook\\ECS\\ecs@support\\Website-Lab"
+		},
+		{
+			"path": "D:\\GitBook\\ECS\\ecs@support\\knowledge-center"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}

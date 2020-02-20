@@ -193,7 +193,9 @@ E-Bill Payment
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/country/</guid>
-      <description>รหัสประเทศ (Country Code)       
+      <description>รหัสประเทศ (Country Code)    
+
+.markdown table tr th:hover { cursor: pointer; }     
    NO. รหัสประเทศ ชื่อประเทศ สกุลเงิน     1 AD ANDORRA AUD   2 AE UNITED ARAB EMIRATES THB   3 AF AFGHANISTAN BEF   4 AG ANTIGUA AND BARBUDA BND   5 AL ALBANIA CAD   6 AM ARMENIA DKK   7 AN NETHERLANDS ANTILLES DEM   8 AO ANGOLA VND   9 AR ARGENTINA EUR   10 AS AMERICAN SAMOA RFR   11 AT AUSTRIA HKD   12 AU AUSTRALIA INR   13 AW ARUBA IEP   14 AZ AZERBAIJAN ITL   15 BB BARBADOS JOD   16 BD BANGLADESH LAK   17 BE BELGIUM KWD   18 BF BURKINA FASO MMK   19 BG BULGARIA MYR   20 BH BAHRAIN MTL   21 BI BURUNDI FIM   22 BJ BENIN MXN   23 BM BERMUDA NLG   24 BN BRUNEI DARUSSALAM TWD   25 BO BOLIVIA NZD   26 BR BRAZIL NOK   27 BS BAHAMAS PKR   28 BT BHUTAN PHP   29 BV BOUVET ISLAND PTE   30 BW BOTSWANA GBP   31 BY BELARUS ZAR   32 BZ BELIZE KHR   33 CA CANADA IDR   34 CC COCOS (KEELING) IS.</description>
     </item>
     
@@ -860,6 +862,19 @@ More complete instructions are available at Install Hugo
 Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
 Follow the following steps:
  Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>ของตกค้าง</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%81%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%87/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%81%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%87/</guid>
+      <description>ของตกค้าง เนื่องจากก่อนหน้านี้พบว่า มีใบขนสินค้าผ่านแดน ที่ส่งข้อมูลหลักจากวันนำเข้าเกิน 60 วัน ระบบกรมศุลกากรได้ Lock ไม่ให้ส่งข้อมูลใบขนสินค้าผ่านแดน ทำให้มีคำถามกลับเข้ามาถึงกฎหมายที่เกี่ยวข้อง และขั้นตอนการปฏิบัติพิธีการศุลกากรสำหร้ับเรื่องดังกล่าว ในส่วนของโปรแกรม เราจำเป็นต้องทราบว่าระบบหลังบ้านกรมศุลกากร จะทำการตรวจสอบและ lock สินค้าที่อยู่ในอารักขาของศุลกากรเกิน 60 วัน นับแต่วันที่นําเข้า โดยไม่มีการยื่นใบขนสินค้า และไม่ได้เสียอากรหรือวางประกันค่าอากรที่ศุลกากรเรียกเก็บ ไม่สามารถส่งข้อมูลทางอิเล็กทรอนิกส์ได้ เราจึงรวบรวมข้อกฎหมายและขั้นตอนการปฏิบัติของหน่วยงานต่าง ๆ ที่เกี่ยวข้องกับของตกค้าง เพื่อใช้ประกอบทำความเข้าใจ และใช้เป็นแนวทางในการแก้ปัญหาในเรื่องดังกล่าวดังนี้
+ตามประกาศกรมศุลกากรที่ 142/ 2560 เรื่อง พิธีการศุลกากรว่าด้วยของตกค้าง (ดาวน์โหลดประกาศ) ได้นิยามความหมายและหลักเกณฑ์ไว้ดังนี้
+“ของตกค้าง” หมายถึง ของที่อยู่ในอารักขาของศุลกากรในลักษณะใดลักษณะหนึ่ง ดังต่อไปนี้
+ ของนําเข้าที่เป็น สินค้าอันตราย ตามชนิด หรือประเภทที่กําหนดตามมาตรา 5 (5) แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560 ที่ผู้นําของเข้ายังมิได้นําของออกไปจากเขตศุลกากร ภายใน 5 วัน สําหรับของที่ขนถ่ายข้างลํา (OVERSIDE) และ ภายใน 7 วัน สําหรับกรณีอื่นนับแต่สินค้าอันตรายอยู่ในอารักขาของศุลกากร
+ ของนําเข้าอื่นใดนอกจากข้อ (1) ที่อยู่ในอารักขาของศุลกากรเกิน 30 วัน นับแต่วันที่นําเข้า โดยไม่มีการยื่นใบขนสินค้า และไม่ได้เสียอากรหรือวางประกันค่าอากรที่พึงเรียกเก็บแก่ของนั้น ซึ่งอธิบดีมีหนังสือแจ้งไปยังตัวแทนของเรือที่นําของเข้ามา แต่ตัวแทนของเรือไม่ยอมดําเนินการให้ถูกต้อง ภายใน 15 วันนับแต่วันที่ได้รับหนังสือแจ้งจากอธิบดี</description>
     </item>
     
   </channel>

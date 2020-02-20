@@ -61,7 +61,7 @@
     
    // border-bottom: $padding-1 transparent;
     cursor: pointer;
-    background-color: $gray-300;
+    background-color: $gray-200;
     font-weight: 600;
     border: $padding-2 solid $gray-400;
     //border-bottom: $padding-2 solid red;
@@ -73,22 +73,16 @@
    &:hover
     {
      color:$gray-200;
-     background-color: $gray-700;
+     background-color: #003366;
      font-weight: 600;
      border-bottom: $padding-4 solid #FF6600;
-   }
-   
-
- 
+   } 
 
   }
    
   .book-tabs-content {
     order: 999; //Move content blocks to the end
-    width: 100%;
-    
-    
-    
+    width: 100%;   
     
     padding: $padding-8;
     display: none;
@@ -98,7 +92,7 @@
   input[type="radio"]:checked + label {
     border-bottom: $padding-4 solid #FF6600;    
     color:$gray-200;
-    background-color: $gray-700;
+    background-color: #003366;
     font-weight: 600;
     
   }

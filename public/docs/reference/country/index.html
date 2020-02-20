@@ -5,7 +5,9 @@
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="รหัสประเทศ"><meta property="og:title" content="รหัสประเทศ" />
-<meta property="og:description" content="รหัสประเทศ (Country Code)       
+<meta property="og:description" content="รหัสประเทศ (Country Code)    
+
+.markdown table tr th:hover { cursor: pointer; }     
    NO. รหัสประเทศ ชื่อประเทศ สกุลเงิน     1 AD ANDORRA AUD   2 AE UNITED ARAB EMIRATES THB   3 AF AFGHANISTAN BEF   4 AG ANTIGUA AND BARBUDA BND   5 AL ALBANIA CAD   6 AM ARMENIA DKK   7 AN NETHERLANDS ANTILLES DEM   8 AO ANGOLA VND   9 AR ARGENTINA EUR   10 AS AMERICAN SAMOA RFR   11 AT AUSTRIA HKD   12 AU AUSTRALIA INR   13 AW ARUBA IEP   14 AZ AZERBAIJAN ITL   15 BB BARBADOS JOD   16 BD BANGLADESH LAK   17 BE BELGIUM KWD   18 BF BURKINA FASO MMK   19 BG BULGARIA MYR   20 BH BAHRAIN MTL   21 BI BURUNDI FIM   22 BJ BENIN MXN   23 BM BERMUDA NLG   24 BN BRUNEI DARUSSALAM TWD   25 BO BOLIVIA NZD   26 BR BRAZIL NOK   27 BS BAHAMAS PKR   28 BT BHUTAN PHP   29 BV BOUVET ISLAND PTE   30 BW BOTSWANA GBP   31 BY BELARUS ZAR   32 BZ BELIZE KHR   33 CA CANADA IDR   34 CC COCOS (KEELING) IS." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/country/" />
@@ -14,10 +16,10 @@
 <link rel="icon" href="/knowledge-center/customs-clearance/favicon.png" type="image/x-icon">
 
 
-<link rel="stylesheet" href="/knowledge-center/customs-clearance/book.min.1e3cf087ea0284bbae501a720184cf7f78ffeea229485910a0e0cfdce8535498.css" integrity="sha256-Hjzwh&#43;oChLuuUBpyAYTPf3j/7qIpSFkQoODP3OhTVJg=">
+<link rel="stylesheet" href="/knowledge-center/customs-clearance/book.min.280727509a215f3170df19137f55af035ec34d8a82fe408c4c1bca87b90f31da.css" integrity="sha256-KAcnUJohXzFw3xkTf1WvA17DTYqC/kCMTBvKh7kPMdo=">
 
 
-<script defer src="/knowledge-center/customs-clearance/en.search.min.f5697fc3428c0c765cf4a3b5e258fab59f18760dce5f1726eb19ea2ab19af6ff.js" integrity="sha256-9Wl/w0KMDHZc9KO14lj6tZ8Ydg3OXxcm6xnqKrGa9v8="></script>
+<script defer src="/knowledge-center/customs-clearance/en.search.min.bf09c10bbc4b340a684088af962eebe40163e6c4734e472ed455900885ebbcb0.js" integrity="sha256-vwnBC7xLNApoQIivli7r5AFj5sRzTkcu1FWQCIXrvLA="></script>
 
 <!--
 Made with Book Theme
@@ -499,7 +501,14 @@ https://github.com/alex-shpak/hugo-book
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+<script src="sort-table.js"></script></p>
+
+<p><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+<style><br />
+  .markdown table tr th:hover {
+  cursor: pointer;
+}
+</style>
 <div class="container-fluid">
 <br>
  <div class="input-group">
@@ -2184,10 +2193,11 @@ https://github.com/alex-shpak/hugo-book
 </table>
 
 <script>
-function filterTable(event) {
+
+
+  function filterTable(event) {
     var filter = event.target.value.toUpperCase();
     var rows = document.querySelector(".markdown table tbody").rows;
-    
     for (var i = 0; i < rows.length; i++) {
         var firstCol = rows[i].cells[1].textContent.toUpperCase();
         var secondCol = rows[i].cells[2].textContent.toUpperCase();
@@ -2199,7 +2209,68 @@ function filterTable(event) {
     }
 }
 
+function sortTable(n) {
+  var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+  table = document.getElementsByTagName("table");
+  switching = true;
+  //Set the sorting direction to ascending:
+  dir = "asc"; 
+  /*Make a loop that will continue until
+  no switching has been done:*/
+  while (switching) {
+    //start by saying: no switching is done:
+    switching = false;
+    rows = table.rows;
+    /*Loop through all table rows (except the
+    first, which contains table headers):*/
+    for (i = 1; i < (rows.length - 1); i++) {
+      //start by saying there should be no switching:
+      shouldSwitch = false;
+      /*Get the two elements you want to compare,
+      one from current row and one from the next:*/
+      x = rows[i].getElementsByTagName("TD")[n];
+      y = rows[i + 1].getElementsByTagName("TD")[n];
+      /*check if the two rows should switch place,
+      based on the direction, asc or desc:*/
+      if (dir == "asc") {
+        if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+          //if so, mark as a switch and break the loop:
+          shouldSwitch= true;
+          break;
+        }
+      } else if (dir == "desc") {
+        if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+          //if so, mark as a switch and break the loop:
+          shouldSwitch = true;
+          break;
+        }
+      }
+    }
+    if (shouldSwitch) {
+      /*If a switch has been marked, make the switch
+      and mark that a switch has been done:*/
+      rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+      switching = true;
+      //Each time a switch is done, increase this count by 1:
+      switchcount ++;      
+    } else {
+      /*If no switching has been done AND the direction is "asc",
+      set the direction to "desc" and run the while loop again.*/
+      if (switchcount == 0 && dir == "asc") {
+        dir = "desc";
+        switching = true;
+      }
+    }
+  }
+}
+
+th = table.getElementsByTagName("th");
 document.querySelector('#myInput').addEventListener('keyup', filterTable, false);
+th[1].addEventListener('click',sortTable(1), false);
+th[2].addEventListener('click',sortTable(2), false);
+
+
+
 </script>
 
 <blockquote>
