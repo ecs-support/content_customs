@@ -1,7 +1,7 @@
 ---
 title: ภาษีสรรพสามิต
 bookCollapseSection: true
-weight: 6
+weight: 11
 bookToc: false
 ---
 
