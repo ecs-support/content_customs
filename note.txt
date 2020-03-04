@@ -1,6 +1,7 @@
 Run : hugo server --minify --theme book
-Doc : https://gohugo.io/contribute/documentation/
+Doc : https://themes.gohugo.io//theme/hugo-book/
 GitHub : https://github.com/gohugoio/hugo/tree/master/docs
+
 
 img : https://github.com/ecs-support/knowledge-center/raw/master/img/xxxxxxx.jpg
 
@@ -11,3 +12,10 @@ warning: #FF6600,
 danger: red,
 success: green,
 {{< /hint>}}
+
+
+{{< tabs "uniqueid" >}}
+{{< tab "MacOS" >}} # MacOS Content {{< /tab >}}
+{{< tab "Linux" >}} # Linux Content {{< /tab >}}
+{{< tab "Windows" >}} # Windows Content {{< /tab >}}
+{{< /tabs >}}

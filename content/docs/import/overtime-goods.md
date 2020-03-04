@@ -3,7 +3,6 @@ title: ของตกค้าง
 bookFlatSection: true
 weight: 4
 bookToc: false
-publishdate: "20/02/2020"
 ---
 ของตกค้าง
 ===
