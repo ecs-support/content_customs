@@ -10,6 +10,55 @@ FAQ. (Frequently asked questions)
 
 ![](http://www.taladtool.com/wp-content/uploads/2018/02/faq.png)
 
+
+{{< expand "การชำระค่าภาษีอากรผ่านธนาคารทางอิเล็กทรอนิกส์ (e-Payment)" "+" >}}
+
+## การชำระค่าภาษีอากรผ่านธนาคารทางอิเล็กทรอนิกส์ (e-Payment)
+
+{{< hint success >}}
+**คำตอบ :**  
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-payment-11-03-20-01.png)
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-payment-11-03-20-02.png)
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-payment-11-03-20-03.png)
+
+- ที่มา : [กรมศุลกากร](http://ccc.customs.go.th/cont_strc_faq.php?current_id=14232a324148505f49&left_menu=interesting_article)  
+- วันที่ปรับปรุงล่าสุด : 4 ตุลาคม 2562  
+ {{< /hint >}}
+{{< /expand >}}
+
+{{< expand "การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชย" "+" >}}
+
+## การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชยค่าภาษีอากรเมื่อส่งออก
+
+{{< hint success >}}
+**คำตอบ :**  
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/export-freezone-11-03-20.jpg)
+
+- ที่มา : [กรมศุลกากร](http://ccc.customs.go.th/cont_strc_faq.php?current_id=14232a324149505f47&left_menu=interesting_article)  
+- วันที่ปรับปรุงล่าสุด : 26 ธันวาคม 2562  
+ {{< /hint >}}
+{{< /expand >}}
+
+{{< expand "การใช้มาตร 12 และมาตร 14 แห่งพระราชกำหนดพิกัดอัตราภาษีศุลกากร แตกต่างกันอย่างไร " "+" >}}
+
+## การใช้มาตร 12 และมาตร 14 แห่งพระราชกำหนดพิกัดอัตราภาษีศุลกากร แตกต่างกันอย่างไร 
+
+{{< hint success >}}
+**คำตอบ :**  
+1. มาตรา 12  เป็นการออกประกาศกระทรวงการคลังเพื่อประโยชน์แก่การเศรษฐกิจของประเทศ หรือเพื่อความผาสุกของประชาชน หรือเพื่อ ความมั่นคงของประเทศ ทั้งนี้ ตามมาตร12 รัฐมนตรีว่าการกระทรวงการคลัง โดยความเห็นชอบของคณะรัฐมนตรีมีอำนาจประกาศลดอัตราอากร หรือยกเว้นอากรสำหรับของใด ๆ จากอัตราที่กำหนดไว้ในพิกัดอัตราศุลกากร หรือเรียกเก็บอากรพิเศษเพิ่มขึ้นสำหรับของใด ๆ ไม่เกินร้อยละห้าสิบของอัตราอากรที่กำหนดไว้ในพิกัดอัตราศุลกากร การออกประกาศกระทรวงการคลังตามมาตรา 12 เป็นการบังคับใช้กับสินค้าที่นำเข้าจากทุกประเทศ
+
+2. มาตรา 14  เป็นการออกประกาศกระทรวงการคลัง เพื่อปฏิบัติตามข้อผูกพันตามสัญญา หรือความตกลงระหว่างประเทศ ได้แก่ ปรับลดอัตราอากรขาเข้าภายใต้กรอบ FTA ต่าง ๆ ทั้งนี้ ตามมาตร 14 รัฐมนตรีว่าการกระทรวงการคลัง โดยความเห็นชอบขังคณะรัฐมนตรี มี อำนาจประกาศ ยกเว้น ลด หรือเพิ่มอัตราอากรจากอัตราที่กำหนดไว้ในพิกัดอัตราศุลกากรหรือประกาศเรียกเก็บอากร ตามอัตราที่กำหนดไว้ใน พิกัดอัตราศุลกากร สำหรับของที่มีถิ่นกำเนิดจากประเทศที่ร่วมลงนามหรือลักษณะตามที่ระบุไว้ในสัญญา หรือความตกลงดังกล่าว
+
+
+- ที่มา : [สำนักนโยบายภาษี สำนักงานเศรษฐกิจการคลัง](http://www2.fpo.go.th/FPO/index2.php?mod=Content&file=contentview&contentID=CNT0000724&categoryID=CAT0000102) 
+ {{< /hint >}}
+{{< /expand >}}
+
+
 {{< expand "Error : Paperless service is suspended because you have not paid service fee to Customs Department" "+" >}}
 
 ## Error "Paperless service is suspended because you have not paid service fee to Customs Department" หรือ "Paperless service is suspended because you have not paid overtime fee to Customs Department"

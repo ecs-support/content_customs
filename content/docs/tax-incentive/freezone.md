@@ -74,6 +74,29 @@ bookToc: true
 
 - [เอกสารประกอบการบรรยาย สิทธิประโยชน์ทางภาษีอากรด้านเขตปลอดอากร (Freezone)](http://www.customs.go.th/data_files/ca67aabbda3127c8919c96a56836d48d.pdf)
 
+## สรุป
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page27.jpg)
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page28.jpg)
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page29.jpg)
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page30.jpg)
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page31.jpg)
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page32.jpg)
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page33.jpg)
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page34.jpg)
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page35.jpg)
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page36.jpg)
+
+
 
 
 > ที่มา : [กรมศุลกากร](http://www.customs.go.th/list_multi_tab.php?link=cont_xsimple.php&ini_menu=menu_tax_incentive&left_menu=menu_tax_incentive_160928_04&ini_tab=menu_tax_incentive_160928_04&ini_content=tax_incentive_160929_03&tab=menu_tax_incentive_160928_04_170202_01&lang=th&top_menu=menu_homepage&left_menu=menu_tax_incentive_160928_04)

@@ -117,7 +117,7 @@ table .input-group {
 <script>
 var rows = document.querySelector(".markdown table tbody").rows;
 for (var i = 0; i < 20; i++) {
-  rows[i].style.display = "";
+  rows[i].style.display = "none";
 }
 
 function filterTable(event) {

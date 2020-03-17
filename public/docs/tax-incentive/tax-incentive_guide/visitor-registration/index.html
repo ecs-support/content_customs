@@ -1,0 +1,752 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="ตรวจสอบทะเบียนผู้มาติดต่อ"><meta property="og:title" content="ตรวจสอบทะเบียนผู้มาติดต่อ" />
+<meta property="og:description" content="การตรวจสอบข้อมูลใบขนสินค้าขาเข้าและขาออก กับระบบทะเบียนผู้มาติดต่อ  การตรวจสอบลายเซ็นอิเล็กทรอนิกส์ (Digital Signature) มีเงื่อนไขดังนี้
+ VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของผู้นำเข้า/ผู้ส่งออก (Company Tax No) หรือ VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของตัวแทนออกของ (Broker Tax No) หรือ VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของตัวแทนออกของรับจ้างช่วง (Sub Broker Tax Number) หรือ VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของ Company Tax No ของ Registration ID กรณีเป็น Service Counter เท่านั้น   การตรวจสอบความสัมพันธ์ของผู้นำเข้า/ผู้ส่งออกกับตัวแทนออกของ ต้องมีการว่าจ้างระหว่าง ผู้นำเข้า/ส่งออกกับตัวแทนออกของ จะตรวจสอบกับระบบทะเบียน ดังนี้
+ ผู้นำเข้า/ผู้ส่งออกต้องว่าจ้างตัวแทนออกของ และ ตัวแทนออกของต้องได้รับจ้างผู้นำเข้า/ผู้ส่งออก  การตรวจสอบความสัมพันธ์ของตัวแทนออกของรับจ้างช่วง กับตัวแทนออกของที่มีความสัมพันธ์กับ ผู้นำเข้า/ผู้ส่งออก จะตรวจสอบกับระบบทะเบียน ดังนี้
+ ผู้รับจ้างช่วงต้องได้รับการว่าจ้างจากตัวแทนออกของ และ ตัวแทนออกของต้องได้รับจ้างผู้นำเข้า/ผู้ส่งออก และ ผู้นำเข้า/ผู้ส่งออกต้องว่าจ้างตัวแทนออกของ    สำหรับกรณีผู้นำเข้า/ผู้ส่งออก มีการมอบอำนาจให้ตัวแทนออกของทำการว่าจ้างช่วงได้" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/visitor-registration/" />
+
+<title>ตรวจสอบทะเบียนผู้มาติดต่อ | Knowledge Center</title>
+<link rel="icon" href="/knowledge-center/customs-clearance/favicon.png" type="image/x-icon">
+
+
+<link rel="stylesheet" href="/knowledge-center/customs-clearance/book.min.4711656617c976a5ebc3388e498f5853d1f5f8f6316c7f8e96fb7d8b7550a71d.css" integrity="sha256-RxFlZhfJdqXrwziOSY9YU9H1&#43;PYxbH&#43;Olvt9i3VQpx0=">
+
+
+<script defer src="/knowledge-center/customs-clearance/en.search.min.6f01bf08472e498cf058a1817ead227cce1f4ca257c10ac5302e675ee1ba96f0.js" integrity="sha256-bwG/CEcuSYzwWKGBfq0ifM4fTKJXwQrFMC5nXuG6lvA="></script>
+
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+</head>
+
+<body>
+  <input type="checkbox" class="hidden" id="menu-control" />
+  <main class="flex container">
+
+    <aside class="book-menu fixed">
+      <nav>
+<h2 class="book-brand">
+  <a href="https://ecs-support.github.io/knowledge-center/customs-clearance"><span>Knowledge Center</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" />
+  <div class="book-search-spinner spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+    
+
+  
+  
+
+
+
+
+
+ 
+  
+    
+
+
+
+
+  
+  <ul>
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/import/" >
+      การนำเข้าสินค้า
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/export/" >
+      การส่งออกสินค้า
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/transit/" >
+      ถ่ายลำ/ผ่านแดน
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/tax-incentive/" >
+      สิทธิประโยชน์ทางภาษีอากร
+  </a>
+
+
+    
+
+    
+
+
+
+
+  
+  <ul>
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/" >
+      คู่มือสิทธิประโยชน์ทางภาษีอากร
+  </a>
+
+
+    
+
+    
+
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/data_structure_export/" >
+      โครงสร้างข้อมูลใบขนสินค้าขาออก
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/data_structure_import/" >
+      โครงสร้างข้อมูลใบขนสินค้าขาเข้า
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/visitor-registration/"  class="active">
+      ตรวจสอบทะเบียนผู้มาติดต่อ
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/shipping-marks/" >
+      เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks)
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/quantity-and-weight/" >
+      จำนวนและน้ำหนักของสินค้า
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/assessment-request/" >
+      ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า
+  </a>
+
+</li>
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/transfer-of-goods/" >
+      การโอนย้ายของออกจากสิทธิประโยชน์
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/incentive-registration-no/" >
+      เลขทะเบียนสิทธิประโยชน์ทางภาษีอากร
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+  </ul>
+  
+
+
+
+  </li>
+
+
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/tax-incentive/section_29/" >
+      การคืนอากรตามมาตรา 29
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/tax-incentive/bond/" >
+      คลังสินค้าทัณฑ์บน
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/tax-incentive/freezone/" >
+      เขตปลอดอากร (Freezone)
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/tax-incentive/ieat/" >
+      เขตประกอบการเสรี
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/tax-incentive/compensate/" >
+      การชดเชยค่าภาษีอากร
+  </a>
+
+</li>
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/tax-incentive/boi/" >
+      การส่งเสริมการลงทุน(BOI)
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+  </ul>
+  
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/free-trade-area/" >
+      สิทธิพิเศษทางการค้า
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/service/" >
+      บริการ
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/price/" >
+      ราคาศุลกากร
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/interesting-facts/" >
+      สาระน่ารู้
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/customs-law/" >
+      กฎหมายศุลกากร
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/reference/" >
+      ข้อมูลอ้างอิง
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/company/" >
+      ผู้ประกอบการ
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/faq/" >
+      FAQ
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/customs/" >
+      กรมศุลกากร
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+  </ul>
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+<script>
+(function() {
+  var menu = document.querySelector("aside.book-menu nav");
+  addEventListener("beforeunload", function(event) {
+    localStorage.setItem("menu.scrollTop", menu.scrollTop);
+  });
+  menu.scrollTop = localStorage.getItem("menu.scrollTop");
+})();
+</script>
+
+    </aside>
+
+    <div class="book-page">
+      <header class="flex align-center justify-between book-header">
+  <label for="menu-control">
+    <img src="/knowledge-center/customs-clearance/svg/menu.svg" alt="Menu" />
+  </label>
+  <strong>ตรวจสอบทะเบียนผู้มาติดต่อ</strong>
+</header>
+
+      
+<article class="markdown">
+
+<h1 id="การตรวจสอบข-อม-ลใบขนส-นค-าขาเข-าและขาออก-ก-บระบบทะเบ-ยนผ-มาต-ดต-อ">การตรวจสอบข้อมูลใบขนสินค้าขาเข้าและขาออก กับระบบทะเบียนผู้มาติดต่อ</h1>
+
+<ol>
+<li><p>การตรวจสอบลายเซ็นอิเล็กทรอนิกส์ (Digital Signature) มีเงื่อนไขดังนี้</p>
+
+<ul>
+<li>VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของผู้นำเข้า/ผู้ส่งออก (Company Tax No) หรือ</li>
+<li>VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของตัวแทนออกของ (Broker Tax No)  หรือ</li>
+<li>VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของตัวแทนออกของรับจ้างช่วง (Sub Broker Tax Number) หรือ</li>
+<li>VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของ Company Tax No ของ Registration ID กรณีเป็น Service Counter เท่านั้น
+<br /></li>
+</ul></li>
+
+<li><p>การตรวจสอบความสัมพันธ์ของผู้นำเข้า/ผู้ส่งออกกับตัวแทนออกของ ต้องมีการว่าจ้างระหว่าง ผู้นำเข้า/ส่งออกกับตัวแทนออกของ จะตรวจสอบกับระบบทะเบียน ดังนี้</p>
+
+<ul>
+<li>ผู้นำเข้า/ผู้ส่งออกต้องว่าจ้างตัวแทนออกของ และ</li>
+<li>ตัวแทนออกของต้องได้รับจ้างผู้นำเข้า/ผู้ส่งออก</li>
+</ul></li>
+
+<li><p>การตรวจสอบความสัมพันธ์ของตัวแทนออกของรับจ้างช่วง กับตัวแทนออกของที่มีความสัมพันธ์กับ   ผู้นำเข้า/ผู้ส่งออก จะตรวจสอบกับระบบทะเบียน ดังนี้</p>
+
+<ul>
+<li>ผู้รับจ้างช่วงต้องได้รับการว่าจ้างจากตัวแทนออกของ และ</li>
+<li>ตัวแทนออกของต้องได้รับจ้างผู้นำเข้า/ผู้ส่งออก และ</li>
+<li>ผู้นำเข้า/ผู้ส่งออกต้องว่าจ้างตัวแทนออกของ
+<br /></li>
+</ul>
+
+<blockquote>
+<p><strong>สำหรับกรณีผู้นำเข้า/ผู้ส่งออก มีการมอบอำนาจให้ตัวแทนออกของทำการว่าจ้างช่วงได้</strong></p>
+</blockquote></li>
+
+<li><p>การตรวจสอบความสัมพันธ์ของ ผู้จัดการ/ผู้รับมอบอำนาจ (ช่อง Manager ID Card) กับผู้นำเข้า/ผู้ส่งออก หรือตัวแทนออกของ มีการตรวจสอบเฉพาะกรณีที่ส่งข้อมูลผ่านระบบของ Service Counter เท่านั้น จะตรวจสอบกับระบบทะเบียน ดังนี้</p>
+
+<ul>
+<li>ต้องเป็น ผู้จัดการ/ผู้รับมอบอำนาจ ของ ผู้ส่งออก/ผู้นำเข้า หรือ</li>
+<li>ต้องเป็น ผู้จัดการ/ผู้รับมอบอำนาจ ของ ตัวแทนออกของ หรือ</li>
+<li>ต้องเป็น ผู้จัดการ/ผู้รับมอบอำนาจ ของ ตัวแทนออกของผู้รับจ้างช่วง ของ ตัวแทนออกของ</li>
+</ul></li>
+</ol>
+</article>
+
+      <div class="book-footer justify-between">
+  
+
+  
+
+  
+  <div>
+    <a class="flex align-center" href="https://github.com/alex-shpak/hugo-book/edit/master/exampleSite/content/docs%5ctax-incentive%5ctax-incentive_guide%5cvisitor-registration.md" target="_blank">
+      <img src="/knowledge-center/customs-clearance/svg/edit.svg" alt="Edit" />
+      <span>Edit this page</span>
+    </a>
+  </div>
+  
+
+</div>
+
+      
+    </div>
+
+    
+  
+
+
+
+  </main>
+
+  
+</body>
+
+</html>

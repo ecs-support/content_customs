@@ -157,6 +157,7 @@ bookToc: false
 
 
 <script>
+
     function filterTable(event){
     var filter = event.target.value.toUpperCase();
     var rows = document.querySelector(".markdown table tbody").rows;

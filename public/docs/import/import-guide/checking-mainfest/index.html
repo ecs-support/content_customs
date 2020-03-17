@@ -5,11 +5,10 @@
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="26. การตัดบัญชีใบขนสินค้ากับรายงานการนำของเข้า"><meta property="og:title" content="26. การตัดบัญชีใบขนสินค้ากับรายงานการนำของเข้า" />
-<meta property="og:description" content="การตัดบัญชีใบขนสินค้ากับรายงานการนำของเข้า Table of Content
- การตรวจสอบข้อมูลใบขนสินค้ากับข้อมูล Manifest การตรวจสอบระหว่างใบขนสินค้ากับ Manifest เลขที่ใบอนุญาตให้ผ่านแดน (ศ.บ. 1) กรณีการนำเข้าทางบกที่ใช้ ศ.บ. 1 หลายฉบับ การตรวจสอบข้อมูลใบขนสินค้ากับข้อมูล Manifest  การยื่นใบขนสินค้าขาเข้าและการชำระค่าภาษีอากร หรือวางประกันค่าภาษีอากรสำหรับใบขนสินค้า ขาเข้าทุกประเภท ให้สามารถกระทำได้ทั้งก่อนและหลังวันเรือเข้า โดยผู้นำของเข้าหรือตัวแทนต้องสำแดงชื่อเรือ วันเรือเข้า ไว้ในใบขนสินค้าขาเข้า ให้ตรงตามข้อมูล Manifest
+<meta property="og:description" content="การตัดบัญชีใบขนสินค้ากับรายงานการนำของเข้า การตรวจสอบข้อมูลใบขนสินค้ากับข้อมูล Manifest  การยื่นใบขนสินค้าขาเข้าและการชำระค่าภาษีอากร หรือวางประกันค่าภาษีอากรสำหรับใบขนสินค้า ขาเข้าทุกประเภท ให้สามารถกระทำได้ทั้งก่อนและหลังวันเรือเข้า โดยผู้นำของเข้าหรือตัวแทนต้องสำแดงชื่อเรือ วันเรือเข้า ไว้ในใบขนสินค้าขาเข้า ให้ตรงตามข้อมูล Manifest
  กรณีที่มีการเปลี่ยนแปลงวันเรือเข้า ภายหลังการปฏิบัติพิธีการและชำระค่าภาษีอากรหรือวางประกันแล้ว
  หากเป็นเหตุให้มีการเปลี่ยนแปลงอัตราแลกเปลี่ยนเงินตราต่างประเทศ อัตราอากร ให้ผู้นำของเข้าหรือตัวแทนยื่นคำร้องขอแก้ไขข้อมูลใบขนสินค้าขาเข้านั้น ต่อหน่วยบริการศุลกากรของ ด่านศุลกากรที่นำของเข้า หรือโรงพักสินค้าหรือที่มั่นคงซึ่งเป็นที่ตรวจและเก็บสินค้าดังกล่าว กรณีมีผลกระทบค่าภาษีอากรให้ผู้นำของเข้าหรือตัวแทนชำระค่าภาษีอากรหรือวางประกันค่าภาษีอากรให้ถูกต้องก่อน แล้วจึงจะสามารถรับการตรวจปล่อยสินค้าต่อไป  ข้อมูลบัญชีสินค้า (Manifest)
-     Seq. Field Name Format Field Description     1 Vessel Name an..35 ชื่อยานพาหนะ   2 Discharge Port n." />
+     Seq. Field Name Format Field Description     1 Vessel Name an..35 ชื่อยานพาหนะ   2 Discharge Port n..4 รหัสสถานที่นำเข้า   3 Arrival Date n8 วันที่นำเข้า   4 Master Bill of Lading an." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/checking-mainfest/" />
 
@@ -17,10 +16,10 @@
 <link rel="icon" href="/knowledge-center/customs-clearance/favicon.png" type="image/x-icon">
 
 
-<link rel="stylesheet" href="/knowledge-center/customs-clearance/book.min.280727509a215f3170df19137f55af035ec34d8a82fe408c4c1bca87b90f31da.css" integrity="sha256-KAcnUJohXzFw3xkTf1WvA17DTYqC/kCMTBvKh7kPMdo=">
+<link rel="stylesheet" href="/knowledge-center/customs-clearance/book.min.4711656617c976a5ebc3388e498f5853d1f5f8f6316c7f8e96fb7d8b7550a71d.css" integrity="sha256-RxFlZhfJdqXrwziOSY9YU9H1&#43;PYxbH&#43;Olvt9i3VQpx0=">
 
 
-<script defer src="/knowledge-center/customs-clearance/en.search.min.fc038e1311e46f0a8aafae46850f984d38e6416e47cbda993f2fa90a60b7c6e3.js" integrity="sha256-/AOOExHkbwqKr65GhQ&#43;YTTjmQW5Hy9qZPy&#43;pCmC3xuM="></script>
+<script defer src="/knowledge-center/customs-clearance/en.search.min.6f01bf08472e498cf058a1817ead227cce1f4ca257c10ac5302e675ee1ba96f0.js" integrity="sha256-bwG/CEcuSYzwWKGBfq0ifM4fTKJXwQrFMC5nXuG6lvA="></script>
 
 <!--
 Made with Book Theme
@@ -598,8 +597,8 @@ https://github.com/alex-shpak/hugo-book
     
       
 
-  <a href="/knowledge-center/customs-clearance/docs/customs-service/" >
-      บริการศุลกากร
+  <a href="/knowledge-center/customs-clearance/docs/service/" >
+      บริการ
   </a>
 
 
@@ -626,6 +625,32 @@ https://github.com/alex-shpak/hugo-book
 
   <a href="/knowledge-center/customs-clearance/docs/price/" >
       ราคาศุลกากร
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/interesting-facts/" >
+      สาระน่ารู้
   </a>
 
 
@@ -773,32 +798,6 @@ https://github.com/alex-shpak/hugo-book
 
       
     
-      
-        
-
-  <li >
-    
-      
-
-  <a href="/knowledge-center/customs-clearance/docs/interesting-facts/" >
-      สาระน่ารู้
-  </a>
-
-
-    
-
-    
-
-
-
-
-
-
-  </li>
-
-
-      
-    
   </ul>
   
 
@@ -843,18 +842,6 @@ https://github.com/alex-shpak/hugo-book
 <article class="markdown">
 
 <h1 id="การต-ดบ-ญช-ใบขนส-นค-าก-บรายงานการนำของเข-า">การตัดบัญชีใบขนสินค้ากับรายงานการนำของเข้า</h1>
-
-<blockquote class="book-hint info">
-  <strong>Table of Content</strong></p>
-
-<ul>
-<li><a href="http://localhost:1313/knowledge-center/customs-clearance/docs/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%9A_manifest/#%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%82-%E0%B8%AD%E0%B8%A1-%E0%B8%A5%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%AA-%E0%B8%99%E0%B8%84-%E0%B8%B2%E0%B8%81-%E0%B8%9A%E0%B8%82-%E0%B8%AD%E0%B8%A1-%E0%B8%A5-manifest">การตรวจสอบข้อมูลใบขนสินค้ากับข้อมูล Manifest</a></li>
-<li><a href="http://localhost:1313/knowledge-center/customs-clearance/docs/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%9A_manifest/#%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7-%E0%B8%B2%E0%B8%87%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%AA-%E0%B8%99%E0%B8%84-%E0%B8%B2%E0%B8%81-%E0%B8%9A-manifest">การตรวจสอบระหว่างใบขนสินค้ากับ Manifest</a></li>
-<li><a href="http://localhost:1313/knowledge-center/customs-clearance/docs/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%9A_manifest/#%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%97-%E0%B9%83%E0%B8%9A%E0%B8%AD%E0%B8%99-%E0%B8%8D%E0%B8%B2%E0%B8%95%E0%B9%83%E0%B8%AB-%E0%B8%9C-%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99-%E0%B8%A8-%E0%B8%9A-1">เลขที่ใบอนุญาตให้ผ่านแดน (ศ.บ. 1)</a></li>
-<li><a href="http://localhost:1313/knowledge-center/customs-clearance/docs/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%9A_manifest/#%E0%B8%81%E0%B8%A3%E0%B8%93-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82-%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%81%E0%B8%97-%E0%B9%83%E0%B8%8A-%E0%B8%A8-%E0%B8%9A-1-%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%89%E0%B8%9A-%E0%B8%9A">กรณีการนำเข้าทางบกที่ใช้ ศ.บ. 1 หลายฉบับ</a></li>
-</ul>
-</blockquote>
-
 
 <h2 id="การตรวจสอบข-อม-ลใบขนส-นค-าก-บข-อม-ล-manifest">การตรวจสอบข้อมูลใบขนสินค้ากับข้อมูล Manifest</h2>
 

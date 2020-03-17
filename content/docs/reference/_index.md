@@ -10,16 +10,14 @@ bookToc: false
 
 ![](https://www.careeraddict.com/uploads/article/53728/Reference_20word_20written_20on_20wood_20block_201.jpg)
 
--   [อัตราแลกเปลี่ยน](/knowledge-center/customs-clearance/docs/reference/exchange-rate/)
+{{< button relref="/docs/reference/exchange-rate">}}อัตราแลกเปลี่ยน{{< /button >}}
+{{< button relref="/docs/reference/country">}}รหัสประเทศ{{< /button >}}
+{{< button relref="/docs/reference/area">}}รหัสสถานที่{{< /button >}}
+{{< button relref="/docs/reference/province">}}รหัสจังหวัด{{< /button >}}
+{{< button relref="/docs/reference/unit">}}รหัสหน่วยสินค้า{{< /button >}}
+{{< button relref="/docs/reference/package">}}ลักษณะหีบห่อ{{< /button >}}
+{{< button relref="/docs/reference/cartype">}}รหัสประเภทรถ{{< /button >}}
+{{< button relref="/docs/reference/exempt">}}รหัสยกเว้นไม่ต้องมีใบอนุญาต{{< /button >}}
+{{< button relref="/docs/reference/container-code">}}ขนาดและประเภทตู้สินค้า{{< /button >}}
 
--   [รหัสประเทศ](/knowledge-center/customs-clearance/docs/reference/country/)
 
--   [รหัสสถานที่](/knowledge-center/customs-clearance/docs/reference/area/)
-
--   [รหัสจังหวัด](/knowledge-center/customs-clearance/docs/reference/province/)
-
--   [รหัสหน่วยสินค้า](/knowledge-center/customs-clearance/docs/reference/unit/)
--   [ลักษณะหีบห่อ](/knowledge-center/customs-clearance/docs/reference/package/)
--   [รหัสประเภทรถ](/knowledge-center/customs-clearance/docs/reference/cartype/)
--   [รหัสยกเว้นไม่ต้องมีใบอนุญาต](/knowledge-center/customs-clearance/docs/reference/exempt/)
--   [ขนาดและประเภทตู้สินค้า](/knowledge-center/customs-clearance/docs/reference/container-code/)

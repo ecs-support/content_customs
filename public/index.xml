@@ -31,13 +31,26 @@
     
     <item>
       <title>e-Tracking</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs-service/e-tracking/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/service/e-tracking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs-service/e-tracking/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/service/e-tracking/</guid>
       <description>ระบบติดตามสถานะ การผ่านพิธีการศุลกากรทางอินเตอร์เน็ต (e-Tracking) e-Tracking เป็นระบบที่ให้บริการ การติดตามสถานะการผ่านพิธีการศุลกากรทางอินเตอร์เน็ตว่าอยู่ในสถานะใด เช่น ข้อมูลใบขนสินค้าขาเข้า, ใบขนสินค้าขาออก, ข้อมูลบัญชีสินค้าและข้อมูลใบกำกับการขนย้ายสินค้า เป็นต้น เพื่อนำไปใช้ในการวางแผนการทำงานในขั้นต่อไปได้รวดเร็วขึ้น และเป็นการอำนวยความสะดวกแก่ผู้ประกอบการไม่ว่า จะอยู่ ณ สถานที่แห่งใดสามารถสอบถามข้อมูลผ่านอินเตอร์เน็ตได้ตลอดเวลา
 ความเป็นมาของโครงการ กรมศุลกากรได้รับมอบหมายจากกระทรวงการคลังให้นำเทคโนโลยีที่ทันสมัยมาใช้ในการพัฒนาระบบการผ่านพิธีการศุลกากรเพื่ออำนวยความสะดวก ในการให้บริการแก้ผู้ประกอบการ ส่งเสริมการค้าระหว่างประเทศ และสร้างมิติใหม่ในการให้บริการของภาครัฐ ดังนั้น กรมศุลกากรจึงได้พัฒนา ระบบการผ่านพิธีการศุลกากรทางอิเล็กทรอนิกส์แบบไร้เอกสาร (Paperless) โดยได้เปิดใช้งานอย่างเต็มรูปแบบสำหรับการส่งออก ที่สำนักงานศุลกากรท่าเรือแหลมฉบังตั้งแต่วันที่ 1 กรกฏาคม 2550 และสำนักงานท่าอากาศยานสุวรรณภูมิ ตั้งแต่วันที่ 1 กันยายน 2550 และด่านศุลกากรต่างๆ ทั่วประเทศ ภายในปี 2550 ในการนำระบบอิเล็กทรอนิกส์มาใช้เพื่อพัฒนาระบบการทำงานและการให้การบริการแก่ประชาชน ถือเป็นพัฒนาการหนึ่งเพื่อก้าวเข้าสู่ระบบ e-Government และเป็นอีกขั้นหนึ่งของการให้บริการของภาครัฐที่สอดรับกับโลกยุคโลกาภิวัฒน์ ในเบื้องต้นทุกหน่วยงาน จะต้องมีเว็บไซต์เพื่อเป็นช่องทางใน การบริการข้อมูล ปัจจุบัน Web Site ของกรมศุลกากร (www.customs.go.th) ได้ให้บริการเผยแพร่ข้อมูล ข่าวสาร และประกาศต่างๆ ให้กับประชาชนทั่วไป
 เนื่องจากข้อมูลการนำเข้า-ส่งออก มีความสำคัญต่อสภาวะเศรษฐกิจที่สามารถบ่งชี้ถึงสภาวะการค้าและการลงทุนของประเทศ หากผู้ประกอบการสามารถติดตาม สถานะ การทำงานในการผ่านพิธีการศุลกากรทางอินเตอร์เน็ตว่าอยู่ในสถานะใด เพื่อนำไปใช้ในการวางแผนการทำงานขั้นตอนต่อไปได้รวดเร็วขึ้น และลดค่าใช้จ่าย จะทำให้ผู้ประกอบการสามารถแข่งขันกับประเทศต่างๆ ได้ กรมศุลกากร จึงจัดทำระบบการติดตามสถานะ การผ่านพิธีการศุลกากรทางอินเตอร์เนต (e-Tracking) ซึ่งเป็นอีกบริการที่จัดทำสนับสนุนระบบการผ่านพิธีการศุลกากรทางอิเล็กทรอนิกส์แบบไร้เอกสาร (Paperless) ให้มีความสมบูรณ์ยิ่งขึ้น และอำนวยความสะดวกให้กับประกอบการนำเข้าและส่งออก ผ่านระบบอิเล็กทรอนิกส์ทั้งขบวนการ</description>
+    </item>
+    
+    <item>
+      <title>การนำเข้ายากำพร้า</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/orphan-drugs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/orphan-drugs/</guid>
+      <description>การนำเข้ายากำพร้า ภาพโดย katicaj จาก Pixabay
+ยากำพร้าในประเทศไทยหมายถึง ยาที่มีความจำเป็นต้องใช้เพื่อวินิจฉัย บรรเทา บำบัด ป้องกัน หรือรักษาโรคที่พบได้น้อย หรือโรคที่เป็นอันตรายร้ายแรง หรือโรคที่ก่อให้เกิดความทุพพลภาพอย่างต่อเนื่อง หรือยาที่มีอัตราการใช้ต่ำ โดยไม่มียาอื่นมาใช้ทดแทนได้ และมีปัญหาการขาดแคลน
+สถานการณ์การขาดแคลนยาจำเป็น หรือ ยากำพร้า ทำให้ ครม. ได้อนุมัติยกเว้นภาษีนำเข้ายาประเภทนี้ เพื่อส่งเสริมให้ผู้ประกอบการจัดหายา และสร้างความมั่นคงให้ระบบยาของประเทศ โดยออก ประกาศกระทรวงการคลัง เรื่อง การลดอัตราอากรและยกเว้นอากรศุลกากร ตามมาตรา 12 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530 (ฉบับที่ 2) [ดาวน์โหลดประกาศ] กำหนดให้เพิ่มข้อความ (51) ในข้อ 3 ของ ประกาศกระทรวงการคลัง เรื่อง การลดอัตราอากรและยกเว้นอากรศุลกากร ตามมาตรา 12 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530 โดยมีใจความว่า ให้ยกเว้นอากรสำหรับผลิตภัณฑ์ยารักษาหรือป้องกันโรคในตอนที่ 30 เฉพาะที่ได้รับการขึ้นทะเบียนตำรับยาจากสำนักงานคณะกรรมการอาหารและยา กระทรวงสาธารณสุข และระบุ (P) ต่อท้ายในเลขทะเบียนตำรับยา เว้นแต่ยากำพร้าที่สามารถผลิตและหาได้ในประเทศไทย 11 รายการ ดังต่อไปนี้ ที่ไม่ได้รับยกเว้นอากร
+ เบนซาโทรพีนเมซิเลต Benzatropine mesilate
+ ไฮโดรคอร์ทิโซน Hydrocortisone</description>
     </item>
     
     <item>
@@ -83,6 +96,16 @@ E-Bill Payment
 ๑.กฎกระทรวงกำหนดด่านศุลกากรและด่านพรมแดน พ.ศ. ๒๕๖๐
 ๒.กฎกระทรวงกำหนดค่าธรรมเนียมและยกเว้นค่าธรรมเนียม พ.ศ. ๒๕๖๐
 ๓.กฎกระทรวงกำหนดการยื่นใบขนสินค้าและการเสียอากรสำหรับก๊าซธรรมชาติและพลังงานไฟฟ้าที่นำเข้ามาในหรือส่งออกไปนอกราชอาณาจักร พ.ศ. ๒๕๖๐</description>
+    </item>
+    
+    <item>
+      <title>คู่มือสำหรับประชาชนของกรมสรรพสามิต</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/excise_announcement_list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/excise_announcement_list/</guid>
+      <description>คู่มือสำหรับประชาชนของกรมสรรพสามิต ตามพระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560 (6 งาน 65 กระบวนงาน)
+1. งานจดทะเบียน  กระบวนงานที่ 1 การจดทะเบียน การเปลี่ยนแปลงข้อมูลที่จดทะเบียนแล้ว และการขอรับใบแทนใบทะเบียนสรรพสามิต กระบวนงานที่ 2 การขอย้าย/เลิก/โอน กิจการ  2. งานชำระภาษี  กระบวนงานที่ 3 การขออนุญาตนำสินค้าออกหรือกลับคืนโรงอุตสาหกรรม คลังสินค้าทัณฑ์บน หรือสถานที่อื่น (มาตรา 26 (1)(2) มาตรา 50 วรรคสอง (1) และมาตรา 103 วรรคสอง) กระบวนงานที่ 4 การขอนำรถยนต์ออกจากโรงอุตสาหกรรมหรือคลังสินค้าทัณฑ์บนเพื่อทดสอบประสิทธิภาพในระหว่างขั้นตอนการผลิต กระบวนงานที่ 5 การขออนุญาต การขอใบแทนใบอนุญาต และการขอเลิก สถานแสดงรถยนต์เพื่อขาย กระบวนงานที่ 6 การขอใบอนุญาตตั้ง ขอรับใบแทนใบอนุญาต ขอโอน และขอเลิกกิจการ คลังสินค้าทัณฑ์บน กระบวนงานที่ 7 การขอชำระภาษีสรรพสามิตกรณีดัดแปลงรถยนต์ กระบวนงานที่ 8 การขอชำระภาษีภายในวันที่สิบห้าของเดือนถัดจากเดือนที่นำสินค้าออกจากโรงอุตสาหกรรมหรือคลังสินค้าทัณฑ์บนโดยมีหลักประกัน  3. งานคืน ยกเว้น และลดหย่อนภาษี  กระบวนงานที่ 9 การขออนุมัติลดหย่อนภาษีสรรพสามิต กระบวนงานที่ 10 การยกเว้นหรือคืนภาษีสำหรับสินค้าที่ส่งออกไปนอกราชอาณาจักรหรือนำเข้าไปในเขตปลอดอากร กระบวนงานที่ 11 การยกเว้นภาษีสำหรับสินค้าที่นำไปเก็บไว้ ณ สถานที่เก็บสินค เพื่อรอการส่งออกไปนอกราชอาณาจักรหรือนำเข้าไปในเขตปลอดอากร ตามมาตรา 103 และการยกเว้นภาษีน้ำมันและผลิตภัณฑ์น้ำมันที่นำไปเก็บไว้ ณ สถานที่เก็บสินค้าเพื่อรอนำไปใช้เติมเรือไปต่างประเทศ ตามมาตรา 107 (4) กระบวนงานที่ 12 การขอยกเว้นภาษีสำหรับสินค้าที่นำไปใช้เป็นวัตถุดิบ หรือส่วนประกอบในการผลิตสินค้า กระบวนงานที่ 13 การยกเว้นหรือคืนภาษีสำหรับสินค้าบริจาค ตามมาตรา 107 (1) และ (2) กระบวนงานที่ 14 การยกเว้นหรือคืนภาษีสำหรับสินค้าที่จำหน่ายให้แก่ผู้ได้รับเอกสิทธิ์ ตามมาตรา 107 (3) กระบวนงานที่ 15 การยกเว้นภาษีสำหรับสุรากลั่นชนิดเอทานอลที่นำไปใช้เป็นวัตถุดิบหรือส่วนประกอบในการผลิตน้ำมันเชื้อเพลิงเพื่อใช้เป็นเชื้อเพลิง กระบวนงานที่ 16 การยกเว้นหรือคืนภาษีสำหรับน้ำมันและผลิตภัณฑ์น้ำมันที่เติมในอากาศยานหรือเรือที่มีขนาดเกินกว่าห้าร้อยตันกรอสส์ ตามมาตรา 107 (4) กระบวนงานที่ 17 การขอเสียภาษีในอัตราศูนย์สำหรับน้ำมันดีเซลที่นำไปจำหน่ายในเขตต่อเนื่องของราชอาณาจักร กระบวนงานที่ 18 การขอเสียภาษีในอัตราศูนย์สำหรับน้ำมันเชื้อเพลิงเครื่องบินไอพ่นที่นำไปใช้เป็นเชื้อเพลิงสำหรับอากาศยานไปต่างประเทศ กระบวนงานที่ 19 การขอเสียภาษีในอัตราศูนย์สำหรับน้ำมันและลิตภัณฑ์น้ำมันที่นำไปใช้เป็นวัตถุดิบหรือส่วนประกอบในการผลิตในโรงอุตสาหกรรมน้ำมันและผลิตภัณฑ์น้ำมัน กระบวนงานที่ 20 การขอเสียภาษีอัตราศูนย์สำหรับรถยนต์นั่งหรือรถยนต์โดยสารที่มีที่นั่ง ไม่เกิน 10 คนที่ใช้เป็นรถพยาบาล กระบวนงานที่ 21 การขอคืนภาษี สำหรับสินค้าที่พิสูจน์ได้ว่าเสียหายหรือเสื่อมคุณภาพจนใช้การไม่ได้ กระบวนงานที่ 22 การขออนุมัติเป็นผู้วิจัย พัฒนา หรือทดสอบสมรรถนะรถยนต์หรือรถจักรยานยนต์ตันแบบ กระบวนงานที่ 23 การขอเสียภาษีอัตราศูนย์สำหรับรถยนต์หรือรถจักรยานยนต์ต้นแบบที่นำไปวิจัย พัฒนา หรือทดสอบสมรรถนะ กระบวนงานที่ 24 การขอทำลายรถยนต์หรือรถจักรยานยนต์ต้นแบบที่ใช้ในการวิจัย พัฒนา หรือทดสอบสมรรถนะ กระบวนงานที่ 25 การขออนุมัติสถานที่เก็บสินค้า กระบวนงานที่ 26 การขอเสียภาษีในอัตราศูนย์สำหรับสินค้าน้ำมันหล่อลื่นและน้ำมันที่คล้ายกันของผู้ประกอบอุตสาหกรรมหรือผู้นำเข้าเพื่อนำไปใช้เป็นวัตถุดิบในการผลิตสิ่งของอื่น กระบวนงานที่ 27 การขออนุญาตเป็นตัวแทนจำหน่ายน้ำมันหล่อลื่นหรือผู้ใช้น้ำมันหล่อลื่นซึ่งได้รับสิทธิเสียภาษีในอัตราศูนย์ที่นำไปใช้เป็นวัตถุดิบในการผลิตสิ่งของอื่น กระบวนงานที่ 28 การขอเสียภาษีในอัตราศูนย์สำหรับผู้ประกอบอุตสาหกรรมหรือผู้นำเข้าสารละลายประเภทไฮโดรคาร์บอนเพื่อนำไปใช้ในอุตสาหกรรมต่าง ๆ กระบวนงานที่ 29 การขออนุญาตเป็นตัวแทนในการซื้อสารละลายประเภทไฮโดรคาร์บอนเพื่อจำหน่ายหรือผู้ใช้สารละลายประเภทไฮโดรคาร์บอนซึ่งเสียภาษีในอัตราศูนย์ ที่นำไปใช้ในอุตสาหกรรมต่าง ๆ กระบวนงานที่ 30 การขอเสียภาษีในอัตราศูนย์สำหรับแบตเตอรี่ที่ใช้เป็นวัตถุดิบหรือส่วนประกอบในการผลิตสิ่งของอื่น เพื่อส่งออกนอกราชอาณาจักร กระบวนงานที่ 31 การขอลงทะเบียนเป็นผู้ใช้แบตเตอรี่ที่เสียภาษีอัตราศูนย์สำหรับแบตเตอรี่ที่ใช้เป็นวัตถุดิบหรือส่วนประกอบในการผลิตสิ่งของอื่นเพื่อการส่งออกนอกราชอาณาจักร  4.</description>
     </item>
     
     <item>
@@ -146,25 +169,11 @@ E-Bill Payment
     
     <item>
       <title>โครงสร้างข้อมูลใบขนสินค้าขาออก</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/data_structure_export/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/data_structure_export/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/data_structure_export/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/data_structure_export/</guid>
       <description>โครงสร้างข้อมูลใบขนสินค้าขาออกโอนย้ายภายในประเทศ โครงสร้างข้อมูลใบขนสินค้าขาออกโอนย้ายภายในประเทศ แบ่งได้เป็น 6 ส่วนดังนี้  Export Declaration Control ประกอบด้วย 70 Fields Export Invoice Control ประกอบด้วย 35 Fields Export Invoice Detail ประกอบด้วย 73 Fields Export Invoice Detail (Duty) ประกอบด้วย 12 Fields Export Invoice Detail (Permit) ประกอบด้วย 4 Fields Export Invoice Detail (Deposit) ประกอบด้วย 2 Fields  เงื่อนไขการบันทึกข้อมูล ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้  หาก Field ใด กำหนดให้ต้องระบุค่า (Value = M) แต่ผู้บันทึกไม่สามารถหาข้อมูลได้ สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์) หาก Field ใด กำหนดให้ไม่ต้องระบุค่า (Value = O) และผู้บันทึกไม่สามารถหาข้อมูลได้ ก็ไม่ต้องบันทึกค่าใด ๆ หาก Field ใด กำหนดให้ต้องระบุค่า เมื่อเข้าเงื่อนไขที่กำหนด (Value = C) แต่ผู้บันทึกไม่สามารถหาข้อมูลได้ สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)   อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล    อักษรย่อ คำอธิบาย     n3 ข้อมูลชนิดตัวเลข (Numeric Characters) คงที่ คือ 3 ตัวอักษร   a3 ข้อมูลชนิดตัวอักษร (Alphabetic Characters) คงที่ คือ 3 ตัวอักษร   an3 ข้อมูลชนิดตัวอักษรหรือตัวเลข คงที่ คือ 3 ตัวอักษร   n.</description>
-    </item>
-    
-    <item>
-      <title>โครงสร้างราคาขายปลีกแนะนำ</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B8%81%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B8%81%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3/</guid>
-      <description> โครงสร้างราคาขายปลีกแนะนำ  ต้นทุนการผลิต
-1.1 ในกรณีสินค้าที่ผลิตในราชอาณาจักร หมายถึง ต้นทุนทั้งหมดที่มีอยู่ในการผลิตสินค้า ซึ่งได้แก่ ค่าวัตถุดิบ ค่าแรงงาน และค่าใช้จ่ายอื่นที่ใช้ในกระบวนการผลิต 1.2 ในกรณีสินค้านำเข้า หมายถึง ราคาของสินค้าและค่าใช้จ่ายที่ใช้ในการนำเข้าสินค้ามาในราชอาณาจักร ซึ่งได้แก่ ราคา ซี.ไอ.เอฟ. อากรศุลกากร และค่าใช้จ่ายอื่นที่ใช้ในการดำเนินพิธีการศุลกากร
- ค่าบริหารจัดการ หมายถึง ค่าใช้จ่ายในสำนักงาน ซึ่งได้แก่ ค่าโฆษณา ค่าขนส่ง ค่าประกันภัย ค่าภาษีสรรพสามิต ค่าภาษีอื่น ที่จัดเก็บจากการขายสินค้านั้น ค่าธรรมเนียม (ในการรับฝากของในอารักขาศุลกากร) เงินบำรุงกองทุนหรือองค์การตามที่กฎหมาย กำหนดให้เรียกเก็บจากผู้มีหน้าที่เสียภาษีสำหรับสินค้านั้น และค่าใช้จ่ายอื่นที่เกี่ยวข้องกับการการบริหารการขายสินค้าผู้ประกอบอุตสาหกรรมหรือผู้นำเข้า
- กำไรมาตรฐาน หมายถึง ให้พิจารณาจากราคาขายปลีกแนะนำหักต้นทุนการผลิตและค่าบริหารจัดการ
-    ที่มา : กรมสรรพสามิต - Link 1 - Link 2
- </description>
     </item>
     
     <item>
@@ -184,6 +193,16 @@ E-Bill Payment
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/price/incoterms/incoterms-2010/</guid>
       <description>ข้อตกลงในการส่งมอบสินค้าระหว่างประเทศ (Incoterms®2010) Incoterms (International Commercial Terms) เป็นข้อกำหนดการส่งมอบสินค้า (Term of Shipment) ระหว่างผู้ซื้อกับผู้ขายที่เป็นสากล ซึ่งกำหนดขึ้นโดยหอการค้านานาชาติ (International Chamber Of Commerce - ICC) ได้มีการประชุมบรรดาสมาชิกของหอการค้า นานาชาติทุก 10 ปี เพื่อวางกฎเกณฑ์ข้อตกลงในการส่งมอบสินค้าระหว่างประเทศ (International Commercial Terms: INCOTERMS) เริ่มใช้ในปี ค.ศ. 1936 (พ.ศ. 2479) ต่อมาได้มีการแก้ไขเพิ่มเติมอีกหลายครั้ง ตั้งแต่ปี ค.ศ. 1953, 1967, 1980, 1990, 2000 และฉบับปัจจุบันปรับปรุงแก้ไขเพิ่มเติมเมื่อปี ค.ศ. 2010 (เริ่มใช้เมื่อ 1 มกราคม 2011) เพื่อให้กฎเกณฑ์ดังกล่าวสอดคล้องกับหลักปฏิบัติทางการค้าเทคโนโลยี การสื่อสารทางอิเล็กทรอนิกส์ และระบบ Logistic and Supply Chain ที่พัฒนาและเปลี่ยนแปลงไป โดยกำหนดให้ขอบเขตของ INCOTERMS 2010 จำกัดอยู่เฉพาะเรื่อง ที่เกี่ยวข้องกับสิทธิและหน้าที่ ของคู่สัญญาซื้อขายในเรื่องการส่งมอบสินค้าที่ขาย ประกอบด้วย 11 ข้อตกลง ซึ่งได้แก่
  EXW (Ex Works) FCA (Free Carrier) FAS (Free Alongside Ship) FOB (Free on Board) CFR (Cost and Freight) CIF (Cost Insurance and Freight) CPT (Carriage Paid to) CIP (Carriage Insurance Paid to) DAT (Delivered at Terminal) DAP (Delivered at Place) DDP (Delivered Duty Paid)  แบ่งตามรูปแบบการขนส่งสินค้า  กลุ่มการขนส่งรูปแบบใดรูปแบบหนึ่งหรือหลายรูปแบบ (Multimodal transport) มี 7 เงื่อนไข คือ EXW, FCA, CPT, CIP, DAT, DAP และ DDP</description>
+    </item>
+    
+    <item>
+      <title>National Single Window (NSW)</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/service/thai-nsw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/service/thai-nsw/</guid>
+      <description>ระบบ National Single Window (NSW) ระบบ National Single Window (NSW) เป็นระบบการบริการเชื่อมโยงข้อมูลหน่วยงานภาครัฐและภาคธุรกิจ (G2G,G2B และ B2B) สำหรับการเข้า ส่งออก และโลจิสติกส์ รองรับการเชื่อมโยงข้อมูลระหว่างประเทศสมาชิกอาเซียน และประเทศในภูมิภาคอื่นๆ ซึ่งเป็นระบบบริการแบบอัตโนมัติและกึ่งอัตโนมัติควบคู่ไปกับการปฏิรูปกระบวนการและขั้นตอนการให้บริการ และการลดรูปเอกสาร โดยอำนวยความสะดวกให้ผู้ใช้บริการสามารถทำธุรกรรมทางอิเล็กทรอนิกส์กับหน่วยงานภาครัฐ และภาคธุรกิจทางอิเล็กทรอนิกส์แบบปลอดภัยและไร้เอกสาร รวมถึงการใช้ข้อมูลร่วมกันกับทุกองค์กรที่เกี่ยวข้อง และการเชื่อมโยงข้อมูลใบอนุญาตและใบรับรองระหว่างหน่วยงานภาครัฐภายในประเทศและระหว่างประเทศ โดยผู้ใช้บริการทั้งภาครัฐและภาคธุรกิจสามารถติดตามผลในทุกๆ ขั้นตอนของการดำเนินงานนำเข้า ส่งออกและการอนุมัติต่างๆผ่านทางอินเทอร์เน็ตได้ (e-Tracking) ทุกวันและตลอดเวลา 24 ชั่วโมง
+กำเนิดระบบ National Single Window (NSW) ของประเทศ กรมศุลกากร ได้เริ่มนำแนวคิดของ Single Window มาประยุกต์ใช้สำหรับการนำเข้าการส่งออกมาตั้งแต่ปี 2541 โดยพัฒนาบริการศุลกากรจากระบบเอกสารกระดาษเป็นระบบการแลกเปลี่ยนเอกสารในรูปแบบ อิเล็กทรอนิกส์ หรือ Electronic Data Interchange: EDI และสามารถให้บริการระบบ EDI ทั่วประเทศในปี พ.ศ. 2543 ซึ่งระบบดังกล่าวเป็นส่วนหนึ่งของการพัฒนาระบบ National Single Window (NSW) ของประเทศไทยที่มีการเชื่อมโยงข้อมูลระหว่างกรมศุลกากรและผู้นำเข้า ผู้ส่งออก ตัวแทนออกของ ตัวแทนผู้รับขนส่งสินค้า บริษัทเรือ สายการบิน และธนาคารต่างๆ และต่อมาพัฒนาเป็นระบบศุลกากรอิเล็กทรอนิกส์ไร้เอกสาร (e-Customs) ให้บริการ ทั่วประเทศตั้งแต่เดือนกรกฎาคม 2551 ซึ่งเป็นความสำเร็จส่วนหนึ่งของการพัฒนาระบบ NSW ของประเทศ และส่งผลให้การจัดอันดับของธนาคารโลกเกี่ยวกับการอำนวยความสะดวกทางด้านการค้าระหว่างประเทศของไทยดี มากขึ้นตามลำดับ มติคณะรัฐมนตรีลงวันที่ 6 ธันวาคม พ.</description>
     </item>
     
     <item>
@@ -207,12 +226,39 @@ E-Bill Payment
     </item>
     
     <item>
+      <title>ประกาศกรมสรรพสามิต แยกตามประเภทสินค้าและบริการ</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/excise_announcement_product_list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/excise_announcement_product_list/</guid>
+      <description>ประกาศกรมสรรพสามิตที่ออกตามความในกฎกระทรวงกำหนดพิกัดอัตราภาษีสรรพสามิต พ.ศ. 2560 และที่แก้ไขเพิ่มเติม รวมถึงประกาศ/ระเบียบ/คำสั่งอื่น ๆ ที่เกี่ยวข้อง แยกตามประเภทสินค้าและบริการ 1. สินค้าน้ำมันและผลิตภัณฑ์น้ำมัน  ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์และเงื่อนไข สำหรับน้ำมันแก๊สโซฮอลล์ และน้ำมันดีเซลที่มีไบโอดีเซลผสม
+ ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับน้ำมันเชื้อเพลิง เครื่องบินไอพ่นที่นำไปใช้เป็นเชื้อเพลิงสำหรับอากาศยานไปต่างประเทศ
+ ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับน้ำมันดีเซล ที่นำไปจำหน่ายในเขตต่อเนื่องของราชอาณาจักร
+ ระเบียบกรมสรรพสามิต ว่าด้วยหลักเกณฑ์ วิธีการ และเงื่อนไขในการเติมสาร Marker ในน้ำมันดีเซล พ.ศ. 2560
+  ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับน้ำมันดีเซลที่ใช้ เป็นเชื้อเพลิงในเรือเดินทางไปกลับ ในเขตพื้นที่พัฒนาร่วมไทย-มาเลเซีย
+ ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไข การเสียภาษีในอัตราศูนย์สำหรับ ก๊าซปิโตรเลียมเหลว (แอล.พี.จี.) ก๊าซโพรเพน และก๊าซที่คล้ายกันที่ใช้ในการผลิตกระแสไฟฟ้าและขายไฟฟ้าทั้งหมดให้แก่การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย
+ ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ วิธีการ และเงื่อนไข ในการใช้ผลิตภัณฑ์ที่เป็นของผสมปิทูเมนเป็นเชื้อเพลิง ในการผลิตกระแสไฟฟ้าและขายไฟฟ้าทั้งหมดให้แก่การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย
+ ประกาศกรมสรรพสามิต เรื่อง กำหนดคุณสมบัติสารละลายประเภทไฮโดรคาร์บอน (Hydrocarbon Solvent) และน้ำมันหล่อลื่น และน้ำมันที่คล้ายกัน</description>
+    </item>
+    
+    <item>
       <title>ผู้ประกอบการระดับมาตรฐานเออีโอ</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/company/aeo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/company/aeo/</guid>
       <description>ผู้ประกอบการระดับมาตรฐานเออีโอ (Authorized Economic Operator: AEO) สืบเนื่องจากเหตุการณ์ก่อการร้ายเมื่อวันที่ 11 กันยายน 2544 (เหตุการณ์ 9 /11) ทำให้องค์การศุลกากรโลก (World Customs Organization:WCO) ตระหนักถึงระบบความปลอดภัยทางโลจิสติกส์และการค้าระหว่างประเทศ โดยให้ความสำคัญในกระบวนการรักษาความปลอดภัยตั้งแต่ต้นทางของการขนส่ง จึงได้กำหนดกรอบมาตรฐานในการรักษาความปลอดภัย และการอำนวยความสะดวกทางการค้าระหว่างประเทศ เรียกว่า SAFE Framework of Standards to Secure and Facilitate Global Trade (WCO SAFE FoS) ซึ่งหนึ่งในกลไกสำคัญของ WCO SAFE FoS คือ โครงการ Authorized Economic Operator: AEO ทั้งนี้ ประเทศสมาชิก WCO ต่างแสดงเจตจำนงเข้าร่วมโครงการดังกล่าว โดยประเทศไทยในฐานะสมาชิก WCO ได้รับนโยบายนี้มาตั้งแต่ปี 2549 และกรมศุลกากรได้ลงนามใน Letter of Intent เมื่อวันที่ 9 พฤษภาคม 2549 เพื่อแสดงเจตนารมณ์ในการนำ WCO SAFE FoS มาใช้กระตุ้นให้ศุลกากรและภาคเอกชนตระหนักถึงความปลอดภัยในการขนส่งสินค้าระหว่างประเทศ โดยได้ดำเนินการมาตั้งแต่ปี พ.ศ. 2550 และยังคงมีความก้าวหน้ามาอย่างต่อเนื่อง</description>
+    </item>
+    
+    <item>
+      <title>พ.ร.บ.ศุลกากร 2560 ปรับตัวอย่างไร?</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/thai-customs-act-2560/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/thai-customs-act-2560/</guid>
+      <description>พ.ร.บ.ศุลกากร 2560 ส่งออก-นำเข้า-คลังสินค้า-ชิปปิ้ง ปรับตัวอย่างไร 10 ปีที่ผ่านมา มีผู้ประกอบการจำนวนมาก ทั้งที่เจตนาและไม่เจตนา กระทำความผิดตามพระราชบัญญัติศุลกากร พ.ศ. 2469 จ่ายค่าปรับ 2-4 เท่าของมูลค่าสินค้าหรือค่าภาษีที่ยังจ่ายไม่ครบถ้วนให้กรมศุลกากร คิดเป็นมูลค่า 31,432 ล้านบาท เงินจำนวนนี้นำมาจัดสรรให้ผู้แจ้งเบาะแส (สายสืบ) 3,939 ล้านบาท และจ่ายเป็นเงินรางวัลเจ้าหน้าที่ผู้จับกุม (ศุลกากร, ตำรวจ, ดีเอสไอ) 4,576 ล้านบาท ส่วนที่เหลือนำส่งเป็นรายได้แผ่นดินประมาณ 22,918 ล้านบาท
+ต่อมา กลุ่มผู้ประกอบการได้รับความเดือดร้อน ทำหนังสือร้องเรียนผ่านสภาอุตสาหกรรมแห่งประเทศไทยและหอการค้าไทยส่งถึงรัฐบาลนายอภิสิทธิ์ เวชชาชีวะ ขอให้รัฐบาลแก้ไขปรับปรุง พ.ร.บ.ศุลกากร พ.ศ. 2469 แก้ไขระเบียบการจ่ายเงินสินบน-รางวัล เพื่อลดแรงจูงใจเจ้าหน้าที่ศุลกากร รวมทั้งแก้ไขกฎระเบียบที่มีความคลุมเครือ เปิดช่องให้มีการใช้ดุลยพินิจ กระทรวงการคลังใช้เวลายกร่างกฎหมาย 2 ปี เสนอคณะรัฐมนตรีผ่านความเห็นชอบหลักการ แต่ยังไม่ทันได้เสนอที่ประชุมรัฐสภา รัฐบาลนายอภิสิทธิ์ประกาศยุบสภา รัฐบาล น.ส.ยิ่งลักษณ์ ชินวัตร นำร่างกฎหมายดังกล่าวนี้เข้าที่ประชุม ครม. ถึง 3 ครั้ง ยังไม่ทันได้เสนอต่อที่ประชุมรัฐสภา รัฐบาล น.ส.ยิ่งลักษณ์ประกาศยุบสภาอีก
+จนกระทั่งมาถึงยุค คสช. รัฐบาล พล.อ. ประยุทธ์ จันทร์โอชา นำร่างกฎหมายฉบับนี้ขึ้นมาปัดฝุ่นอีกครั้ง และผ่านความเห็นชอบจาก ครม. ครั้งแรกวันที่ 21 กรกฎาคม 2558 ส่งให้คณะกรรมการกฤษฎีกาตรวจทานถ้อยคำเสร็จเรียบร้อย ก็ส่งให้ที่ประชุมสภานิติบัญญัติแห่งชาติ (สนช.</description>
     </item>
     
     <item>
@@ -270,21 +316,11 @@ E-Bill Payment
     </item>
     
     <item>
-      <title>สืบค้นรหัสสินค้าสรรพสามิต</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B8%95/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B8%95/</guid>
-      <description> สืบค้นรหัสสินค้าสรรพสามิตสำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ สืบค้นตามชนิดสินค้า
-   ชนิดสินค้า ชื่อสินค้า     ตอนที่ 1 สินค้าน้ำมันและผลิตภัณฑ์น้ำมัน   ตอนที่ 2 สินค้าเครื่องดื่ม   ตอนที่ 3 สินค้าเครื่องไฟฟ้า   ตอนที่ 4 สินค้าแบตเตอรี่   ตอนที่ 5 สินค้าแก้วและเครื่องแก้ว   ตอนที่ 6 สินค้ารถยนต์   ตอนที่ 7 สินค้ารถจักรยานยนต์   ตอนที่ 8 สินค้าเรือ   ตอนที่ 9 สินค้าผลิตภัณฑ์เครื่องหอมและเครื่องสำอาง   ตอนที่ 10 สินค้าพรมและสิ่งทอปูพื้น   ตอนที่ 11 สินค้าหินอ่อนและหินแกรนิต   ตอนที่ 12 สินค้าทำลายชั้นบรรยากาศโอโซน   ตอนที่ 13 สินค้าสุรา   ตอนที่ 14 สินค้ายาสูบ   ตอนที่ 15 สินค้าไพ่   ตอนที่ 16 สินค้าอื่่น ๆ   ALL ค้นหาทั้งหมด    </description>
-    </item>
-    
-    <item>
       <title>โครงสร้างข้อมูลใบขนสินค้าขาเข้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/data_structure_import/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/data_structure_import/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/data_structure_import/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/data_structure_import/</guid>
       <description>โครงสร้างข้อมูลใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ โครงสร้างข้อมูลใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ แบ่งได้เป็น 6 ส่วนดังนี้  Import Declaration Control ประกอบด้วย 73 Fields Import Invoice Control ประกอบด้วย 35 Fields Import Invoice Detail ประกอบด้วย 76 Fields Import Invoice Detail (Duty) ประกอบด้วย 14 Fields Import Invoice Detail (Permit) ประกอบด้วย 3 Fields Import Invoice Detail (Deposit) ประกอบด้วย 2 Fields  เงื่อนไขการบันทึกข้อมูล ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้  หาก Field ใด กำหนดให้ต้องระบุค่า (Value = M) แต่ผู้บันทึกไม่สามารถหาข้อมูลได้ สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์) หาก Field ใด กำหนดให้ไม่ต้องระบุค่า (Value = O) และผู้บันทึกไม่สามารถหาข้อมูลได้ ก็ไม่ต้องบันทึกค่าใด ๆ หาก Field ใด กำหนดให้ต้องระบุค่า เมื่อเข้าเงื่อนไขที่กำหนด (Value = C) แต่ผู้บันทึกไม่สามารถหาข้อมูลได้ สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)   อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล    อักษรย่อ คำอธิบาย     n3 ข้อมูลชนิดตัวเลข (Numeric Characters) คงที่ คือ 3 ตัวอักษร   a3 ข้อมูลชนิดตัวอักษร (Alphabetic Characters) คงที่ คือ 3 ตัวอักษร   an3 ข้อมูลชนิดตัวอักษรหรือตัวเลข คงที่ คือ 3 ตัวอักษร   n.</description>
     </item>
     
@@ -295,17 +331,6 @@ E-Bill Payment
       
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/declaration-no/</guid>
       <description> รูปแบบเลขที่ใบขนสินค้า </description>
-    </item>
-    
-    <item>
-      <title>การคำนวณภาษีสินค้าสรรพสามิต</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B8%95/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B8%95/</guid>
-      <description>การคำนวณภาษีสินค้าสรรพสามิต การคำนวณภาษีสินค้าสรรพสามิต ในกรณีสินค้าทั่วไป (ยกเว้นสินค้าในหมวด สุรา ยาสูบ และเครื่องดื่ม) เมื่อกำหนดพิกัดสรรพสามิตและบันทึกข้อมูลตามปกติ โปรแกรมจะคำนวณภาษีสรรพสามิต และภาษีเพื่อมหาดไทยให้โดยอัตโนมัติ
-กรณีเป็นสินค้าในหมวด สุรา ยาสูบ และเครื่องดื่ม เมื่อผู้ใช้งานกำหนดพิกัดสรรพสามิตถูกต้อง ต้องเข้าไปบันทึกรายละเอียดเพิ่มเติม ตามรายละเอียดของแต่ละหมวดสินค้ามีรายละเอียดดังนี้
-สุรา ยาสูบ เครื่องดื่ม เครื่องดื่มชนิดผง เกล็ด  พิกัดอัตราภาษีสรรพสามิต สำหรับสินค้าเครื่องดื่มชนิดผง เกล็ด หรือเครื่องดื่มเข้มข้น ตามพระราชกฤษฎีกากำหนดประเภทสินค้าตามพิกัดอัตราภาษีสรรพสามิต พ.ศ. 2560 คือ 16.90(1) ผลิตภัณฑ์ที่ใช้เป็นเครื่องดื่มที่มีลักษณะผง เกล็ด หรือเครื่องดื่มเข้มข้นที่มีส่วนผสมของน้ำตาลและสามารถละลายน้ำได้ แต่ไม่รวมถึงผลิตภัณฑ์เสริมอาหารและผลิตภัณฑ์นมที่อยู่ในรูปแบบผงตามกฎหมายว่าด้วยอาหาร ในช่อง &amp;ldquo;ปริมาณตามข้อแนะนำ&amp;rdquo; ให้ใส่ข้อมูล &amp;ldquo;ปริมาตรหรือน้ำหนักของผงหรือเกล็ดเครื่องดื่มที่ใช้ในการชงแต่ละครั้งตามข้อแนะนำ&amp;rdquo; ที่ระบุไว้ข้างภาชนะบรรจุภัณฑ์ ในกรณีที่เครื่องดื่มผงหรือเกล็ดบรรจุอยู่ในซองแบบชงเครื่องดื่มหนึ่งแก้วต่อหนึ่งซอง น้ำหนัก (ปริมาณ) ผงหรือเกล็ดตามข้อแนะนำ เท่ากับ น้ำหนักสุทธิ เช่น 1 ซอง (17.5 กรัม) ในช่อง &amp;ldquo;ปริมาตรหลังผสม&amp;rdquo; ให้ใส่ข้อมูล &amp;ldquo;ปริมาตรของน้ำหรือของเหลวที่ใช้ผสมกับเครื่องดื่มผงหรือเกล็ดตามคำแนะนำหรือวิธีการชง&amp;rdquo; ที่ระบุไว้ที่ข้างภาชนะบรรจุภัณฑ์ เช่น 130 มล./แก้ว ในช่อง &amp;ldquo;น้ำหนัก/ภาชนะ(กรัม)&amp;rdquo; ให้ใส่ข้อมูล &amp;ldquo;น้ำหนัก (ปริมาณ) ของผงหรือเกล็ดเครื่องดื่มสุทธิต่อภาชนะ&amp;rdquo; ที่ระบุไว้ที่ภาชนะบรรจุภัณฑ์ ในช่อง &amp;ldquo;จำนวนภาชนะ&amp;rdquo; ให้ใส่ข้อมูล &amp;ldquo;จำนวนภาชนะทั้งหมด&amp;rdquo; หากข้างขวดหรือที่ฉลากไม่ได้แจ้งข้อมูลใด ๆ ก็ตามข้างต้น ให้ผู้ประกอบอุตสาหกรรมเป็นผู้แจ้งสำแดงข้อมูลของตนเองให้ครบถ้วน เพื่อประกอบการพิจารณาคำนวณภาษีสรรพสามิต ภาษีสรรพสามิตต่อภาชนะบรรจุดังกล่าวที่ตารางคำนวณออกมาได้นั้น เป็นภาษีสรรพสามิตแต่เพียงอย่างเดียวเท่านั้น ยังไม่ได้รวมภาษีเพิ่มขึ้นเพื่อราชการส่วนท้องถิ่น หลักเกณฑ์และวิธีการคำนวณดังกล่าวข้างต้นเป็นไปตามหนังสือสำนักแผนภาษี ด่วนที่สุดที่ กค 0619/1288 ลงวันที่ 2 พฤศจิกายน 2560  เครื่องดื่มเข้มข้น  พิกัดอัตราภาษีสรรพสามิต สำหรับสินค้าเครื่องดื่มชนิดผง เกล็ด หรือเครื่องดื่มเข้มข้น ตามพระราชกฤษฎีกากำหนดประเภทสินค้าตามพิกัดอัตราภาษีสรรพสามิต พ.</description>
     </item>
     
     <item>
@@ -321,10 +346,10 @@ E-Bill Payment
     
     <item>
       <title>ตรวจสอบทะเบียนผู้มาติดต่อ</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/visitor-registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/visitor-registration/</guid>
       <description>การตรวจสอบข้อมูลใบขนสินค้าขาเข้าและขาออก กับระบบทะเบียนผู้มาติดต่อ  การตรวจสอบลายเซ็นอิเล็กทรอนิกส์ (Digital Signature) มีเงื่อนไขดังนี้
  VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของผู้นำเข้า/ผู้ส่งออก (Company Tax No) หรือ VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของตัวแทนออกของ (Broker Tax No) หรือ VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของตัวแทนออกของรับจ้างช่วง (Sub Broker Tax Number) หรือ VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของ Company Tax No ของ Registration ID กรณีเป็น Service Counter เท่านั้น   การตรวจสอบความสัมพันธ์ของผู้นำเข้า/ผู้ส่งออกกับตัวแทนออกของ ต้องมีการว่าจ้างระหว่าง ผู้นำเข้า/ส่งออกกับตัวแทนออกของ จะตรวจสอบกับระบบทะเบียน ดังนี้
  ผู้นำเข้า/ผู้ส่งออกต้องว่าจ้างตัวแทนออกของ และ ตัวแทนออกของต้องได้รับจ้างผู้นำเข้า/ผู้ส่งออก  การตรวจสอบความสัมพันธ์ของตัวแทนออกของรับจ้างช่วง กับตัวแทนออกของที่มีความสัมพันธ์กับ ผู้นำเข้า/ผู้ส่งออก จะตรวจสอบกับระบบทะเบียน ดังนี้
@@ -375,6 +400,16 @@ E-Bill Payment
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/package/</guid>
       <description>ลักษณะหีบห่อ (Package Unit Code)       
    ลำดับ. รหัส ลักษณะหีบห่อ     1 1A Drum, steel   2 1B Drum, aluminium   3 1D Drum, plywood   4 1F Container, flexible   5 1G Drum, fibre   6 1W Drum, wooden   7 2C Barrel, wooden   8 3A Jerrican, steel   9 3H Jerrican, plastic   10 43 Bag, super bulk   11 44 Bag, polybag   12 4A Box, steel   13 4B Box, aluminium   14 4C Box, natural wood   15 4D Box, plywood   16 4F Box, reconstituted wood   17 4G Box, fibreboard   18 4H Box, plastic   19 5H Bag, woven plastic   20 5L Bag, textile   21 5M Bag, paper   22 6H Composite packaging, plastic receptacle   23 6P Composite packaging, glass receptacle   24 7A Case, car   25 7B Case, wooden   26 8A Pallet, wooden   27 8B Crate, wooden   28 8C Bundle, wooden   29 AA Intermediate bulk container, rigid plastic   30 AB Receptacle, fibre   31 AC Receptacle, paper   32 AD Receptacle, wooden   33 AE Aerosol   34 AF Pallet, modular, collars 80cms * 60cms   35 AG Pallet, shrinkwrapped   36 AH Pallet, 100cms * 110cms   37 AI Clamshell   38 AJ Cone   39 AL Ball   40 AM Ampoule, non-protected   41 AP Ampoule, protected   42 AT Atomizer   43 AV Capsule   44 B4 Belt   45 BA Barrel   46 BB Bobbin   47 BC Bottlecrate / bottlerack   48 BD Board   49 BE Bundle   50 BF Balloon, non-protected   51 BG Bag   52 BH Bunch   53 BI Bin   54 BJ Bucket   55 BK Basket   56 BL Bale, compressed   57 BM Basin   58 BN Bale, non-compressed   59 BO Bottle, non-protected, cylindrical   60 BP Balloon, protected   61 BQ Bottle, protected cylindrical   62 BR Bar   63 BS Bottle, non-protected, bulbous   64 BT Bolt   65 BU Butt   66 BV Bottle, protected bulbous   67 BW Box, for liquids   68 BX Box   69 BY Board, in bundle/bunch/truss   70 BZ Bars, in bundle/bunch/truss   71 CA Can, rectangular   72 CB Crate, beer   73 CC Churn   74 CD Can, with handle and spout   75 CE Creel   76 CF Coffer   77 CG Cage   78 CH Chest   79 CI Canister   80 CJ Coffin   81 CK Cask   82 CL Coil   83 CM Card   84 CN Container, not otherwise specified as transport equipment   85 CO Carboy, non-protected   86 CP Carboy, protected   87 CQ Cartridge   88 CR Crate   89 CS Case   90 CT Carton   91 CU Cup   92 CV Cover   93 CW Cage, roll   94 CX Can, cylindrical   95 CY Cylinder   96 CZ Canvas   97 DA Crate, multiple layer, plastic   98 DB Crate, multiple layer, wooden   99 DC Crate, multiple layer, cardboard   100 DG Cage, Commonwealth Handling Equipment Pool (CHEP)   101 DH Box, Commonwealth Handling Equipment Pool (CHEP), Eurobox   102 DI Drum, iron   103 DJ Demijohn, non-protected   104 DK Crate, bulk, cardboard   105 DL Crate, bulk, plastic   106 DM Crate, bulk, wooden   107 DN Dispenser   108 DP Demijohn, protected   109 DR Drum   110 DS Tray, one layer no cover, plastic   111 DT Tray, one layer no cover, wooden   112 DU Tray, one layer no cover, polystyrene   113 DV Tray, one layer no cover, cardboard   114 DW Tray, two layers no cover, plastic tray   115 DX Tray, two layers no cover, wooden   116 DY Tray, two layers no cover, cardboard   117 EC Bag, plastic   118 ED Case, with pallet base   119 EE Case, with pallet base, wooden   120 EF Case, with pallet base, cardboard   121 EG Case, with pallet base, plastic   122 EH Case, with pallet base, metal   123 EI Case, isothermic   124 EN Envelope   125 FB Flexibag   126 FC Crate, fruit   127 FD Crate, framed   128 FE Flexitank   129 FI Firkin   130 FL Flask   131 FO Footlocker   132 FP Filmpack   133 FR Frame   134 FT Foodtainer   135 FW Cart, flatbed   136 FX Bag, flexible container   137 GB Bottle, gas   138 GI Girder   139 GL Container, gallon   140 GR Receptacle, glass   141 GU Tray, containing horizontally stacked flat items   142 GY Bag, gunny   143 GZ Girders, in bundle/bunch/truss   144 HA Basket, with handle, plastic   145 HB Basket, with handle, wooden   146 HC Basket, with handle, cardboard   147 HG Hogshead   148 HN Hanger   149 HR Hamper   150 IA Package, display, wooden   151 IB Package, display, cardboard   152 IC Package, display, plastic   153 ID Package, display, metal   154 IE Package, show   155 IF Package, flow   156 IG Package, paper wrapped   157 IH Drum, plastic   158 IK Package, cardboard, with bottle grip-holes   159 IL Tray, rigid, lidded stackable (CEN TS 14482:2002)   160 IN Ingot   161 IZ Ingots, in bundle/bunch/truss   162 JB Bag, jumbo   163 JC Jerrican, rectangular   164 JG Jug   165 JR Jar   166 JT Jutebag   167 JY Jerrican, cylindrical   168 KG Keg   169 KI Kit   170 LE Luggage   171 LG Log   172 LT Lot   173 LU Lug   174 LV Liftvan   175 LZ Logs, in bundle/bunch/truss   176 MA Crate, metal   177 MB Bag, multiply   178 MC Crate, milk   179 ME Container, metal   180 MR Receptacle, metal   181 MS Sack, multi-wall   182 MT Mat   183 MW Receptacle, plastic wrapped   184 MX Matchbox   185 NA Not available   186 NE Unpacked or unpackaged   187 NF Unpacked or unpackaged, single unit   188 NG Unpacked or unpackaged, multiple units   189 NS Nest   190 NT Net   191 NU Net, tube, plastic   192 NV Net, tube, textile   193 OA Pallet, CHEP 40 cm x 60 cm   194 OB Pallet, CHEP 80 cm x 120 cm   195 OC Pallet, CHEP 100 cm x 120 cm   196 OD Pallet, AS 4068-1993   197 OE Pallet, ISO T11   198 OF Platform, unspecified weight or dimension   199 OK Block   200 OT Octabin   201 OU Container, outer   202 P2 Pan   203 PA Packet   204 PB Pallet, box Combined open-ended box and pallet   205 PC Parcel   206 PD Pallet, modular, collars 80cms * 100cms   207 PE Pallet, modular, collars 80cms * 120cms   208 PF Pen   209 PG Plate   210 PH Pitcher   211 PI Pipe   212 PJ Punnet   213 PK Package   214 PL Pail   215 PN Plank   216 PO Pouch   217 PP Piece   218 PR Receptacle, plastic   219 PT Pot   220 PU Tray   221 PV Pipes, in bundle/bunch/truss   222 PX Pallet   223 PY Plates, in bundle/bunch/truss   224 PZ Planks, in bundle/bunch/truss   225 QA Drum, steel, non-removable head   226 QB Drum, steel, removable head   227 QC Drum, aluminium, non-removable head   228 QD Drum, aluminium, removable head   229 QF Drum, plastic, non-removable head   230 QG Drum, plastic, removable head   231 QH Barrel, wooden, bung type   232 QJ Barrel, wooden, removable head   233 QK Jerrican, steel, non-removable head   234 QL Jerrican, steel, removable head   235 QM Jerrican, plastic, non-removable head   236 QN Jerrican, plastic, removable head   237 QP Box, wooden, natural wood, ordinary   238 QQ Box, wooden, natural wood, with sift proof walls   239 QR Box, plastic, expanded   240 QS Box, plastic, solid   241 RD Rod   242 RG Ring   243 RJ Rack, clothing hanger   244 RK Rack   245 RL Reel   246 RO Roll   247 RT Rednet   248 RZ Rods, in bundle/bunch/truss   249 SA Sack   250 SB Slab   251 SC Crate, shallow   252 SD Spindle   253 SE Sea-chest   254 SH Sachet   255 SI Skid   256 SK Case, skeleton   257 SL Slipsheet   258 SM Sheetmetal   259 SO Spool   260 SP Sheet, plastic wrapping   261 SS Case, steel   262 ST Sheet   263 SU Suitcase   264 SV Envelope, steel   265 SW Shrinkwrapped   266 SX Set   267 SY Sleeve   268 SZ Sheets, in bundle/bunch/truss   269 T1 Tablet   270 TB Tub   271 TC Tea-chest   272 TD Tube, collapsible   273 TE Tyre   274 TG Tank container, generic   275 TI Tierce   276 TK Tank, rectangular   277 TL Tub, with lid   278 TN Tin   279 TO Tun   280 TR Trunk   281 TS Truss   282 TT Bag, tote   283 TU Tube   284 TV Tube, with nozzle   285 TW Pallet, triwall   286 TY Tank, cylindrical   287 TZ Tubes, in bundle/bunch/truss   288 UC Uncaged   289 UN Unit   290 VA Vat   291 VG Bulk, gas (at 1031 mbar and 15?</description>
+    </item>
+    
+    <item>
+      <title>สืบค้นรหัสสินค้าสรรพสามิต</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/search_by_product/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/search_by_product/</guid>
+      <description> สืบค้นรหัสสินค้าสรรพสามิตสำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ สืบค้นตามชนิดสินค้า
+   ชนิดสินค้า ชื่อสินค้า     ตอนที่ 1 สินค้าน้ำมันและผลิตภัณฑ์น้ำมัน   ตอนที่ 2 สินค้าเครื่องดื่ม   ตอนที่ 3 สินค้าเครื่องไฟฟ้า   ตอนที่ 4 สินค้าแบตเตอรี่   ตอนที่ 5 สินค้าแก้วและเครื่องแก้ว   ตอนที่ 6 สินค้ารถยนต์   ตอนที่ 7 สินค้ารถจักรยานยนต์   ตอนที่ 8 สินค้าเรือ   ตอนที่ 9 สินค้าผลิตภัณฑ์เครื่องหอมและเครื่องสำอาง   ตอนที่ 10 สินค้าพรมและสิ่งทอปูพื้น   ตอนที่ 11 สินค้าหินอ่อนและหินแกรนิต   ตอนที่ 12 สินค้าทำลายชั้นบรรยากาศโอโซน   ตอนที่ 13 สินค้าสุรา   ตอนที่ 14 สินค้ายาสูบ   ตอนที่ 15 สินค้าไพ่   ตอนที่ 16 สินค้าอื่่น ๆ   ALL ค้นหาทั้งหมด    </description>
     </item>
     
     <item>
@@ -434,13 +469,27 @@ E-Bill Payment
     
     <item>
       <title>เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks)</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/shipping-marks/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/shipping-marks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/shipping-marks/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/shipping-marks/</guid>
       <description> เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks)  เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks) ต้องสำแดงเครื่องหมายและเลขหมายหีบห่อให้ตรงกับความเป็นจริง ซึ่งจะต้องตรงกับใบตราส่งสินค้า โดยให้สำแดง ดังนี้
  ถ้าเครื่องหมายและเลขหมายหีบห่อเป็นข้อความให้บันทึกเป็นข้อความตามจริง หากเครื่องหมายและเลขหมายหีบห่อมีความยาวเกิน 512 ตัวอักษร ให้บันทึกเพียง 512 ตัวอักษรได้ ถ้าเครื่องหมายและเลขหมายหีบห่อเป็นข้อความที่เป็นภาษาต่างประเทศ ซึ่งไม่สามารถบันทึกข้อความนั้นได้ เช่น ภาษาจีน ให้ระบุคำว่า “PICTURE” ถ้าเครื่องหมายและเลขหมายหีบห่อเป็นรูปภาพให้ระบุคำว่า “PICTURE”   กรณีผ่อนผันไม่ต้องสำแดงเครื่องหมายและเลขหมายหีบห่อ (Shipping Marks) ในการจัดทำข้อมูลใบขนสินค้าขาเข้าให้ระบุคำว่า “NO SHIPPING MARK” แทนได้ สำหรับกรณี ดังต่อไปนี้
  กรณีหีบห่อของใช้ส่วนตัวตาม ประเภทที่ 5 ภาค 4 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530 กรณีหีบห่อของที่ได้รับเอกสิทธิ์ ตามข้อผูกพันที่ประเทศไทยมีต่อองค์การสหประชาชาติตามกฎหมายระหว่างประเทศหรือตามสัญญากับนานาประเทศ ของที่มิได้บรรจุหีบห่อ เช่น รถยนต์ ยางรถยนต์ รางรถไฟ ลวด โลหะเป็นแท่งหรือก้อน กระดาษพิมพ์หนังสือเป็นม้วน กระเบื้อง ของเหลวบรรจุในขวดใหญ่และมีวัตถุถักหุ้มขวด เช่น น้ำกรด ของที่มาเป็นกอง เช่น ถ่านหิน ของที่บรรจุหีบห่อเดียว ของที่บรรจุในหีบห่อที่เป็นมาตรฐานเดียว (Standard Packing) เช่น ลังไม้ หรือลังกระดาษที่มีขนาดกว้างยาวเท่ากัน ของที่บรรจุมีจำนวนเท่ากัน เช่น นมสด สุรา เบียร์ อาหารปนแป้ง วิทยุ ของที่มาเป็นถังเหล็กหรือถังไฟเบอร์ (Drum or Fiber Drum) ที่มีลักษณะขนาด น้ำหนัก และจำนวนของที่บรรจุเท่ากัน เช่น จุกขวด น้ำยาดับกลิ่น น้ำมันเครื่อง สีทา ของที่บรรจุมาในถุงกระดาษหรือกระสอบ ที่มีลักษณะขนาด น้ำหนัก และจำนวนของที่บรรจุเท่ากัน เช่น ปุ๋ย แอมโมเนีย แป้ง ข้าวสาลี หิน กากเพชร น้ำตาล ของที่บรรจุมาในหีบโปร่ง (Crate) เช่น เครื่องยนต์   </description>
+    </item>
+    
+    <item>
+      <title>โครงสร้างราคาขายปลีกแนะนำ</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/price_structure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/price_structure/</guid>
+      <description> โครงสร้างราคาขายปลีกแนะนำ  ต้นทุนการผลิต
+1.1 ในกรณีสินค้าที่ผลิตในราชอาณาจักร หมายถึง ต้นทุนทั้งหมดที่มีอยู่ในการผลิตสินค้า ซึ่งได้แก่ ค่าวัตถุดิบ ค่าแรงงาน และค่าใช้จ่ายอื่นที่ใช้ในกระบวนการผลิต 1.2 ในกรณีสินค้านำเข้า หมายถึง ราคาของสินค้าและค่าใช้จ่ายที่ใช้ในการนำเข้าสินค้ามาในราชอาณาจักร ซึ่งได้แก่ ราคา ซี.ไอ.เอฟ. อากรศุลกากร และค่าใช้จ่ายอื่นที่ใช้ในการดำเนินพิธีการศุลกากร
+ ค่าบริหารจัดการ หมายถึง ค่าใช้จ่ายในสำนักงาน ซึ่งได้แก่ ค่าโฆษณา ค่าขนส่ง ค่าประกันภัย ค่าภาษีสรรพสามิต ค่าภาษีอื่น ที่จัดเก็บจากการขายสินค้านั้น ค่าธรรมเนียม (ในการรับฝากของในอารักขาศุลกากร) เงินบำรุงกองทุนหรือองค์การตามที่กฎหมาย กำหนดให้เรียกเก็บจากผู้มีหน้าที่เสียภาษีสำหรับสินค้านั้น และค่าใช้จ่ายอื่นที่เกี่ยวข้องกับการการบริหารการขายสินค้าผู้ประกอบอุตสาหกรรมหรือผู้นำเข้า
+ กำไรมาตรฐาน หมายถึง ให้พิจารณาจากราคาขายปลีกแนะนำหักต้นทุนการผลิตและค่าบริหารจัดการ
+    ที่มา : กรมสรรพสามิต - Link 1 - Link 2
+ </description>
     </item>
     
     <item>
@@ -456,11 +505,22 @@ E-Bill Payment
     </item>
     
     <item>
-      <title>จำนวนและน้ำหนักของสินค้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2/</link>
+      <title>การคำนวณภาษีสินค้าสรรพสามิต</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/calculate_excise/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/calculate_excise/</guid>
+      <description>การคำนวณภาษีสินค้าสรรพสามิต การคำนวณภาษีสินค้าสรรพสามิต ในกรณีสินค้าทั่วไป (ยกเว้นสินค้าในหมวด สุรา ยาสูบ และเครื่องดื่ม) เมื่อกำหนดพิกัดสรรพสามิตและบันทึกข้อมูลตามปกติ โปรแกรมจะคำนวณภาษีสรรพสามิต และภาษีเพื่อมหาดไทยให้โดยอัตโนมัติ
+กรณีเป็นสินค้าในหมวด สุรา ยาสูบ และเครื่องดื่ม เมื่อผู้ใช้งานกำหนดพิกัดสรรพสามิตถูกต้อง ต้องเข้าไปบันทึกรายละเอียดเพิ่มเติม ตามรายละเอียดของแต่ละหมวดสินค้ามีรายละเอียดดังนี้
+สุรา ยาสูบ เครื่องดื่ม เครื่องดื่มชนิดผง เกล็ด  พิกัดอัตราภาษีสรรพสามิต สำหรับสินค้าเครื่องดื่มชนิดผง เกล็ด หรือเครื่องดื่มเข้มข้น ตามพระราชกฤษฎีกากำหนดประเภทสินค้าตามพิกัดอัตราภาษีสรรพสามิต พ.ศ. 2560 คือ 16.90(1) ผลิตภัณฑ์ที่ใช้เป็นเครื่องดื่มที่มีลักษณะผง เกล็ด หรือเครื่องดื่มเข้มข้นที่มีส่วนผสมของน้ำตาลและสามารถละลายน้ำได้ แต่ไม่รวมถึงผลิตภัณฑ์เสริมอาหารและผลิตภัณฑ์นมที่อยู่ในรูปแบบผงตามกฎหมายว่าด้วยอาหาร ในช่อง &amp;ldquo;ปริมาณตามข้อแนะนำ&amp;rdquo; ให้ใส่ข้อมูล &amp;ldquo;ปริมาตรหรือน้ำหนักของผงหรือเกล็ดเครื่องดื่มที่ใช้ในการชงแต่ละครั้งตามข้อแนะนำ&amp;rdquo; ที่ระบุไว้ข้างภาชนะบรรจุภัณฑ์ ในกรณีที่เครื่องดื่มผงหรือเกล็ดบรรจุอยู่ในซองแบบชงเครื่องดื่มหนึ่งแก้วต่อหนึ่งซอง น้ำหนัก (ปริมาณ) ผงหรือเกล็ดตามข้อแนะนำ เท่ากับ น้ำหนักสุทธิ เช่น 1 ซอง (17.5 กรัม) ในช่อง &amp;ldquo;ปริมาตรหลังผสม&amp;rdquo; ให้ใส่ข้อมูล &amp;ldquo;ปริมาตรของน้ำหรือของเหลวที่ใช้ผสมกับเครื่องดื่มผงหรือเกล็ดตามคำแนะนำหรือวิธีการชง&amp;rdquo; ที่ระบุไว้ที่ข้างภาชนะบรรจุภัณฑ์ เช่น 130 มล./แก้ว ในช่อง &amp;ldquo;น้ำหนัก/ภาชนะ(กรัม)&amp;rdquo; ให้ใส่ข้อมูล &amp;ldquo;น้ำหนัก (ปริมาณ) ของผงหรือเกล็ดเครื่องดื่มสุทธิต่อภาชนะ&amp;rdquo; ที่ระบุไว้ที่ภาชนะบรรจุภัณฑ์ ในช่อง &amp;ldquo;จำนวนภาชนะ&amp;rdquo; ให้ใส่ข้อมูล &amp;ldquo;จำนวนภาชนะทั้งหมด&amp;rdquo; หากข้างขวดหรือที่ฉลากไม่ได้แจ้งข้อมูลใด ๆ ก็ตามข้างต้น ให้ผู้ประกอบอุตสาหกรรมเป็นผู้แจ้งสำแดงข้อมูลของตนเองให้ครบถ้วน เพื่อประกอบการพิจารณาคำนวณภาษีสรรพสามิต ภาษีสรรพสามิตต่อภาชนะบรรจุดังกล่าวที่ตารางคำนวณออกมาได้นั้น เป็นภาษีสรรพสามิตแต่เพียงอย่างเดียวเท่านั้น ยังไม่ได้รวมภาษีเพิ่มขึ้นเพื่อราชการส่วนท้องถิ่น หลักเกณฑ์และวิธีการคำนวณดังกล่าวข้างต้นเป็นไปตามหนังสือสำนักแผนภาษี ด่วนที่สุดที่ กค 0619/1288 ลงวันที่ 2 พฤศจิกายน 2560  เครื่องดื่มเข้มข้น  พิกัดอัตราภาษีสรรพสามิต สำหรับสินค้าเครื่องดื่มชนิดผง เกล็ด หรือเครื่องดื่มเข้มข้น ตามพระราชกฤษฎีกากำหนดประเภทสินค้าตามพิกัดอัตราภาษีสรรพสามิต พ.</description>
+    </item>
+    
+    <item>
+      <title>จำนวนและน้ำหนักของสินค้า</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/quantity-and-weight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/quantity-and-weight/</guid>
       <description>จำนวนและน้ำหนักของสินค้า  จำนวนหีบห่อรวม (Total Package Amount) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน หากสินค้ามีหลายลักษณะรวมกัน ให้ระบุจำนวนหีบห่อรวม
  ลักษณะหีบห่อรวม (Total Package Unit Code) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน UNECE Recommendation 21 หากสินค้ามีหลายลักษณะรวมกัน เช่น กล่อง Roll Drum ให้ระบุหน่วยเป็น &amp;ldquo;PK&amp;rdquo;
  น้ำหนักสุทธิรวม (Total Net Weight) ต้องมีค่าเท่ากับน้ำหนักสุทธิ (Net Weight) รวมทุกรายการเท่านั้น
@@ -480,10 +540,10 @@ E-Bill Payment
     
     <item>
       <title>ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/%E0%B8%82%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/assessment-request/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/%E0%B8%82%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/assessment-request/</guid>
       <description>มีปัญหาในเรื่องต่าง ๆ ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า (Assessment Request Code) &amp;ldquo;Assessment Request Code&amp;rdquo; &amp;ldquo;มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ ด่านศุลกากร ที่นำเข้า&amp;rdquo;
  กรณีมีปัญหาและต้องการพบพนักงานศุลกากร ณ คลังสินค้าทัณฑ์บน (Bond Port) เขตปลอดอากร (FreeZone Port) เขตประกอบการเสรี (IEAT Freezone Port)  ในเรื่องปัญหาพิกัดศุลกากร อัตราศุลกากร ราคาศุลกากร ในเรื่องที่ต้องแจ้งความไว้ต่อพนักงานศุลกากรก่อนการส่งมอบว่าจะยื่นคำขอคืนเงินอากร และได้มีการแจ้งเหตุผลไว้ในช่อง หมายเหตุ &amp;ldquo;Remark&amp;rdquo; แล้ว  กรณีของนำเข้าเป็นของที่มีลักษณะ ดังต่อไปนี้  ของนำเข้าตามภาค 4 แห่งพระราชกำหนดพิกัดอัตราศุลกากร ของเก่าใช้แล้ว ของด้อยสภาพ  ในการจัดทำข้อมูลใบขนสินค้าขาเข้าตาม (1) หรือ (2) ให้ระบุค่า &amp;ldquo;Y&amp;rdquo; ในช่อง &amp;ldquo;Assessment Request Code&amp;rdquo; “มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ด่านศุลกากรที่นำเข้า” ระบบคอมพิวเตอร์ของศุลกากรจะสั่งการตรวจใบขนสินค้าขาเข้าเป็น &amp;ldquo;เปิดตรวจ&amp;rdquo; พบพนักงานศุลกากร ณ หน่วยบริการศุลกากรที่นำของเข้า เพื่อยื่นหลักฐานหรือเอกสารมาแสดง หรือร้องขอให้พนักงานศุลกากรพิจารณาดำเนินการใด ๆ</description>
     </item>
@@ -585,10 +645,10 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>คลังสินค้าทัณฑ์บน</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%AD%E0%B8%99%E0%B8%A2%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81/bond/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/transfer-of-goods/bond/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%AD%E0%B8%99%E0%B8%A2%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81/bond/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/transfer-of-goods/bond/</guid>
       <description>การโอนย้ายของออกจากคลังสินค้าทัณฑ์บน โอนย้ายของเข้าโดยใช้สิทธิ์คลังสินค้าทัณฑ์บน การโอนย้ายของออกจากคลังสินค้าทัณฑ์บน เพื่อโอนย้ายของเข้าโดยใช้สิทธิ์คลังสินค้าทัณฑ์บน
  ผู้ส่งออกของ ส่งใบขนสินค้าขาออกโอนย้ายภายในประเทศ (B) ให้ระบุค่าดังนี้
  ระบุ Release Port = รหัสสถานที่ตรวจปล่อยของคลังสินค้าทัณฑ์ที่นำออก ที่ส่วนควบคุมในใบขนสินค้า
@@ -614,10 +674,10 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>การคืนอากรตามมาตรา 29</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%B229/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/section_29/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%B229/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/section_29/</guid>
       <description>การคืนอากรตามมาตรา 29 การคืนอากรตามมาตรา 29 แห่งพระราชบัญญัติศุลกากร พ.ศ.2560 เป็นการคืนเงินอากรขาเข้าที่ผู้นำของเข้า (ผู้มีสิทธิขอคืนอากร) ที่ได้ชำระไว้ด้วยเงินสดและ/หรือ ใช้หนังสือค้ำประกันของธนาคาร หรือระบบ e-Guarantee หรือ หนังสือค้ำประกันของกระทรวงการคลัง วางประกันแทนการชำระอากรขาเข้าด้วยเงินสด สำหรับของที่นำเข้ามาจากต่างประเทศ เพื่อใช้ผลิต หรือผสม หรือประกอบ หรือบรรจุ หรือดำเนินการด้วยวิธีอื่นใด เป็นของที่ส่งออกไปนอกราชอาณาจักรภายใน 1 ปี นับแต่วันที่นำของเข้ามาในราชอาณาจักร และต้องยื่นขอคืนอากร ภายใน 6 เดือน นับแต่วันที่ส่งของออกไป
 ทั้งนี้ ของที่นำเข้ามาในราชอาณาจักรเพื่อใช้ในการผลิต ผสม ประกอบ บรรจุ หรือดำเนินการด้วยวิธีอื่นใดตามมาตรา 29 หากโอนเข้าไปในคลังสินค้าทัณฑ์บน หรือจำหน่ายให้แก่ผู้มีสิทธิได้รับยกเว้นอากรตามกฎหมายว่าด้วยพิกัดอัตราศุลกากร หรือกฎหมายอื่น เช่น ตามกฎหมายส่งเสริมการลงทุน ตามกฎหมายการนิคมอุตสาหกรรม เป็นต้น ตามนัยข้อกฎหมายถือว่าของนั้นได้ส่งออกตามมาตรา 29 ในเวลาที่โอนหรือจำหน่ายเป็นการอำนวยความสะดวกแก่ผู้ประกอบการตามมาตรา 29 ที่จะให้ได้รับการคืนอากรสำหรับของที่นำเข้า แม้ไม่ได้ส่งออกนอกราชอาณาจักรซึ่งใช้บังคับเฉพาะกรณีโอนหรือจำหน่ายสินค้าสำเร็จรูป/กึ่งสำเร็จรูปเท่านั้น ดังนั้นผู้นำของเข้าตามมาตรา 29 สามารถยื่นขอคืนอากรสำหรับของเช่นว่านั้นได้ตามระเบียบที่อธิบดีกำหนด
 ของที่ได้รับคืนอากรตามมาตรา 29  วัตถุดิบที่เห็นได้ชัดเจนว่ามีอยู่ในของที่ผลิตเพื่อส่งออก เช่น ผ้า กระดุม ซิป ด้าย ในผลิตภัณฑ์เสื้อผ้าสำเร็จรูป เม็ดพลาสติก แผ่นพลาสติก ในผลิตภัณฑ์ประเภทพลาสติก เป็นต้น
@@ -626,10 +686,10 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>ขอคืนอากรตามมาตรา 29</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%AD%E0%B8%99%E0%B8%A2%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81/%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%B229/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/transfer-of-goods/section_29/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%AD%E0%B8%99%E0%B8%A2%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81/%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%B229/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/transfer-of-goods/section_29/</guid>
       <description>การโอนย้ายของออกจากสิทธิประโยชน์ขอคืนอากรตามมาตรา 29 โอนย้ายของเข้าไปใช้สิทธิ์คลังสินค้าทัณฑ์บน การโอนย้ายของออกจากสิทธิประโยชน์ขอคืนอากรตามมาตรา 29 เพื่อโอนย้ายของเข้าไปใช้สิทธิ์คลังสินค้าทัณฑ์บน
 ผู้ส่งออกของ ส่งใบขนสินค้าขาออกโอนย้ายภายในประเทศ (B) ให้ระบุค่าดังนี้
  ระบุ Release Port = รหัสสถานที่ตรวจปล่อยของคลังสินค้าทัณฑ์บนที่นำสินค้าเข้าเก็บ ที่ส่วนควบคุมในใบขนสินค้า ระบุ Load Port = รหัสสถานที่รับบรรทุกของของคลังสินค้าทัณฑ์บนที่นำสินค้าเข้าเก็บ ที่ส่วนควบคุมในใบขนสินค้า ระบุ Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ขอคืนอากรตรมมาตรา 29 ที่ส่วนควบคุมในใบขนสินค้า ระบุ Drawback = Y ที่ส่วนรายการในใบขนสินค้า ระบุ สูตรการผลิต ระบุเลขที่สูตรการผลิต (Model Number) เวอร์ชั่นของสูตรการผลิต (Model Version) และเลขประจำตัวผู้เสียภาษีอากรของบริษัทผู้ยื่นสูตรการผลิต (Model Company Tax Number) ระบุ Import Tax Incentives ID = เลขที่ทะเบียนสิทธิ์ประโยชน์คลังสินค้าทัณฑ์บนที่นำของเข้า ที่ส่วนรายการในใบขนสินค้า   ผู้นำของเข้า ส่งใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ (A) ให้ระบุค่าดังนี้.
@@ -677,10 +737,10 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>ส่งเสริมการลงทุน BOI</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%AD%E0%B8%99%E0%B8%A2%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81/boi/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/transfer-of-goods/boi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%AD%E0%B8%99%E0%B8%A2%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81/boi/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/transfer-of-goods/boi/</guid>
       <description>การโอนย้ายของออกจากสิทธิประโยชน์ส่งเสริมการลงทุน BOI โอนย้ายของเข้าไปใช้สิทธิ์คลังสินค้าทัณฑ์บน การโอนย้ายของออกจากสิทธิประโยชน์ส่งเสริมการลงทุน (BOI) เพื่อโอนย้ายของเข้าไปใช้สิทธิ์คลังสินค้าทัณฑ์บน
  ผู้ส่งออกของ ส่งใบขนสินค้าขาออกโอนย้ายภายในประเทศ (B) ให้ระบุค่าดังนี้
  ระบุ Release Port = รหัสสถานที่ตรวจปล่อยของคลังสินค้าทัณฑ์บนที่นำสินค้าเข้าเก็บ ที่ส่วนควบคุมในใบขนสินค้า ระบุ Load Port = รหัสสถานที่รับบรรทุกของของคลังสินค้าทัณฑ์บนที่นำสินค้าเข้าเก็บ ที่ส่วนควบคุมในใบขนสินค้า ระบุ BOI = Y ที่ส่วนรายการในใบขนสินค้า ระบุ เลขที่บัตรส่งเสริมการลงทุน BOI ในช่อง BOI License Number ที่ส่วนรายการในใบขนสินค้า Privilege Code = 000 ตามอัตราปกติ หรือ 999 ตามพระราชกำหนด เท่านั้น ระบุเลขที่อนุมัติสั่งปล่อยของ BOI ส่วนใบอนุญาต   ผู้นำของเข้า ส่งใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ (A) ให้ระบุค่าดังนี้
@@ -717,10 +777,10 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>เขตประกอบการเสรี</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B5/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/ieat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B5/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/ieat/</guid>
       <description>เขตประกอบการเสรี (FREETRADE ZONE) หลักการทั่วไป พระราชบัญญัติการนิคมอุตสาหกรรมแห่งประเทศไทย พ.ศ. 2522 ได้มีการจัดตั้ง การนิคมอุตสาหกรรมแห่งประเทศไทยขึ้นเป็นรัฐวิสาหกิจสังกัดกระทรวงอุตสาหกรรมมีชื่อย่อว่า &amp;ldquo;กนอ.&amp;rdquo; มีวัตถุประสงค์ในการจัดตั้งหลายประการ โดยเริ่มจากการจัดหาที่ดินที่เหมาะสมเพื่อจัดตั้ง หรือขยายนิคมอุตสาหกรรม หรือเพื่อดำเนินธุรกิจอื่นที่จะเป็นประโยชน์ ดำเนินการปรับปรุงที่ดินเพื่อให้บริการ ตลอดจนจัดสิ่งอำนวยความสะดวกในการดำเนินงาน รวมทั้งสาธารณูปโภคต่างๆให้แก่ผู้ประกอบกิจการอุตสาหกรรมในเขตนิคมอุตสาหกรรม พื้นที่เขตนิคมอุตสาหกรรมแบ่งออกเป็น 2 ลักษณะ คือ
  พื้นที่เขตอุตสาหกรรมทั่วไป อันเป็นเขตพื้นที่ที่กำหนดไว้สำหรับการประกอบอุตสาหกรรมและกิจการอื่นที่เป็นประโยชน์หรือเกี่ยวเนื่องกับการประกอบอุตสาหกรรม พื้นที่เขตประกอบการเสรี (เขตอุตสาหกรรมส่งออกเดิม) อันเป็นเขตพื้นที่ที่กำหนดไว้สำหรับ การประกอบอุตสาหกรรม พาณิชยกรรม หรือกิจการอื่นที่เกี่ยวเนื่องกับการประกอบอุตสาหกรรมหรือ พาณิชยกรรม เพื่อประโยชน์ในทางเศรษฐกิจ การรักษาความมั่นคงของรัฐ สวัสดิภาพของประชาชน การจัดการด้านสิ่งแวดล้อม หรือความจำเป็นอื่นตามที่คณะกรรมการกำหนด โดยของที่เข้าไปในเขตดังกล่าวจะได้รับสิทธิประโยชน์ทางภาษีอากร และค่าธรรมเนียมเพิ่มขึ้นตามที่กฎหมายบัญญัติ  ในปัจจุบันเขตประกอบการเสรี ที่มีสำนักงานศุลกากรตั้งอยู่มี 12 แห่ง ได้แก่
  นิคมอุตสาหกรรมลาดกระบัง (กรุงเทพฯ) นิคมอุตสาหกรรมบางปู (สมุทรปราการ) นิคมอุตสาหกรรมภาคเหนือ (ลำพูน) นิคมอุตสาหกรรมแหลมฉบัง (ชลบุรี) นิคมอุตสาหกรรมเหมราช (ชลบุรี) นิคมอุตสาหกรรมบ้านหว้า (อยุธยา) นิคมอุตสาหกรรมบางปะอิน (อยุธยา) นิคมอุตสาหกรรมเกตเวย์ซิตี้ (ฉะเชิงเทรา) นิคมอุตสาหกรรมส่งออกภาคใต้ (สงขลา) นิคมอุตสาหกรรมพิจิตร (พิจิตร) นิคมอุตสาหกรรมอัญธานี (กรุงเทพฯ) นิคมอุตสาหกรรมทีเอฟดี (ฉะเชิงเทรา) เพื่อการส่งเสริมการส่งออกแก่ผู้ประกอบการทั้งในเขตอุตสาหกรรมทั่วไป และเขตประกอบการเสรี การนิคมอุตสาหกรรมแห่งประเทศไทยได้ให้สิทธิประโยชน์ทางด้านภาษีอากรแก่ผู้ประกอบการในเขตประกอบการเสรี และเขตอุตสาหกรรมทั่วไปของการนิคมอุตสาหกรรมแห่งประเทศไทย โดยกรมศุลกากรจะเป็นผู้กำหนดระเบียบปฏิบัติสำหรับการปฏิบัติในเขตประกอบการเสรีตามบทบาทหน้าที่ในการควบคุมดูแล และรับผิดชอบในเรื่องภาษีอากรของรัฐ   กฎหมายและระเบียบที่เกี่ยวข้องกับเขตประกอบการเสรี  พระราชบัญญัติการนิคมอุตสาหกรรมแห่งประเทศไทย พ.</description>
@@ -728,10 +788,10 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>เขตปลอดอากร (Freezone)</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%AD%E0%B8%99%E0%B8%A2%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81/freezone/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/transfer-of-goods/freezone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%AD%E0%B8%99%E0%B8%A2%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81/freezone/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/transfer-of-goods/freezone/</guid>
       <description>การโอนย้ายของออกจากสิทธิประโยชน์เขตปลอดอากร โอนย้ายของเข้าโดยใช้สิทธิ์คลังสินค้าทัณฑ์บน การโอนย้ายของออกจากเขตปลอดอากร เพื่อโอนย้ายของเข้าโดยใช้สิทธิ์คลังสินค้าทัณฑ์บน
 ผู้นำของเข้า ส่งใบขนสินค้าขาเข้าโอนย้ายออกจากเขตปลอดอากร C ให้ระบุค่าดังนี้
  ระบุ Release Port = รหัสสถานที่ตรวจปล่อยของเขตปลอดอากรที่นำออก ที่ส่วนควบคุมใน ใบขนสินค้า ระบุ Discharge Port = รหัสสถานที่รับบรรทุกของของเขตปลอดอากรที่นำออก ที่ส่วนควบคุมในใบขนสินค้า ระบุ Export Tax Incentives ID = เลขที่ทะเบียนสิทธิ์ประโยชน์เขตปลอดอากรที่นำของออกที่ส่วนควบคุมในใบขนสินค้า ระบุ Bond = Y ที่ส่วนรายการในใบขนสินค้า ระบุ Import Tax Incentives ID = เลขที่ทะเบียนสิทธิ์ประโยชน์คลังสินค้าทัณฑ์บนที่นำของเข้า ที่ส่วนรายการในใบขนสินค้า โอนย้ายของเข้าโดยใช้สิทธิ์ ขอคืนอากรตามมาตรา 29 การโอนย้ายของออกจากเขตปลอดอากร เพื่อโอนย้ายของเข้าโดยใช้สิทธิ์ ขอคืนอากรตามมาตรา 29
@@ -749,19 +809,19 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>การชดเชยค่าภาษีอากร</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%8A%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%A2/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/compensate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%8A%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%A2/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/compensate/</guid>
       <description>การชดเชยค่าภาษีอากรสำหรับสินค้าส่งออกที่ผลิตในราชอาณาจักร การชดเชยค่าภาษีอากรคำจำกัดความที่สำคัญในการชดเชยค่าภาษีอากร  คำว่า &amp;ldquo;สินค้า&amp;rdquo; หมายความว่า สินค้าที่ผลิตในราชอาณาจักร คำว่า &amp;ldquo;ผลิต&amp;rdquo; หมายความว่า ประกอบ แปรรูป แปรสภาพ หรือทำการอย่างใดอย่างหนึ่งให้มีขึ้น ซึ่งสินค้าไม่ว่าด้วยวิธีใดๆ คำว่า &amp;ldquo;เงินชดเชย&amp;rdquo; หมายความว่า เงินที่จะจ่ายชดเชยค่าภาษีอากรซึ่งมีอยู่ในต้นทุนการผลิตสินค้าส่งออกให้แก่ผู้มีสิทธิได้รับเงินชดเชยในรูปของบัตรภาษีตามพระราชบัญญัติชดเชยค่าภาษีอากรสินค้าส่งออกที่ผลิตในราชอาณาจักร พ.ศ. 2524 คำว่า &amp;ldquo;อัตราเงินชดเชยค่าภาษีอากร&amp;rdquo; หมายความว่า อัตราเงินชดเชยสำหรับชนิดและประเภทสินค้าที่จะได้รับเงินชดเชยค่าภาษีอากรตามที่คณะกรรมการพิจารณาชดเชยค่าภาษีอากรสินค้าส่งออกที่ผลิตในราชอาณาจักรได้ประกาศในราชกิจจานุเบกษา คำว่า &amp;ldquo;การส่งสินค้าออก&amp;rdquo; หมายความว่า การส่งของออกตามกฎหมายว่าด้วยศุลกากร รวมถึงการขายสินค้าภายในประเทศให้แก่ส่วนราชการหรือรัฐวิสาหกิจตามโครงการเงินกู้หรือเงินช่วยเหลือจากต่างประเทศ และการขายสินค้าให้แก่องค์การระหว่างประเทศหรือหน่วยงานที่มีสิทธินำสินค้าเข้ามาในราชอาณาจักรโดยได้รับการยกเว้นอากรตามกฎหมายว่าด้วยพิกัดอัตราศุลกากร  ผู้มีสิทธิได้รับเงินชดเชยค่าภาษีอากร  ผู้ทำการส่งออกตามกฎหมายว่าด้วยศุลกากร หรือผู้ที่ขายสินค้าภายในประเทศให้แก่ ส่วนราชการหรือรัฐวิสาหกิจตามโครงการเงินกู้หรือเงินช่วยเหลือจากต่างประเทศ หรือผู้ที่ขายสินค้าให้แก่องค์การระหว่างประเทศหรือหน่วยงานที่มีสิทธินำสินค้านั้นเข้ามาในราชอาณาจักรโดยได้รับการยกเว้นอากรตามกฎหมายว่าด้วยพิกัดอัตราศุลกากร ผู้มีสิทธิได้รับเงินชดเชยจะต้องไม่ได้ใช้สิทธิคืนหรือยกเว้นหรือลดหย่อนภาษีอากร ตามกฎหมายศุลกากรและกฎหมายอื่นสำหรับสินค้าส่งออก การส่งออกไปจำหน่ายยังต่างประเทศต้องปฏิบัติให้ถูกต้องครบถ้วนตามกฎหมายศุลกากรและได้รับชำระเงินค่าขายสินค้าจากต่างประเทศ ถ้าหากเป็นการส่งออกเพื่อวัตถุประสงค์อื่นที่ไม่ใช่ทางการค้าเช่น การส่งออกเพียงเพื่อเป็นตัวอย่าง หรือเพื่อการวิเคราะห์ หรือเพื่อการอื่นที่มิได้จำหน่าย ไม่สามารถขอรับเงินชดเชยได้  ผู้ไม่มีสิทธิได้รับเงินชดเชยค่าภาษีอากร ผู้ไม่มีสิทธิได้รับเงินชดเชยค่าภาษีอากร ได้แก่ผู้ส่งออกที่ได้ใช้สิทธิขอคืนหรือยกเว้นหรือลดหย่อนอากรขาเข้าสำหรับของที่ส่งออกที่ใช้สิทธิประโยชน์ ดังต่อไปนี้ 1. การขอคืนอากรตามมาตรา 29 ตามกฎหมายว่าด้วยศุลกากร 2. การยกเว้นอากรขาเข้าแก่ของที่ปล่อยออกไปจากคลังสินค้าทัณฑ์บน ประเภทโรงผลิตสินค้าเพื่อส่งออกไปนอกราชอาณาจักร ตามกฎหมายว่าด้วยศุลกากร 3. การยกเว้นอากรขาเข้าเกี่ยวกับเขตประกอบการเสรี ตามกฎหมาย ว่าด้วยการนิคมอุตสาหกรรมแห่งประเทศไทย 4. การยกเว้นหรือลดหย่อนอากรขาเข้าที่ไม่ใช่เครื่องจักร ตามกฎหมายว่าด้วยส่งเสริมการลงทุน 5. การยกเว้นอากรขาเข้าเกี่ยวกับเขตปลอดอากรตามหมวด 6 ตามกฎหมายว่าด้วยศุลกากร</description>
     </item>
     
     <item>
       <title>เขตประกอบการเสรี (I-EAT)</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%AD%E0%B8%99%E0%B8%A2%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81/i-eat/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/transfer-of-goods/i-eat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%AD%E0%B8%99%E0%B8%A2%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81/i-eat/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/transfer-of-goods/i-eat/</guid>
       <description>การโอนย้ายของออกจากสิทธิประโยชน์เขตประกอบการเสรี โอนย้ายของเข้าโดยใช้สิทธิ์คลังสินค้าทัณฑ์บน การโอนย้ายของออกจากเขตประกอบการเสรี เพื่อโอนย้ายของเข้าโดยใช้สิทธิ์คลังสินค้าทัณฑ์บน
 ผู้นำของเข้า ส่งใบขนสินค้าขาเข้าโอนย้ายออกจากเขตประกอบการเสรี C ให้ระบุค่าดังนี้  ระบุ Release Port = รหัสสถานที่ตรวจปล่อยของเขตประกอบการเสรีที่นำออก ที่ส่วนควบคุมในใบขนสินค้า ระบุ Load Port = รหัสสถานที่รับบรรทุกของของเขตประกอบการเสรีที่นำออก ที่ส่วนควบคุม ในใบขนสินค้า ระบุ Export Tax Incentives ID = เลขที่ทะเบียนสิทธิ์ประโยชน์เขตประกอบการเสรีที่นำของออกที่ส่วนควบคุมในใบขนสินค้า ระบุ Bond = Y ที่ส่วนรายการในใบขนสินค้า ระบุ Import Tax Incentives ID = เลขที่ทะเบียนสิทธิ์ประโยชน์คลังสินค้าทัณฑ์บนที่นำของเข้า ที่ส่วนรายการในใบขนสินค้า โอนย้ายของเข้าโดยใช้สิทธิ์ขอคืนอากรตามมาตรา 29 การโอนย้ายของออกจากเขตประกอบการเสรี เพื่อโอนย้ายของเข้าโดยใช้สิทธิ์ขอคืนอากรตามมาตรา 29
 ผู้นำของเข้า ส่งใบขนสินค้าขาเข้าโอนย้ายออกจากเขตประกอบการเสรี C ให้ระบุค่าดังนี้  ระบุ Release Port = รหัสสถานที่ตรวจปล่อยของเขตประกอบการเสรีที่นำออก ที่ส่วนควบคุมใน ใบขนสินค้า ระบุ Load Port = รหัสสถานที่รับบรรทุกของของเขตประกอบการเสรีที่นำออก ที่ส่วนควบคุม ในใบขนสินค้า ระบุ Export Tax Incentives ID = เลขที่ทะเบียนสิทธิ์ประโยชน์เขตประกอบการเสรีที่นำของออกที่ส่วนควบคุมในใบขนสินค้า ระบุ Drawback = Y ที่ส่วนรายการในใบขนสินค้า ระบุ Import Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ขอคืนอากรตรมมาตรา มาตรา 29 ที่ส่วนรายการใน ใบขนสินค้า เพื่อชำระค่าภาษีอากรบริโภคภายในประเทศ การโอนย้ายของออกจากเขตประกอบการเสรี เพื่อชำระค่าภาษีอากรบริโภคภายในประเทศ</description>
@@ -889,11 +949,10 @@ Group E (การออกจากสถานที่) EXW (1) EXW (…….n
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/checking-mainfest/</guid>
-      <description>การตัดบัญชีใบขนสินค้ากับรายงานการนำของเข้า Table of Content
- การตรวจสอบข้อมูลใบขนสินค้ากับข้อมูล Manifest การตรวจสอบระหว่างใบขนสินค้ากับ Manifest เลขที่ใบอนุญาตให้ผ่านแดน (ศ.บ. 1) กรณีการนำเข้าทางบกที่ใช้ ศ.บ. 1 หลายฉบับ การตรวจสอบข้อมูลใบขนสินค้ากับข้อมูล Manifest  การยื่นใบขนสินค้าขาเข้าและการชำระค่าภาษีอากร หรือวางประกันค่าภาษีอากรสำหรับใบขนสินค้า ขาเข้าทุกประเภท ให้สามารถกระทำได้ทั้งก่อนและหลังวันเรือเข้า โดยผู้นำของเข้าหรือตัวแทนต้องสำแดงชื่อเรือ วันเรือเข้า ไว้ในใบขนสินค้าขาเข้า ให้ตรงตามข้อมูล Manifest
+      <description>การตัดบัญชีใบขนสินค้ากับรายงานการนำของเข้า การตรวจสอบข้อมูลใบขนสินค้ากับข้อมูล Manifest  การยื่นใบขนสินค้าขาเข้าและการชำระค่าภาษีอากร หรือวางประกันค่าภาษีอากรสำหรับใบขนสินค้า ขาเข้าทุกประเภท ให้สามารถกระทำได้ทั้งก่อนและหลังวันเรือเข้า โดยผู้นำของเข้าหรือตัวแทนต้องสำแดงชื่อเรือ วันเรือเข้า ไว้ในใบขนสินค้าขาเข้า ให้ตรงตามข้อมูล Manifest
  กรณีที่มีการเปลี่ยนแปลงวันเรือเข้า ภายหลังการปฏิบัติพิธีการและชำระค่าภาษีอากรหรือวางประกันแล้ว
  หากเป็นเหตุให้มีการเปลี่ยนแปลงอัตราแลกเปลี่ยนเงินตราต่างประเทศ อัตราอากร ให้ผู้นำของเข้าหรือตัวแทนยื่นคำร้องขอแก้ไขข้อมูลใบขนสินค้าขาเข้านั้น ต่อหน่วยบริการศุลกากรของ ด่านศุลกากรที่นำของเข้า หรือโรงพักสินค้าหรือที่มั่นคงซึ่งเป็นที่ตรวจและเก็บสินค้าดังกล่าว กรณีมีผลกระทบค่าภาษีอากรให้ผู้นำของเข้าหรือตัวแทนชำระค่าภาษีอากรหรือวางประกันค่าภาษีอากรให้ถูกต้องก่อน แล้วจึงจะสามารถรับการตรวจปล่อยสินค้าต่อไป  ข้อมูลบัญชีสินค้า (Manifest)
-     Seq. Field Name Format Field Description     1 Vessel Name an..35 ชื่อยานพาหนะ   2 Discharge Port n.</description>
+     Seq. Field Name Format Field Description     1 Vessel Name an..35 ชื่อยานพาหนะ   2 Discharge Port n..4 รหัสสถานที่นำเข้า   3 Arrival Date n8 วันที่นำเข้า   4 Master Bill of Lading an.</description>
     </item>
     
     <item>

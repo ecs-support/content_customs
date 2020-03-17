@@ -10,6 +10,6 @@ bookToc: false
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/the-customs-value.png)
 
--   [INCOTERMS](/knowledge-center/customs-clearance/docs/price/incoterms/)
+{{< button relref="/docs/price/incoterms">}}INCOTERMS{{< /button >}}
+{{< button relref="/docs/price/gatt_valuation">}}ระบบราคาแกตต์{{< /button >}}
 
--   [ระบบราคาแกตต์](/knowledge-center/customs-clearance/docs/price/gatt_valuation/)

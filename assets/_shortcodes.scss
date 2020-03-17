@@ -117,14 +117,21 @@
 // {{< button >}}
 a.book-btn {
   display: inline-block;
-  color: $color-link !important;
+  color: #003366;
   text-decoration: none !important;
-  border: $padding-1 solid $color-link;
+  border: $padding-2 solid $color-link;
   border-radius: $border-radius;
-  padding: $padding-4 $padding-16;
+  padding: 14px 28px;
   margin-top: $padding-8;
-  margin-bottom: $padding-8;
+  margin-bottom: $padding-8;  
   cursor: pointer;
+
+  &:hover {
+    color: white !important;
+    background-color: #FF6600;
+    
+    
+  }
 }
 
 // {{< hint >}}

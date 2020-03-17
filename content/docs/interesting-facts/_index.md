@@ -1,7 +1,7 @@
 ---
 title: สาระน่ารู้
 bookCollapseSection: true
-weight: 
+weight: 6
 bookToc: false
 ---
 

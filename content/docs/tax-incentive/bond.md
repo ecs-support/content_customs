@@ -216,6 +216,26 @@ bookToc: false
 
 {{< /tabs >}}
 
+## สรุป
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page18.jpg)
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page19.jpg)
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page20.jpg)
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page21.jpg)
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page22.jpg)
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page23.jpg)
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page24.jpg)
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page25.jpg)
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page26.jpg)
+
 > วันที่ปรับปรุงล่าสุด : 3 ตุลาคม 2562  
 > ที่มา : [กรมศุลกากร](http://www.customs.go.th/cont_strc_simple.php?ini_content=tax_incentive_160928_02_160928_02&ini_menu=menu_tax_incentive&root_left_menu=menu_tax_incentive_160928_03_180723_01_180723_01&lang=th&root_left_menu=menu_tax_incentive_160928_03_180723_01&left_menu=menu_tax_incentive_160928_03_180723_01_180723_01) 
 
