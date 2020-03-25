@@ -5,8 +5,11 @@ GitHub : https://github.com/gohugoio/hugo/tree/master/docs
 ## Image
 img : https://github.com/ecs-support/knowledge-center/raw/master/img/xxxxxxx.jpg
 
+
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/export-freezone-11-03-20.jpg)
 
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page1.jpg)
 
 {{<hint success>}}
 info: #003366,
@@ -14,6 +17,11 @@ warning: #FF6600,
 danger: red,
 success: green,
 {{< /hint>}}
+
+## Button
+
+{{< button relref="/" >}}Get Home{{< /button >}}
+{{< button href="https://github.com/alex-shpak/hugo-book" >}}Contribute{{< /button >}}
 
 
 {{< tabs "uniqueid" >}}

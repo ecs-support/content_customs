@@ -2,7 +2,7 @@
 
 weight: 5
 bookToc: true
-title: การคำนวณภาษีสินค้าสรรพสามิต
+title: ตัวอย่างการคำนวณภาษี
 bookCollapseSection: true
 ---
 
@@ -80,3 +80,35 @@ bookCollapseSection: true
 ![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/concentrated-drink-01.jpg)
 ![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/concentrated-drink-02.jpg)
 ![enter image description here](https://github.com/yosarawut/e-TaxIncentive/raw/master/img/concentrated-drink-03.jpg) 
+
+-----
+
+## รถยนต์ รถจักรยานยนต์ แบตเตอรี่
+
+การคำนวณภาษีรถยนต์ รถจักรยานยนต์ แบตเตอรี่ และผลิตภัณฑ์เครื่องหอมและเครื่องสำอาง เครื่องใช้ไฟฟ้า (โคมระย้า) แก้วและเครื่องแก้ว  พรมและสื่งทอปูพื้นอื่น ๆ
+
+![enter image description here](https://github.com/ecs-support/knowledge-center/raw/master/img/excise/car/car-01.png) 
+
+![enter image description here](https://github.com/ecs-support/knowledge-center/raw/master/img/excise/car/car-02.png) 
+
+![enter image description here](https://github.com/ecs-support/knowledge-center/raw/master/img/excise/car/car-03.png) 
+
+![enter image description here](https://github.com/ecs-support/knowledge-center/raw/master/img/excise/car/car-04.png) 
+
+![enter image description here](https://github.com/ecs-support/knowledge-center/raw/master/img/excise/car/car-05.png) 
+
+## น้ำมันและผลิตภัณฑ์น้ำมัน
+
+การคำนวณภาษีสินค้าที่จัดเก็บภาษีตามปริมาณเพียงอย่างเดียว ได้แก่ น้ำมันและผลิตภัณฑ์น้ำมันทุกพิกัด และไพ่
+
+![enter image description here](https://github.com/ecs-support/knowledge-center/raw/master/img/excise/oil/oil-01.png) 
+
+![enter image description here](https://github.com/ecs-support/knowledge-center/raw/master/img/excise/oil/oil-02.png) 
+
+![enter image description here](https://github.com/ecs-support/knowledge-center/raw/master/img/excise/oil/oil-03.png) 
+
+## การระบุ EXEMPT
+
+การระบุ EXEMPT กรณีของที่นำเข้าคลังทัณฑ์บน เขตปลอดอากร เขตประกอบการเสรี และของที่ได้รับยกเว้นอากรตามภาค 4 รวมทั้งของที่โอนย้ายระหว่างคลังสินค้าทัณฑ์บน เขตปลอดอากร เขตประกอบการเสรี
+
+![enter image description here](https://github.com/ecs-support/knowledge-center/raw/master/img/excise/exempt/exempt-01.png) 

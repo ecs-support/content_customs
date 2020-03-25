@@ -31,7 +31,7 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs/announce/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/announce/</loc>
   </url>
   
   <url>
@@ -40,6 +40,10 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/</loc>
   </url>
   
   <url>
@@ -71,6 +75,10 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/data-structure/</loc>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/data_structure_export/</loc>
   </url>
   
@@ -84,6 +92,10 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/service/thai-nsw/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/free-trade-area/wto/</loc>
   </url>
   
   <url>
@@ -124,6 +136,10 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/reserve-hs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/principles-for-recording/</loc>
   </url>
   
   <url>
@@ -171,6 +187,10 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/list-of-products/</loc>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/free-trade-area/acn/</loc>
   </url>
   
@@ -183,7 +203,15 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/part-4/</loc>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/cartype/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/input-tax-incentives/</loc>
   </url>
   
   <url>
@@ -207,11 +235,11 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/calculate_excise/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/quantity-and-weight/</loc>
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/quantity-and-weight/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/calculate_excise/</loc>
   </url>
   
   <url>
@@ -220,6 +248,10 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/arrival-date/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/check-data-declalation/</loc>
   </url>
   
   <url>
@@ -251,6 +283,10 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/contact-registration/</loc>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/transfer-of-goods/</loc>
   </url>
   
@@ -267,7 +303,15 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/declaration-no/</loc>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/shipping-marks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/duty-payment/</loc>
   </url>
   
   <url>
@@ -305,11 +349,19 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/goods-control-list-structure/</loc>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%82%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2/</loc>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/section_29/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/prepare-goods-control-list/</loc>
   </url>
   
   <url>
@@ -373,6 +425,10 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/free-trade-area/ahk/</loc>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/part-4/</loc>
   </url>
   
@@ -430,17 +486,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/</loc>
-    <lastmod>2019-11-26T17:04:13+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/</loc>
-    <lastmod>2019-11-26T17:04:13+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/newfunction/</loc>
-    <lastmod>2019-11-26T17:04:13+07:00</lastmod>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -463,7 +509,31 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/</loc>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/re-export/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/specific-local-vessel/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/process-modification-e_import-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/restricted-goods/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/rounding-decimal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/duty-e_commerce/</loc>
   </url>
   
 </urlset>

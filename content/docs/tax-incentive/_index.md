@@ -7,7 +7,7 @@ bookToc: false
 สิทธิประโยชน์ทางภาษีอากร
 ===
 
-![](https://github.com/ecs-support/knowledge-center/raw/master/img/tax-incentive-cover.png)
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/tax-incentive.png)
 
 พระราชบัญญัติศุลกากร พ.ศ. 2560 ซึ่งมีผลบังคับใช้ตั้งแต่ 13 พฤศจิกายน 2560 เป็นต้นมา ได้ยกเลิกบรรดาพระราชบัญญัติศุลกากรทุกฉบับที่เคยมีมา โดยได้จัดหมวดหมู่ของกฎหมายออกเป็น 9 หมวด และมีจำนวนถึง 3 หมวดที่บัญญัติในเรื่องสิทธิประโยชน์ทางภาษีอากร กล่าวคือ
 

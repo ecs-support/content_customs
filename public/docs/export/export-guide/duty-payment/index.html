@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="การชําระภาษีอากร"><meta property="og:title" content="การชําระภาษีอากร" />
+<meta property="og:description" content=" การชําระภาษีอากร  การบันทึกข้อมูลการชําระภาษีอากรผ่านธนาคาร การวางคํ้าประกันของธนาคาร เมื่อผู้ส่งของออกดําเนินการตั้งภาระค้ำประกันตามมาตรฐานที่กรมศุลกากรกําหนดแล้ว ระบบคอมพิวเตอร์ของศุลกากรจะออกเลขที่รับประกันธนาคาร พร้อมกับเปลี่ยนสถานะ ใบขนสินค้าขาออกเป็น “ใบขนสินค้าที่ชําระค่าภาษีอากรแล้ว” โดยอัตโนมัติ ชําระค่าภาษีอากร เมื่อผู้ส่งของออกชําระภาษีอากรแล้วระบบคอมพิวเตอร์ของศุลกากรจะออกเลขชําระค่าภาษีอากร พร้อมกับเปลี่ยนสถานะใบขนสินค้าขาออกเป็น “ใบขนสินค้าที่ชําระค่าภาษีอากรแล้ว” โดยอัตโนมัติ การวางคํ้าประกันของธนาคารและชําระค่าภาษีอากร เมื่อผู้ส่งของออกดําเนินการตั้งภาระค้ำประกันตามมาตรฐานที่กรมศุลกากรกําหนด และชําระภาษีอากรแล้ว ระบบคอมพิวเตอร์ของศุลกากรจะออกเลขที่รับประกันธนาคารและเลขชําระค่าภาษีอากร พร้อมกับเปลี่ยนสถานะใบขนสินค้าขาออกเป็น “ใบขนสินค้าที่ชําระค่าภาษีอากรแล้ว” โดยอัตโนมัติ ยกเว้นอากร ระบบคอมพิวเตอร์ของศุลกากรจะออก วันที่ยกเว้นอากร (ไม่มีเลขที่ยกเว้นอากร) พร้อมกับเปลี่ยนสถานะใบขนสินค้าขาออกเป็น “ใบขนสินค้าที่ยกเว้นอากรแล้ว” โดยอัตโนมัติ ตอบกลับข้อมูล ระบบคอมพิวเตอร์ของศุลกากรจะตอบกลับเลขที่วางประกัน หรือเลขที่ชําระอากรหรือวันที่ยกเว้นอากร กลับไปให้ผู้ส่งข้อมูลใบขนสินค้าขาออก (ตาม XML User)  " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/duty-payment/" />
+
+<title>การชําระภาษีอากร | Knowledge Center</title>
+<link rel="icon" href="/knowledge-center/customs-clearance/favicon.png" type="image/x-icon">
+
+
+<link rel="stylesheet" href="/knowledge-center/customs-clearance/book.min.4711656617c976a5ebc3388e498f5853d1f5f8f6316c7f8e96fb7d8b7550a71d.css" integrity="sha256-RxFlZhfJdqXrwziOSY9YU9H1&#43;PYxbH&#43;Olvt9i3VQpx0=">
+
+
+<script defer src="/knowledge-center/customs-clearance/en.search.min.4b9798166e29861216f74cea4c443c7fc454bb9478cc89c7f57e7b3dabe33a2a.js" integrity="sha256-S5eYFm4phhIW90zqTEQ8f8RUu5R4zInH9X57PavjOio="></script>
+
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+</head>
+
+<body>
+  <input type="checkbox" class="hidden" id="menu-control" />
+  <main class="flex container">
+
+    <aside class="book-menu fixed">
+      <nav>
+<h2 class="book-brand">
+  <a href="https://ecs-support.github.io/knowledge-center/customs-clearance"><span>Knowledge Center</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" />
+  <div class="book-search-spinner spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+    
+
+  
+  
+
+
+
+
+
+ 
+  
+    
+
+
+
+
+  
+  <ul>
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/import/" >
+      การนำเข้าสินค้า
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/export/" >
+      การส่งออกสินค้า
+  </a>
+
+
+    
+
+    
+
+
+
+
+  
+  <ul>
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/" >
+      คู่มือใบขนสินค้าขาออก
+  </a>
+
+
+    
+
+    
+
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/data-structure/" >
+      โครงสร้างข้อมูลใบขนสินค้า
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/principles-for-recording/" >
+      หลักการบันทึกข้อมูล
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/list-of-products/" >
+      หลักการรวมรายการสินค้า
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/part-4/" >
+      ภาค 4 ของที่ได้รับยกเว้นอากร
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/input-tax-incentives/" >
+      สิทธิประโยชน์ทางภาษีอากร
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/check-data-declalation/" >
+      การตรวจสอบข้อมูลใบขนสินค้า
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/contact-registration/" >
+      การตรวจสอบทะเบียนผู้มาติดต่อ
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/declaration-no/" >
+      รูปแบบเลขที่ใบขนสินค้า
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/duty-payment/"  class="active">
+      การชําระภาษีอากร
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/goods-control-list-structure/" >
+      โครงสร้างใบกำกับการขนย้าย
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/prepare-goods-control-list/" >
+      การจัดทําข้อมูลใบกํากับการขนย้ายสินค้า
+  </a>
+
+</li>
+      
+    
+  </ul>
+  
+
+
+
+  </li>
+
+
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/re-export/" >
+      Re-export
+  </a>
+
+</li>
+      
+    
+  </ul>
+  
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/transit/" >
+      ถ่ายลำ/ผ่านแดน
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/tax-incentive/" >
+      สิทธิประโยชน์ทางภาษีอากร
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/free-trade-area/" >
+      สิทธิพิเศษทางการค้า
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/service/" >
+      บริการ
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/price/" >
+      ราคาศุลกากร
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/interesting-facts/" >
+      สาระน่ารู้
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/customs-law/" >
+      กฎหมายศุลกากร
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/reference/" >
+      ข้อมูลอ้างอิง
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/company/" >
+      ผู้ประกอบการ
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/faq/" >
+      FAQ
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/customs/" >
+      กรมศุลกากร
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+  </ul>
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+<script>
+(function() {
+  var menu = document.querySelector("aside.book-menu nav");
+  addEventListener("beforeunload", function(event) {
+    localStorage.setItem("menu.scrollTop", menu.scrollTop);
+  });
+  menu.scrollTop = localStorage.getItem("menu.scrollTop");
+})();
+</script>
+
+    </aside>
+
+    <div class="book-page">
+      <header class="flex align-center justify-between book-header">
+  <label for="menu-control">
+    <img src="/knowledge-center/customs-clearance/svg/menu.svg" alt="Menu" />
+  </label>
+  <strong>การชําระภาษีอากร</strong>
+</header>
+
+      
+<article class="markdown">
+
+<h1 id="การช-าระภาษ-อากร">การชําระภาษีอากร</h1>
+
+<ul>
+<li>การบันทึกข้อมูลการชําระภาษีอากรผ่านธนาคาร</li>
+<li>การวางคํ้าประกันของธนาคาร เมื่อผู้ส่งของออกดําเนินการตั้งภาระค้ำประกันตามมาตรฐานที่กรมศุลกากรกําหนดแล้ว ระบบคอมพิวเตอร์ของศุลกากรจะออกเลขที่รับประกันธนาคาร พร้อมกับเปลี่ยนสถานะ ใบขนสินค้าขาออกเป็น <strong>“ใบขนสินค้าที่ชําระค่าภาษีอากรแล้ว”</strong> โดยอัตโนมัติ</li>
+<li>ชําระค่าภาษีอากร เมื่อผู้ส่งของออกชําระภาษีอากรแล้วระบบคอมพิวเตอร์ของศุลกากรจะออกเลขชําระค่าภาษีอากร พร้อมกับเปลี่ยนสถานะใบขนสินค้าขาออกเป็น <strong>“ใบขนสินค้าที่ชําระค่าภาษีอากรแล้ว”</strong> โดยอัตโนมัติ</li>
+<li>การวางคํ้าประกันของธนาคารและชําระค่าภาษีอากร เมื่อผู้ส่งของออกดําเนินการตั้งภาระค้ำประกันตามมาตรฐานที่กรมศุลกากรกําหนด และชําระภาษีอากรแล้ว ระบบคอมพิวเตอร์ของศุลกากรจะออกเลขที่รับประกันธนาคารและเลขชําระค่าภาษีอากร พร้อมกับเปลี่ยนสถานะใบขนสินค้าขาออกเป็น <strong>“ใบขนสินค้าที่ชําระค่าภาษีอากรแล้ว”</strong> โดยอัตโนมัติ</li>
+<li>ยกเว้นอากร ระบบคอมพิวเตอร์ของศุลกากรจะออก วันที่ยกเว้นอากร (ไม่มีเลขที่ยกเว้นอากร)
+พร้อมกับเปลี่ยนสถานะใบขนสินค้าขาออกเป็น <strong>“ใบขนสินค้าที่ยกเว้นอากรแล้ว”</strong> โดยอัตโนมัติ</li>
+<li>ตอบกลับข้อมูล ระบบคอมพิวเตอร์ของศุลกากรจะตอบกลับเลขที่วางประกัน หรือเลขที่ชําระอากรหรือวันที่ยกเว้นอากร กลับไปให้ผู้ส่งข้อมูลใบขนสินค้าขาออก (ตาม XML User)</li>
+</ul>
+</article>
+
+      <div class="book-footer justify-between">
+  
+
+  
+
+  
+  <div>
+    <a class="flex align-center" href="https://github.com/alex-shpak/hugo-book/edit/master/exampleSite/content/docs%5cexport%5cexport-guide%5cduty-payment.md" target="_blank">
+      <img src="/knowledge-center/customs-clearance/svg/edit.svg" alt="Edit" />
+      <span>Edit this page</span>
+    </a>
+  </div>
+  
+
+</div>
+
+      
+    </div>
+
+    
+  
+
+
+
+  </main>
+
+  
+</body>
+
+</html>

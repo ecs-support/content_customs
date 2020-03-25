@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="โครงสร้างข้อมูลใบขนสินค้า"><meta property="og:title" content="โครงสร้างข้อมูลใบขนสินค้า" />
+<meta property="og:description" content="โครงสร้างข้อมูลใบขนสินค้าขาออก โครงสร้างข้อมูลใบขนสินค้าขาออก แบ่งได้เป็น 6 ส่วนดังนี้  Export Declaration Control ประกอบด้วย 70 Fields Export Invoice Control ประกอบด้วย 35 Fields Export Invoice Detail ประกอบด้วย 72 Fields Export Invoice Detail (Duty) ประกอบด้วย 11 Fields Export Invoice Detail (Permit) ประกอบด้วย 3 Fields Export Invoice Detail (Deposit) ประกอบด้วย 2 Fields  เงื่อนไขการบันทึกข้อมูล ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้  หาก Field ใด กำหนดให้ต้องระบุค่า (Value = M) แต่ผู้บันทึกไม่สามารถหาข้อมูลได้ สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์) หาก Field ใด กำหนดให้ไม่ต้องระบุค่า (Value = O) และผู้บันทึกไม่สามารถหาข้อมูลได้ ก็ไม่ต้องบันทึกค่าใด ๆ หาก Field ใด กำหนดให้ต้องระบุค่า เมื่อเข้าเงื่อนไขที่กำหนด (Value = C) แต่ผู้บันทึกไม่สามารถหาข้อมูลได้ สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)   อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล    อักษรย่อ คำอธิบาย     n3 ข้อมูลชนิดตัวเลข (Numeric Characters) คงที่ คือ 3 ตัวอักษร   a3 ข้อมูลชนิดตัวอักษร (Alphabetic Characters) คงที่ คือ 3 ตัวอักษร   an3 ข้อมูลชนิดตัวอักษรหรือตัวเลข คงที่ คือ 3 ตัวอักษร   n." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/data-structure/" />
+
+<title>โครงสร้างข้อมูลใบขนสินค้า | Knowledge Center</title>
+<link rel="icon" href="/knowledge-center/customs-clearance/favicon.png" type="image/x-icon">
+
+
+<link rel="stylesheet" href="/knowledge-center/customs-clearance/book.min.4711656617c976a5ebc3388e498f5853d1f5f8f6316c7f8e96fb7d8b7550a71d.css" integrity="sha256-RxFlZhfJdqXrwziOSY9YU9H1&#43;PYxbH&#43;Olvt9i3VQpx0=">
+
+
+<script defer src="/knowledge-center/customs-clearance/en.search.min.4b9798166e29861216f74cea4c443c7fc454bb9478cc89c7f57e7b3dabe33a2a.js" integrity="sha256-S5eYFm4phhIW90zqTEQ8f8RUu5R4zInH9X57PavjOio="></script>
+
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+</head>
+
+<body>
+  <input type="checkbox" class="hidden" id="menu-control" />
+  <main class="flex container">
+
+    <aside class="book-menu fixed">
+      <nav>
+<h2 class="book-brand">
+  <a href="https://ecs-support.github.io/knowledge-center/customs-clearance"><span>Knowledge Center</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" />
+  <div class="book-search-spinner spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+    
+
+  
+  
+
+
+
+
+
+ 
+  
+    
+
+
+
+
+  
+  <ul>
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/import/" >
+      การนำเข้าสินค้า
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/export/" >
+      การส่งออกสินค้า
+  </a>
+
+
+    
+
+    
+
+
+
+
+  
+  <ul>
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/" >
+      คู่มือใบขนสินค้าขาออก
+  </a>
+
+
+    
+
+    
+
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/data-structure/"  class="active">
+      โครงสร้างข้อมูลใบขนสินค้า
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/principles-for-recording/" >
+      หลักการบันทึกข้อมูล
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/list-of-products/" >
+      หลักการรวมรายการสินค้า
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/part-4/" >
+      ภาค 4 ของที่ได้รับยกเว้นอากร
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/input-tax-incentives/" >
+      สิทธิประโยชน์ทางภาษีอากร
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/check-data-declalation/" >
+      การตรวจสอบข้อมูลใบขนสินค้า
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/contact-registration/" >
+      การตรวจสอบทะเบียนผู้มาติดต่อ
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/declaration-no/" >
+      รูปแบบเลขที่ใบขนสินค้า
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/duty-payment/" >
+      การชําระภาษีอากร
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/goods-control-list-structure/" >
+      โครงสร้างใบกำกับการขนย้าย
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/export-guide/prepare-goods-control-list/" >
+      การจัดทําข้อมูลใบกํากับการขนย้ายสินค้า
+  </a>
+
+</li>
+      
+    
+  </ul>
+  
+
+
+
+  </li>
+
+
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/export/re-export/" >
+      Re-export
+  </a>
+
+</li>
+      
+    
+  </ul>
+  
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/transit/" >
+      ถ่ายลำ/ผ่านแดน
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/tax-incentive/" >
+      สิทธิประโยชน์ทางภาษีอากร
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/free-trade-area/" >
+      สิทธิพิเศษทางการค้า
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/service/" >
+      บริการ
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/price/" >
+      ราคาศุลกากร
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/interesting-facts/" >
+      สาระน่ารู้
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/customs-law/" >
+      กฎหมายศุลกากร
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/reference/" >
+      ข้อมูลอ้างอิง
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/company/" >
+      ผู้ประกอบการ
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/faq/" >
+      FAQ
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/knowledge-center/customs-clearance/docs/customs/" >
+      กรมศุลกากร
+  </a>
+
+
+    
+
+    
+
+
+
+
+
+
+  </li>
+
+
+      
+    
+  </ul>
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+<script>
+(function() {
+  var menu = document.querySelector("aside.book-menu nav");
+  addEventListener("beforeunload", function(event) {
+    localStorage.setItem("menu.scrollTop", menu.scrollTop);
+  });
+  menu.scrollTop = localStorage.getItem("menu.scrollTop");
+})();
+</script>
+
+    </aside>
+
+    <div class="book-page">
+      <header class="flex align-center justify-between book-header">
+  <label for="menu-control">
+    <img src="/knowledge-center/customs-clearance/svg/menu.svg" alt="Menu" />
+  </label>
+  <strong>โครงสร้างข้อมูลใบขนสินค้า</strong>
+</header>
+
+      
+<article class="markdown">
+
+<h1 id="โครงสร-างข-อม-ลใบขนส-นค-าขาออก">โครงสร้างข้อมูลใบขนสินค้าขาออก</h1>
+
+<h2 id="โครงสร-างข-อม-ลใบขนส-นค-าขาออก-แบ-งได-เป-น-6-ส-วนด-งน">โครงสร้างข้อมูลใบขนสินค้าขาออก แบ่งได้เป็น 6 ส่วนดังนี้</h2>
+
+<ol>
+<li><a href="#export-declaration-control"><strong>Export Declaration Control</strong></a>    ประกอบด้วย  70 Fields</li>
+<li><a href="#export-invoice-control"><strong>Export Invoice Control</strong></a>    ประกอบด้วย  35 Fields</li>
+<li><a href="#export-invoice-detail"><strong>Export Invoice Detail</strong></a>  ประกอบด้วย  72 Fields</li>
+<li><a href="#export-invoice-duty"><strong>Export Invoice Detail (Duty)</strong></a> ประกอบด้วย  11 Fields</li>
+<li><a href="#export-invoice-permit"><strong>Export Invoice Detail (Permit)</strong></a> ประกอบด้วย   3 Fields</li>
+<li><a href="#export-invoice-deposit"><strong>Export Invoice Detail (Deposit)</strong></a>   ประกอบด้วย   2 Fields</li>
+</ol>
+
+<h2 id="เง-อนไขการบ-นท-กข-อม-ล-ในกรณ-ผ-บ-นท-กไม-สามารถหาข-อม-ลได">เงื่อนไขการบันทึกข้อมูล ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้</h2>
+
+<ol>
+<li>หาก Field ใด กำหนดให้ต้องระบุค่า <strong>(Value = M)</strong> แต่ผู้บันทึกไม่สามารถหาข้อมูลได้</li>
+<li>สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A</li>
+<li>สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)</li>
+<li>หาก Field ใด กำหนดให้ไม่ต้องระบุค่า <strong>(Value = O)</strong> และผู้บันทึกไม่สามารถหาข้อมูลได้ ก็ไม่ต้องบันทึกค่าใด ๆ</li>
+<li>หาก Field ใด กำหนดให้ต้องระบุค่า เมื่อเข้าเงื่อนไขที่กำหนด <strong>(Value = C)</strong> แต่ผู้บันทึกไม่สามารถหาข้อมูลได้</li>
+<li>สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A</li>
+<li>สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)
+<br /></li>
+</ol>
+
+<h2 id="อ-กษรย-อ-ท-ใช-ในการอธ-บายร-ปแบบชน-ดของข-อม-ล">อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล</h2>
+
+<table>
+<thead>
+<tr>
+<th align="center">อักษรย่อ</th>
+<th>คำอธิบาย</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center">n3</td>
+<td>ข้อมูลชนิดตัวเลข (Numeric Characters) คงที่ คือ 3 ตัวอักษร</td>
+</tr>
+
+<tr>
+<td align="center">a3</td>
+<td>ข้อมูลชนิดตัวอักษร (Alphabetic Characters) คงที่ คือ 3 ตัวอักษร</td>
+</tr>
+
+<tr>
+<td align="center">an3</td>
+<td>ข้อมูลชนิดตัวอักษรหรือตัวเลข คงที่ คือ 3 ตัวอักษร</td>
+</tr>
+
+<tr>
+<td align="center">n..3</td>
+<td>ข้อมูลชนิดตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 3 ตัวอักษร</td>
+</tr>
+
+<tr>
+<td align="center">a..3</td>
+<td>ข้อมูลชนิดตัวอักษรความยาวข้อมูลแปรผันตามความยาวสูงสุด 3 ตัวอักษร</td>
+</tr>
+
+<tr>
+<td align="center">an..3</td>
+<td>ข้อมูลชนิดตัวอักษรหรือตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 3 ตัวอักษร</td>
+</tr>
+
+<tr>
+<td align="center">n..16,2</td>
+<td>ข้อมูลชนิดตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 16 ตัวอักษรรวมความยาวทศนิยมสูงสุด 2 ตัวอักษร</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="export-declaration-control">Export Declaration Control</h3>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page5.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page6.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page7.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page8.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page9.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page10.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page11.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page12.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page13.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page14.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page15.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page16.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page117jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page18.jpg" alt="" /></p>
+
+<h3 id="export-invoice-control">Export Invoice Control</h3>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page19.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page20.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page21.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page22.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page23.jpg" alt="" /></p>
+
+<h3 id="export-invoice-detail">Export Invoice Detail</h3>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page24.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page25.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page26.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page27.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page28.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page29.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page30.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page31.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page32.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page33.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page34.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page35.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page36.jpg" alt="" /></p>
+
+<h3 id="export-invoice-duty">Export Invoice Duty</h3>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page37.jpg" alt="" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page38.jpg" alt="" /></p>
+
+<h3 id="export-invoice-permit">Export Invoice Permit</h3>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page39.jpg" alt="" /></p>
+
+<h3 id="export-invoice-deposit">Export Invoice Deposit</h3>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page40.jpg" alt="" /></p>
+</article>
+
+      <div class="book-footer justify-between">
+  
+
+  
+
+  
+  <div>
+    <a class="flex align-center" href="https://github.com/alex-shpak/hugo-book/edit/master/exampleSite/content/docs%5cexport%5cexport-guide%5cdata-structure.md" target="_blank">
+      <img src="/knowledge-center/customs-clearance/svg/edit.svg" alt="Edit" />
+      <span>Edit this page</span>
+    </a>
+  </div>
+  
+
+</div>
+
+      
+    </div>
+
+    
+  
+
+  <aside class="book-toc levels-true fixed">
+    <nav id="TableOfContents">
+<ul>
+<li><a href="#โครงสร-างข-อม-ลใบขนส-นค-าขาออก">โครงสร้างข้อมูลใบขนสินค้าขาออก</a>
+<ul>
+<li><a href="#โครงสร-างข-อม-ลใบขนส-นค-าขาออก-แบ-งได-เป-น-6-ส-วนด-งน">โครงสร้างข้อมูลใบขนสินค้าขาออก แบ่งได้เป็น 6 ส่วนดังนี้</a></li>
+<li><a href="#เง-อนไขการบ-นท-กข-อม-ล-ในกรณ-ผ-บ-นท-กไม-สามารถหาข-อม-ลได">เงื่อนไขการบันทึกข้อมูล ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้</a></li>
+<li><a href="#อ-กษรย-อ-ท-ใช-ในการอธ-บายร-ปแบบชน-ดของข-อม-ล">อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล</a>
+<ul>
+<li><a href="#export-declaration-control">Export Declaration Control</a></li>
+<li><a href="#export-invoice-control">Export Invoice Control</a></li>
+<li><a href="#export-invoice-detail">Export Invoice Detail</a></li>
+<li><a href="#export-invoice-duty">Export Invoice Duty</a></li>
+<li><a href="#export-invoice-permit">Export Invoice Permit</a></li>
+<li><a href="#export-invoice-deposit">Export Invoice Deposit</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+  </aside>
+
+
+
+  </main>
+
+  
+</body>
+
+</html>

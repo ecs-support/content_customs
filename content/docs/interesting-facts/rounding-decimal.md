@@ -1,0 +1,11 @@
+---
+title: หลักการปัดเศษทศนิยมยอดรวมภาษี
+bookCollapseSection: true
+weight: 
+bookToc: false
+---
+
+หลักการปัดเศษทศนิยมยอดรวมภาษีประเภทต่าง ๆ  
+===
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/rounding-decimal.png)

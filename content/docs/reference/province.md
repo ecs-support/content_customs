@@ -115,10 +115,7 @@ table .input-group {
 | 77  | 96           | นราธิวาส        |
 
 <script>
-var rows = document.querySelector(".markdown table tbody").rows;
-for (var i = 0; i < 20; i++) {
-  rows[i].style.display = "none";
-}
+
 
 function filterTable(event) {
     var filter = event.target.value.toUpperCase();
