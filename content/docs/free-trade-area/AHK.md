@@ -95,6 +95,8 @@ bookToc: false
 
 > ที่มาข้อมูล : [กรมการค้าต่างประเทศ](http://www.dft.go.th/th-th/DFT-Service/ServiceData-Information/dft-service-data-privilege/Detail-dft-service-data-privilege/ArticleId/13403/13403)
 
+## ประกาศ / กฎหมาย ที่เกี่ยวข้อง
+
 {{< tabs "uniqueid" >}}
 {{< tab "ประกาศกระทรวงการคลัง" >}} 
 
@@ -125,7 +127,7 @@ bookToc: false
 {{< /tabs >}}
 
 {{< hint success >}}
-ที่มาบทความ : [กรมศุลกากร](http://www.customs.go.th/cont_strc_simple_net_with_download.php?ini_content=usage_fta_and_wto_01_23&)
+ที่มา : [กรมศุลกากร](http://www.customs.go.th/cont_strc_simple_net_with_download.php?ini_content=usage_fta_and_wto_01_23&)
 
 **สอบถามข้อมูลเพิ่มเติมได้ที่ :** ส่วนกฎว่าด้วยถิ่นกำเนิดสินค้า (สกก.) กองพิกัดอัตราศุลกากร (กพก.)  
 - หมายเลขโทรศัพท์ : 0-2667-7014 หรือ 0-2667-6459  
