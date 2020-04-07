@@ -2,6 +2,7 @@ html {
   font-size: $font-size-base;
   letter-spacing: 0.33px;
   scroll-behavior: smooth;
+ 
 }
 
 html,
@@ -45,12 +46,17 @@ a {
 
 img {
   vertical-align: baseline;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 aside nav ul {
   padding: 0;
   margin: 0;
   list-style: none;
+  
+  
 
   li {
     margin: 1em 0;
@@ -62,11 +68,20 @@ aside nav ul {
 
   a:hover {
     
-    color:#E32934;
-    
+    color:#E32934;  
+    text-decoration: underline;
 
   }
-
+    a.active {
+      
+      opacity: 1;
+      color: black;
+      text-decoration: underline;
+      font-weight: 600;
+      line-height: 1.5rem;
+      background-color : #FF6600;
+    }
+  
   ul {
     padding-left: $padding-16;
   }
@@ -88,17 +103,20 @@ ul.pagination {
   list-style-type: none;
 
   .page-item a {
-    padding: $padding-16;
+    padding: $padding-4;
   }
 }
 
 .container {
   max-width: $container-max-width;
   margin: 0 auto;
+  
 }
 
 .book-brand {
   margin-top: 0;
+  padding-top: $padding-16;
+
 
   img {
     height: 1.5em;
@@ -111,28 +129,31 @@ ul.pagination {
 .book-menu {
   flex: 0 0 $menu-width;
   font-size: $font-size-14;
+  border-right: $padding-2 solid $gray-400;
+  border-radius: $border-radius;
+  
 
   nav {
     width: $menu-width;
-    padding: $padding-16;
+    padding: $padding-8;
 
     @include fixed;
   }
 
   a {
     color: inherit;
+    
   }
 
-  a.active {
-    color: $color-link;
-  }
+
+
 }
 
 .book-section-flat {
-  margin-bottom: $padding-16 * 2;
+  margin-bottom: $padding-8 ;
 
   &:not(:first-child) {
-    margin-top: $padding-16 * 2;
+    margin-top: $padding-4 ;
   }
 
   > a,
@@ -149,11 +170,11 @@ ul.pagination {
 .book-page {
   min-width: $body-min-width;
   flex-grow: 1;
-  padding: $padding-16;
+  padding: $padding-8;
 }
 
 .book-header {
-  margin-bottom: $padding-16;
+  margin-bottom: $padding-8;
   display: none;
 }
 
@@ -202,11 +223,18 @@ ul.pagination {
 
 .book-toc {
   flex: 0 0 $toc-width;
-  font-size: $font-size-12;
+  font-size: $font-size-14;
+  color: $body-font-color;
+  border-left: $padding-2 solid $gray-400;
+  border-radius: $border-radius;
+a {
+  color: $body-font-color;
 
+
+}
   nav {
     width: $toc-width;
-    padding: $padding-16;
+    
 
     @include fixed;
   }
@@ -214,15 +242,20 @@ ul.pagination {
   img {
     height: 1em;
   }
+  
 
   nav > ul > li:first-child {
-    margin-top: 0;
+    margin-top: 10;
   }
+  
+
 }
+
+
 
 .book-footer {
   display: flex;
-  padding-top: $padding-16;
+  color: $body-font-color;
   font-size: $font-size-14;
 
   img {
@@ -236,7 +269,7 @@ ul.pagination {
   position: relative;
   overflow: visible;
 
-  padding: $padding-16;
+  
   margin: -$padding-16;
 
   &:hover .book-languages-list {
@@ -255,7 +288,7 @@ ul.pagination {
     box-shadow: 0 0 $padding-4 rgba(0, 0, 0, 0.1);
 
     li {
-      padding: $padding-8 $padding-16;
+      padding: $padding-8 $padding-8;
       white-space: nowrap;
     }
 
@@ -270,6 +303,7 @@ ul.pagination {
     a {
       color: inherit;
     }
+    
   }
 
   ul {
@@ -281,7 +315,7 @@ ul.pagination {
 
 .book-posts {
   min-width: $body-min-width;
-  max-width: $body-min-width * 2;
+  max-width: $body-min-width ;
   flex-grow: 1;
   padding: $padding-16;
 
@@ -343,6 +377,6 @@ aside nav,
   .book-posts,
   .book-menu nav,
   .book-toc nav {
-    padding: $padding-16 * 2 $padding-16;
+    padding: $padding-8 $padding-8 ;
   }
 }

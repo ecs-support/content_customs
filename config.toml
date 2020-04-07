@@ -43,7 +43,7 @@ pygmentsCodeFences = true
 
   # (Optional, default none) Set leaf bundle to render as side menu
   # When not specified file structure and weights will be used
-  # BookMenuBundle = '/menu'
+  #BookMenuBundle = '/menu'
 
   # (Optional, default docs) Specify section of content to render as menu
   # You can also set value to '*' to render all sections to menu
@@ -61,9 +61,23 @@ pygmentsCodeFences = true
   # Configure the date format used on the pages
   # - In git information
   # - In blog posts
-  BookDateFormat = '02/01/2006'
+  BookDateFormat = '01/02/2006'
 
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
   BookSearch = true
+
+  # (Optional, default true) Enables comments template on pages
+  # By default partals/docs/comments.html includes Disqus template
+  # See https://gohugo.io/content-management/comments/#configure-disqus
+  # Can be overwritten by same param in page frontmatter
+  BookComments = true
+
+  # /!\ This is an experimental feature, might be removed or changed at any time
+  # (Optional, experimental, default false) Enables portable links and link checks in markdown pages.
+  # Portable links meant to work with text editors and let you write markdown without {{< relref >}} shortcode
+  # Theme will print warning if page referenced in markdown does not exists.
+  BookPortableLinks = true
+
+ 
 

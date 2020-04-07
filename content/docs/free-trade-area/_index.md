@@ -29,6 +29,20 @@ Free Trade Area หรือเขตการค้าเสรี เป็น
 ### เขตการค้าเสรีที่สำคัญของไทย
 เขตการค้าเสรีที่มีมูลค่าสูงในทางการค้า ได้แก่ เขตการค้าเสรีอาเซียน (AFTA) เขตการค้าเสรีอาเซียน-จีน ไทย-ญี่ปุ่น อาเซียน-เกาหลี เป็นต้น
 
+## Table of Content  
+
+{{<hint  warning>}}
+
+-   [Checklist กฎว่าด้วยถิ่นกำเนิดสินค้า](/knowledge-center/customs-clearance/docs/free-trade-area/checklist/)
+-   [WTO](/knowledge-center/customs-clearance/docs/free-trade-area/wto/)
+-   [เขตการค้าเสรีอาเซียน (AFTA)](/knowledge-center/customs-clearance/docs/free-trade-area/asean/)
+-   [อาเซียน - จีน (ASEAN - China)](/knowledge-center/customs-clearance/docs/free-trade-area/acn/)
+-   [อาเซียน-เกาหลี (ASEAN - Korea)](/knowledge-center/customs-clearance/docs/free-trade-area/ak/)
+-   [ไทย-ญี่ปุ่น (JTEPA)](/knowledge-center/customs-clearance/docs/free-trade-area/jtepa/)
+-   [อาเซียน-ฮ่องกง (ASEAN – Hong Kong)](/knowledge-center/customs-clearance/docs/free-trade-area/ahk/)
+{{< /hint>}}
+
+
 {{< hint success >}}
 - **สอบถามข้อมูลเพิ่มเติมได้ที่ :** ส่วนกฎว่าด้วยถิ่นกำเนิดสินค้า (สกก.) กองพิกัดอัตราศุลกากร (กพก.) 
 กรมศุลกากร เลขที่ 1 ถ.สุนทรโกษา คลองเตย กทม. 10110  

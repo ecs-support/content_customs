@@ -1,7 +1,7 @@
 ---
 weight: 9
 bookFlatSection: true
-title: 9. Shipping Marks
+title: Shipping Marks
 bookToc: false
 ---
 

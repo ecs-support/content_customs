@@ -33,3 +33,5 @@ bookToc: false
 -   [คำอธิบายพระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560](https://www.excise.go.th/cs/groups/public/documents/document/dwnt/mjk4/~edisp/uatucm298930.pdf)    
 -   [พระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560 (ภาษาอังกฤษ)](https://www.excise.go.th/cs/groups/public/documents/document/dwnt/mjk4/~edisp/uatucm298729.pdf)
 -   [หลักเกณฑ์ วิธีการ และเงื่อนไข ผ่อนผันการแจ้งราคาขายปลีกแนะนําและโครงสร้างราคาขายปลีกแนะนํา](https://github.com/ecs-support/knowledge-center/raw/master/data/exampt-price-retail.pdf)
+- [การปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์สำหรับสินค้านำเข้าตามกฎหมายว่าด้วยภาษีสรรพสามิต](http://th.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f46464b46464b46)
+- [การปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์สำหรับสินค้านำเข้าที่กรมสรรพสามิตประกาศขยายกำหนดเวลาการปฏิบัติตามพระราชบัญญัติภาษีสรรพสามิต พ.ศ.2560](http://th.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f49464b46464b49)

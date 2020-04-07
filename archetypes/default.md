@@ -1,6 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+publishdate: ""
+lastmod: ""
+draft: false
+toc: true
+bookCollapseSection: true
+weight: 
 ---
 

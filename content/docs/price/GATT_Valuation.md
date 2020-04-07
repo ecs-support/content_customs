@@ -2,7 +2,7 @@
 title: ระบบราคาแกตต์
 bookCollapseSection: true
 weight: 1
-bookToc: false
+bookToc: true
 ---
 
 ระบบราคาแกตต์ (GATT Valuation)

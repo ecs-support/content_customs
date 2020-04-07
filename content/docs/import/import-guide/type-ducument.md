@@ -1,7 +1,7 @@
 ---
 weight: 4
 bookFlatSection: true
-title: 4. ประเภทของเอกสาร
+title: ประเภทของเอกสาร
 bookToc: false
 ---
 

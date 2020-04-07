@@ -1,7 +1,7 @@
 ---
 weight: 5
 bookFlatSection: true
-title: 5. ระบบทะเบียนผู้มาติดต่อ
+title: ระบบทะเบียนผู้มาติดต่อ
 bookToc: false
 ---
 

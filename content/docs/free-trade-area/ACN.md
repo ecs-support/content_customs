@@ -2,7 +2,7 @@
 title: อาเซียน - จีน (ASEAN - China)
 bookCollapseSection: true
 weight: 3
-bookToc: false
+bookToc: true
 ---
 
 เขตการค้าเสรีอาเซียน - จีน (ASEAN - China Free Trade Agreement)

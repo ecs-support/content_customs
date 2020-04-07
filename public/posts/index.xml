@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Knowledge Center</title>
+    <title>ECS@Post on Knowledge Center</title>
     <link>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/</link>
-    <description>Recent content in Posts on Knowledge Center</description>
+    <description>Recent content in ECS@Post on Knowledge Center</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
@@ -41,6 +41,19 @@ E-Bill Payment
 ๑.กฎกระทรวงกำหนดด่านศุลกากรและด่านพรมแดน พ.ศ. ๒๕๖๐
 ๒.กฎกระทรวงกำหนดค่าธรรมเนียมและยกเว้นค่าธรรมเนียม พ.ศ. ๒๕๖๐
 ๓.กฎกระทรวงกำหนดการยื่นใบขนสินค้าและการเสียอากรสำหรับก๊าซธรรมชาติและพลังงานไฟฟ้าที่นำเข้ามาในหรือส่งออกไปนอกราชอาณาจักร พ.ศ. ๒๕๖๐</description>
+    </item>
+    
+    <item>
+      <title>การยกเว้นอากรตามภาค 4</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/part-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/part-4/</guid>
+      <description>การยกเว้นอากรตามภาค 4 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530 1 ภาค 4 รายการสุทธินำกลับ...1 ภาค 4 รายการสุทธินำกลับ ของที่ส่งออกรวมทั้งของที่ส่งกลับออกไป ซึ่งนำกลับเข้ามา ภายในหนึ่งปีโดยไม่เปลี่ยนแปลงลักษณะหรือรูปแต่ประการใด และในเวลาที่ส่งออกนั้นได้รับใบสุทธิสำหรับนำกลับเข้ามาแล้วได้รับยกเว้นอากร ให้ผู้ขอยกเว้นอากร จัดทำและส่งข้อมูลใบขนสินค้าขาเข้า โดยระบุค่าดังนี้
+ ระบุ Re - Importation Certificate = Y ที่ส่วนรายการในใบขนสินค้า
+ การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า
+ ระบุ Import Tariff = 1PART4 ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า
+ อัตราอากร ใช้ Tariff Code และ Tariff Sequence อากร ยกเว้น (บันทึก Exemption Rate = 100%) VAT ยกเว้น (บันทึก Exemption Rate = 100%) บันทึกเลขที่ใบขนสินค้าขาออกและรายการที่ของใบขนสินค้าขาออกที่อ้างถึง</description>
     </item>
     
     <item>
@@ -86,6 +99,15 @@ More complete instructions are available at Install Hugo
 Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
 Follow the following steps:
  Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>ข้อมูลพื้นฐานสถานศึกษาในประเทศไทย</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/test-embed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/test-embed/</guid>
+      <description> ข้อมูลพื้นฐานสถานศึกษาในประเทศไทย   </description>
     </item>
     
   </channel>

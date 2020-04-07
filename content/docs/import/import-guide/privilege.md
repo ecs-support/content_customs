@@ -1,7 +1,7 @@
 ---
 weight: 27
 bookFlatSection: true
-title: 27. รหัสสิทธิพิเศษ ตามความตกลงระหว่างประเทศ
+title: รหัสสิทธิพิเศษ ตามความตกลงระหว่างประเทศ
 bookToc: false
 ---
 

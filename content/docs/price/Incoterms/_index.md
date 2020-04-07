@@ -2,7 +2,7 @@
 title: INCOTERMS
 bookCollapseSection: true
 weight: 1
-bookToc: false
+bookToc: true
 ---
 
 ข้อตกลงในการส่งมอบสินค้าระหว่างประเทศ (Incoterms®2020)

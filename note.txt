@@ -1,4 +1,5 @@
 Run : hugo server --minify --theme book
+For full rebuilds on change: hugo server --disableFastRender
 Doc : https://themes.gohugo.io//theme/hugo-book/
 GitHub : https://github.com/gohugoio/hugo/tree/master/docs
 
@@ -45,3 +46,12 @@ success: green,
 - วันที่ปรับปรุงล่าสุด : 4 ตุลาคม 2562  
  {{< /hint >}}
 {{< /expand >}}
+
+
+## Embed pdf ไฟล์
+<dev class = 'container'>
+ <h1>How to disable downloading of the PDF document</h1>
+    <iframe src="./process-modification-e_import-system.pdf#toolbar=0" width="100%" height="1100px">
+    </iframe>
+
+</dev>

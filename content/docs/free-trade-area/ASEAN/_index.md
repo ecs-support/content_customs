@@ -2,7 +2,7 @@
 title: เขตการค้าเสรีอาเซียน (AFTA)
 bookCollapseSection: true
 weight: 2
-bookToc: false
+bookToc: true
 ---
 
 เขตการค้าเสรีอาเซียน (ASEAN Free Trade Area: AFTA)

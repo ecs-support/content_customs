@@ -1,5 +1,5 @@
 ---
-title: 1. โครงสร้างข้อมูลใบขนสินค้า
+title: โครงสร้างข้อมูลใบขนสินค้า
 weight: 1
 bookFlatSection: true
 bookToc: true

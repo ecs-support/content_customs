@@ -1,7 +1,7 @@
 ---
 weight: 14
 bookFlatSection: true
-title: 14. ราคาของ
+title: ราคาของ
 bookToc: false
 ---
 

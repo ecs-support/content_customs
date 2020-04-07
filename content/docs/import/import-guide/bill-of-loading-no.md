@@ -1,7 +1,7 @@
 ---
 weight: 7
 bookFlatSection: true
-title: 7. เลขที่ใบตราส่ง (Bill of Lading)
+title: เลขที่ใบตราส่ง (Bill of Lading)
 bookToc: false
 ---
 

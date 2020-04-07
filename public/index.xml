@@ -11,15 +11,6 @@
     
     
     <item>
-      <title>1. โครงสร้างข้อมูลใบขนสินค้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/data-structure/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/data-structure/</guid>
-      <description>โครงสร้างข้อมูลใบขนสินค้าขาเข้า โครงสร้างข้อมูลใบขนสินค้าขาเข้า แบ่งได้เป็น 6 ส่วนดังนี้  Import Declaration Control ประกอบด้วย 73 Fields Import Invoice Control ประกอบด้วย 35 Fields Import Invoice Detail ประกอบด้วย 76 Fields Import Invoice Detail (Duty) ประกอบด้วย 14 Fields Import Invoice Detail (Permit) ประกอบด้วย 3 Fields Import Invoice Detail (Deposit) ประกอบด้วย 2 Fields  เงื่อนไขการบันทึกข้อมูล ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้  หาก Field ใด กำหนดให้ต้องระบุค่า (Value = M) แต่ผู้บันทึกไม่สามารถหาข้อมูลได้ สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์) หาก Field ใด กำหนดให้ไม่ต้องระบุค่า (Value = O) และผู้บันทึกไม่สามารถหาข้อมูลได้ ก็ไม่ต้องบันทึกค่าใด ๆ หาก Field ใด กำหนดให้ต้องระบุค่า เมื่อเข้าเงื่อนไขที่กำหนด (Value = C) แต่ผู้บันทึกไม่สามารถหาข้อมูลได้ สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)   อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล    อักษรย่อ คำอธิบาย     n3 ข้อมูลชนิดตัวเลข (Numeric Characters) คงที่ คือ 3 ตัวอักษร   a3 ข้อมูลชนิดตัวอักษร (Alphabetic Characters) คงที่ คือ 3 ตัวอักษร   an3 ข้อมูลชนิดตัวอักษรหรือตัวเลข คงที่ คือ 3 ตัวอักษร   n.</description>
-    </item>
-    
-    <item>
       <title>Checklist กฎว่าด้วยถิ่นกำเนิดสินค้า</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/free-trade-area/checklist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -41,6 +32,31 @@
     </item>
     
     <item>
+      <title>Re-export</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/re-export/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/re-export/</guid>
+      <description>การคืนอากรสำหรับของที่นำเข้ามาแล้วส่งกลับออกไป (Re-export) ของที่นำเข้ามาในราชอาณาจักรและเสียอากรแล้ว หากส่งของนั้นกลับออกไปนอกราชอาณาจักร หรือส่งไปเป็นของใช้สิ้นเปลืองในเรือหรืออากาศยาน ที่เดินทางออกไปนอกราชอาณาจักรให้มีสิทธิขอคืนอากรขาเข้าสำหรับของนั้นเก้าในสิบส่วน หรือส่วนที่เกินหนึ่งพันบาทของจำนวนที่ได้เรียกเก็บไว้โดยคำนวณตาม ใบขนสินค้าขาออกแต่ละฉบับ แล้วแต่จำนวนใดจะสูงกว่าตามหลักเกณฑ์ดังต่อไปนี้
+ ต้องพิสูจน์ได้ว่าเป็นของรายเดียวกันกับที่นำเข้ามาในราชอาณาจักร ต้องไม่นำของนั้นไปใช้ประโยชน์ในระหว่างที่อยู่ในราชอาณาจักร เว้นแต่การใช้ประโยชน์เพื่อส่งของนั้นกลับออกไปนอกราชอาณาจักร และมิได้เปลี่ยนแปลงสภาพหรือลักษณะแห่งของนั้น ได้ส่งของนั้นกลับออกไปนอกราชอาณาจักรภายในกำหนดหนึ่งปีนับแต่วันที่นำของนั้นเข้ามาในราชอาณาจักร และ ต้องขอคืนอากรภายในกำหนดหกเดือนนับแต่วันที่ส่งของนั้นกลับออกไปนอกราชอาณาจักร  ให้ผู้ขอคืนอากร จัดทำและส่งข้อมูลใบขนสินค้าโดยระบุค่าดังนี้
+การนำเข้า...วิธีการคำนวณ  ให้จัดทำใบขนสินค้าขาเข้าก่อน และนำเลขที่ใบขนสินค้าขาเข้าพร้อมรายการไปบันทึกไว้ในใบขนสินค้าขาออก กรณีของที่จะส่งกลับออกไปนอกราชอาณาจักร อยู่นอกอารักขาของศุลกากรแล้ว ให้ทำใบขนสินค้าขาเข้าปกติ และจัดทำใบขนสินค้าขาออกโดยระบุในแต่ละรายการที่ส่งออกเป็น Re-Export และให้ระบุเลขที่ใบขนสินค้าขาเข้าพร้อมรายการ แล้วไปดำเนินการขอคืนอากรในระบบคืนอากรทั่วไปเมื่อส่งออกเรียบร้อยแล้ว    กรณีของที่จะส่งกลับออกไปนอกราชอาณาจักรเพียงบางส่วน อนุญาตให้ทำ Re-Export ในอารักขาโดยให้ ชำระค่าภาษีอากรหนึ่งใน 10 หรือไม่เกิน 1,000 บาท ต่อใบขนสินค้าขาเข้า เฉพาะกรณีที่สามารถแยก D/O ได้เท่านั้น   กรณีของที่จะส่งกลับออกไปนอกราชอาณาจักรยังมิได้มีการปล่อยออกไปจากอารักขาของศุลกากร ให้บันทึกข้อมูลใบขนสินค้าขาเข้าดังนี้  ระบุ Re-Export = Y ที่ส่วนรายการในใบขนสินค้าทุกรายการ มีเงื่อนไขต้องส่งกลับออกไปนอกราชอาณาจักรทั้งฉบับ โดยให้ ชำระค่าภาษีอากรหนึ่งใน 10 หรือไม่เกิน 1,000 บาท ต่อใบขนสินค้าขาเข้า ระบุ Privilege Code ตามสิทธิที่มีขณะนำเข้า เช่น มาตรา 12, WTO, TAU, AFTA เป็นต้น ระบุTariff Code พิกัดอัตราศุลกากร ให้ตรงกับชนิดของที่จะส่งกลับออกไป อัตราอากร ใช้ Tariff Code และ Tariff Sequence ไปอ่านอัตราอากรที่ Table REFDRT  การส่งออก.</description>
+    </item>
+    
+    <item>
+      <title>การนำของเข้าและส่งของออกทางไปรษณีย์</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/postal-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/postal-guide/</guid>
+      <description> พิธีการศุลกากรทางไปรษณีย์  ที่มา : กรมศุลการ
+วันที่ปรับปรุงล่าสุด : 30 มีนาคม 2563
+สอบถามข้อมูลเพิ่มเติมได้ที่ : ศูนย์บริการศุลกากร อาคารเฉลิมพระเกียรติ 7 รอบพระชนมพรรษา ชั้น 1
+หมายเลขโทรศัพท์ : 1164 อีเมล์ : 1164@customs.go.th
+ บทนำ ของต้องห้าม ของต้องกํากัด การแยกประเภทสิ่งของ การแยกประเภทสิ่งของที่นําเข้าทางไปรษณีย์ระหว่างประเทศ แผนภาพแสดงประเภทของที่นําเข้าทางไปรษณีย์ แผนภาพแสดงประเภทของที่นําเข้าทางไปรษณีย์ระหวางประเทศและกระบวนการทางศุลกากร ตัวอย่างใบแจ้งให้ไปรับสิ่งของ ตัวอย่างใบแจ้งให้ไปรับสิ่งของส่งทางไปรษณีย์ระหว่างประเทศ คำร้องขอโต้แย้งการประเมินค่าภาษีอากร วิธีคํานวณอากรขาเข้า วิธีคํานวณอากรขาเข้าและภาษีอื่น ๆ สําหรับของที่นําเขาทางไปรษณีย์ระหว่างประเทศ
+อากรขาเข้า ภาษีสรรพสามิต การค้นหาพิกัดอัตราศุลกากร การส่งของออกทางไปรษณีย์ระหว่างประเทศ สถานที่ติดต่อ คําถามที่พบบ่อย </description>
+    </item>
+    
+    <item>
       <title>การนำเข้ายากำพร้า</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/orphan-drugs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -51,6 +67,18 @@
 สถานการณ์การขาดแคลนยาจำเป็น หรือ ยากำพร้า ทำให้ ครม. ได้อนุมัติยกเว้นภาษีนำเข้ายาประเภทนี้ เพื่อส่งเสริมให้ผู้ประกอบการจัดหายา และสร้างความมั่นคงให้ระบบยาของประเทศ โดยออก ประกาศกระทรวงการคลัง เรื่อง การลดอัตราอากรและยกเว้นอากรศุลกากร ตามมาตรา 12 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530 (ฉบับที่ 2) [ดาวน์โหลดประกาศ] กำหนดให้เพิ่มข้อความ (51) ในข้อ 3 ของ ประกาศกระทรวงการคลัง เรื่อง การลดอัตราอากรและยกเว้นอากรศุลกากร ตามมาตรา 12 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530 โดยมีใจความว่า ให้ยกเว้นอากรสำหรับผลิตภัณฑ์ยารักษาหรือป้องกันโรคในตอนที่ 30 เฉพาะที่ได้รับการขึ้นทะเบียนตำรับยาจากสำนักงานคณะกรรมการอาหารและยา กระทรวงสาธารณสุข และระบุ (P) ต่อท้ายในเลขทะเบียนตำรับยา เว้นแต่ยากำพร้าที่สามารถผลิตและหาได้ในประเทศไทย 11 รายการ ดังต่อไปนี้ ที่ไม่ได้รับยกเว้นอากร
  เบนซาโทรพีนเมซิเลต Benzatropine mesilate
  ไฮโดรคอร์ทิโซน Hydrocortisone</description>
+    </item>
+    
+    <item>
+      <title>การยกเว้นอากรตามภาค 4</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/part-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/part-4/</guid>
+      <description>การยกเว้นอากรตามภาค 4 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530 1 ภาค 4 รายการสุทธินำกลับ...1 ภาค 4 รายการสุทธินำกลับ ของที่ส่งออกรวมทั้งของที่ส่งกลับออกไป ซึ่งนำกลับเข้ามา ภายในหนึ่งปีโดยไม่เปลี่ยนแปลงลักษณะหรือรูปแต่ประการใด และในเวลาที่ส่งออกนั้นได้รับใบสุทธิสำหรับนำกลับเข้ามาแล้วได้รับยกเว้นอากร ให้ผู้ขอยกเว้นอากร จัดทำและส่งข้อมูลใบขนสินค้าโดยระบุค่าดังนี้
+ขาออก  Re-Importation Certificate = Y (ในส่วนของ Export Declaration Detail) Export Tariff = 1PART4 Privilege Code = 004 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก   ขาเช้า  ระบุ Re - Importation Certificate = Y ที่ส่วนรายการในใบขนสินค้า
+ การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า
+ ระบุ Import Tariff = 1PART4 ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า</description>
     </item>
     
     <item>
@@ -177,21 +205,21 @@ E-Bill Payment
     </item>
     
     <item>
+      <title>โครงสร้างข้อมูลใบขนสินค้า</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/data-structure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/data-structure/</guid>
+      <description>โครงสร้างข้อมูลใบขนสินค้าขาเข้า โครงสร้างข้อมูลใบขนสินค้าขาเข้า แบ่งได้เป็น 6 ส่วนดังนี้  Import Declaration Control ประกอบด้วย 73 Fields Import Invoice Control ประกอบด้วย 35 Fields Import Invoice Detail ประกอบด้วย 76 Fields Import Invoice Detail (Duty) ประกอบด้วย 14 Fields Import Invoice Detail (Permit) ประกอบด้วย 3 Fields Import Invoice Detail (Deposit) ประกอบด้วย 2 Fields  เงื่อนไขการบันทึกข้อมูล ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้  หาก Field ใด กำหนดให้ต้องระบุค่า (Value = M) แต่ผู้บันทึกไม่สามารถหาข้อมูลได้ สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์) หาก Field ใด กำหนดให้ไม่ต้องระบุค่า (Value = O) และผู้บันทึกไม่สามารถหาข้อมูลได้ ก็ไม่ต้องบันทึกค่าใด ๆ หาก Field ใด กำหนดให้ต้องระบุค่า เมื่อเข้าเงื่อนไขที่กำหนด (Value = C) แต่ผู้บันทึกไม่สามารถหาข้อมูลได้ สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)   อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล    อักษรย่อ คำอธิบาย     n3 ข้อมูลชนิดตัวเลข (Numeric Characters) คงที่ คือ 3 ตัวอักษร   a3 ข้อมูลชนิดตัวอักษร (Alphabetic Characters) คงที่ คือ 3 ตัวอักษร   an3 ข้อมูลชนิดตัวอักษรหรือตัวเลข คงที่ คือ 3 ตัวอักษร   n.</description>
+    </item>
+    
+    <item>
       <title>โครงสร้างข้อมูลใบขนสินค้าขาออก</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/data_structure_export/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/data_structure_export/</guid>
       <description>โครงสร้างข้อมูลใบขนสินค้าขาออกโอนย้ายภายในประเทศ โครงสร้างข้อมูลใบขนสินค้าขาออกโอนย้ายภายในประเทศ แบ่งได้เป็น 6 ส่วนดังนี้  Export Declaration Control ประกอบด้วย 70 Fields Export Invoice Control ประกอบด้วย 35 Fields Export Invoice Detail ประกอบด้วย 73 Fields Export Invoice Detail (Duty) ประกอบด้วย 12 Fields Export Invoice Detail (Permit) ประกอบด้วย 4 Fields Export Invoice Detail (Deposit) ประกอบด้วย 2 Fields  เงื่อนไขการบันทึกข้อมูล ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้  หาก Field ใด กำหนดให้ต้องระบุค่า (Value = M) แต่ผู้บันทึกไม่สามารถหาข้อมูลได้ สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์) หาก Field ใด กำหนดให้ไม่ต้องระบุค่า (Value = O) และผู้บันทึกไม่สามารถหาข้อมูลได้ ก็ไม่ต้องบันทึกค่าใด ๆ หาก Field ใด กำหนดให้ต้องระบุค่า เมื่อเข้าเงื่อนไขที่กำหนด (Value = C) แต่ผู้บันทึกไม่สามารถหาข้อมูลได้ สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)   อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล    อักษรย่อ คำอธิบาย     n3 ข้อมูลชนิดตัวเลข (Numeric Characters) คงที่ คือ 3 ตัวอักษร   a3 ข้อมูลชนิดตัวอักษร (Alphabetic Characters) คงที่ คือ 3 ตัวอักษร   an3 ข้อมูลชนิดตัวอักษรหรือตัวเลข คงที่ คือ 3 ตัวอักษร   n.</description>
-    </item>
-    
-    <item>
-      <title>2. การคำนวณมูลค่าเงินนำเข้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/calculate-cif/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/calculate-cif/</guid>
-      <description> การตรวจสอบผลการคำนวณมูลค่าเงินนำเข้า เงินบาท และเงินต่างประเทศ ในใบขนสินค้าขาเข้า </description>
     </item>
     
     <item>
@@ -222,6 +250,15 @@ E-Bill Payment
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/free-trade-area/wto/</guid>
       <description>ข้อตกลงองค์การการค้าโลก (WTO) องค์การการค้าโลก (World Trade Organization: WTO) เป็นองค์การระหว่างประเทศ ที่มีพัฒนาการมาจากการทำความตกลงทั่วไปว่าด้วยภาษีศุลกากรและการค้าหรือแกตต์ (General Agreement on Tariffs and Trade: GATT) เมื่อปี พ.ศ. 2490 ซึ่งขณะนั้น ยังไม่มีสถานะเป็นสถาบันจนกระทั่งการเจรจาการค้ารอบอุรุกวัยสิ้นสุดลง และผลการเจรจาส่วนหนึ่งคือ การก่อตั้ง WTO ขึ้นเมื่อวันที่ 1 มกราคม พ.ศ. 2538 มีสมาชิกเริ่มแรก 81 ประเทศ และมีที่ตั้งอยู่ที่นครเจนีวา ประเทศ สวิตเซอร์แลนด์
 ประเทศไทยเข้าเป็นสมาชิก WTO เมื่อวันที่ 28 ธันวาคม 2538 เป็นสมาชิกลำดับที่ 59 มีสถานะเป็นสมาชิกก่อตั้ง ขณะนี้ มีประเทศที่อยู่ระหว่างกระบวนการเข้าเป็นสมาชิก WTO ที่สำคัญ เช่น รัสเซีย เวียดนาม ลาว มูลค่าการค้าระหว่างประเทศสมาชิก WTO ด้วยกันคิดเป็นสัดส่วนกว่าร้อยละ 90 ของการค้าโลก และการขยายตัวของจำนวนสมาชิกจะมีผลให้การค้าระหว่างประเทศสมาชิกขยายตัวเพิ่มขึ้นเป็นลำดับ ปัจจุบัน (ณ เดือนมกราคม 2549) WTO มีสมาชิกอย่างเป็นทางการทั้งสิ้น 149 ประเทศ สมาชิกล่าสุดประกอบด้วย เนปาล กัมพูชา และซาอุดิอารเบีย นอกจากนี้ ตองกา ได้เสร็จสิ้นกระบวนการเข้าสมัครเป็นสมาชิก WTO แล้ว แต่ยังรอการภาคยานุวัติก่อนการเข้าเป็นสมาชิกลำดับที่ 150 อย่างเป็นทางการ</description>
+    </item>
+    
+    <item>
+      <title>การคำนวณมูลค่าเงินนำเข้า</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/calculate-cif/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/calculate-cif/</guid>
+      <description> การตรวจสอบผลการคำนวณมูลค่าเงินนำเข้า เงินบาท และเงินต่างประเทศ ในใบขนสินค้าขาเข้า </description>
     </item>
     
     <item>
@@ -304,10 +341,8 @@ E-Bill Payment
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/country/</guid>
-      <description>รหัสประเทศ (Country Code)    
-
-.markdown table tr th:hover { cursor: pointer; }     
-   NO. รหัสประเทศ ชื่อประเทศ สกุลเงิน     1 AD ANDORRA AUD   2 AE UNITED ARAB EMIRATES THB   3 AF AFGHANISTAN BEF   4 AG ANTIGUA AND BARBUDA BND   5 AL ALBANIA CAD   6 AM ARMENIA DKK   7 AN NETHERLANDS ANTILLES DEM   8 AO ANGOLA VND   9 AR ARGENTINA EUR   10 AS AMERICAN SAMOA RFR   11 AT AUSTRIA HKD   12 AU AUSTRALIA INR   13 AW ARUBA IEP   14 AZ AZERBAIJAN ITL   15 BB BARBADOS JOD   16 BD BANGLADESH LAK   17 BE BELGIUM KWD   18 BF BURKINA FASO MMK   19 BG BULGARIA MYR   20 BH BAHRAIN MTL   21 BI BURUNDI FIM   22 BJ BENIN MXN   23 BM BERMUDA NLG   24 BN BRUNEI DARUSSALAM TWD   25 BO BOLIVIA NZD   26 BR BRAZIL NOK   27 BS BAHAMAS PKR   28 BT BHUTAN PHP   29 BV BOUVET ISLAND PTE   30 BW BOTSWANA GBP   31 BY BELARUS ZAR   32 BZ BELIZE KHR   33 CA CANADA IDR   34 CC COCOS (KEELING) IS.</description>
+      <description>รหัสประเทศ (Country Code)       
+   NO. รหัสประเทศ ชื่อประเทศ     1 AD ANDORRA   2 AE UNITED ARAB EMIRATES   3 AF AFGHANISTAN   4 AG ANTIGUA AND BARBUDA   5 AL ALBANIA   6 AM ARMENIA   7 AN NETHERLANDS ANTILLES   8 AO ANGOLA   9 AR ARGENTINA   10 AS AMERICAN SAMOA   11 AT AUSTRIA   12 AU AUSTRALIA   13 AW ARUBA   14 AZ AZERBAIJAN   15 BB BARBADOS   16 BD BANGLADESH   17 BE BELGIUM   18 BF BURKINA FASO   19 BG BULGARIA   20 BH BAHRAIN   21 BI BURUNDI   22 BJ BENIN   23 BM BERMUDA   24 BN BRUNEI DARUSSALAM   25 BO BOLIVIA   26 BR BRAZIL   27 BS BAHAMAS   28 BT BHUTAN   29 BV BOUVET ISLAND   30 BW BOTSWANA   31 BY BELARUS   32 BZ BELIZE   33 CA CANADA   34 CC COCOS (KEELING) IS.</description>
     </item>
     
     <item>
@@ -350,15 +385,6 @@ E-Bill Payment
       
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/data_structure_import/</guid>
       <description>โครงสร้างข้อมูลใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ โครงสร้างข้อมูลใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ แบ่งได้เป็น 6 ส่วนดังนี้  Import Declaration Control ประกอบด้วย 73 Fields Import Invoice Control ประกอบด้วย 35 Fields Import Invoice Detail ประกอบด้วย 76 Fields Import Invoice Detail (Duty) ประกอบด้วย 14 Fields Import Invoice Detail (Permit) ประกอบด้วย 3 Fields Import Invoice Detail (Deposit) ประกอบด้วย 2 Fields  เงื่อนไขการบันทึกข้อมูล ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้  หาก Field ใด กำหนดให้ต้องระบุค่า (Value = M) แต่ผู้บันทึกไม่สามารถหาข้อมูลได้ สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์) หาก Field ใด กำหนดให้ไม่ต้องระบุค่า (Value = O) และผู้บันทึกไม่สามารถหาข้อมูลได้ ก็ไม่ต้องบันทึกค่าใด ๆ หาก Field ใด กำหนดให้ต้องระบุค่า เมื่อเข้าเงื่อนไขที่กำหนด (Value = C) แต่ผู้บันทึกไม่สามารถหาข้อมูลได้ สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)   อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล    อักษรย่อ คำอธิบาย     n3 ข้อมูลชนิดตัวเลข (Numeric Characters) คงที่ คือ 3 ตัวอักษร   a3 ข้อมูลชนิดตัวอักษร (Alphabetic Characters) คงที่ คือ 3 ตัวอักษร   an3 ข้อมูลชนิดตัวอักษรหรือตัวเลข คงที่ คือ 3 ตัวอักษร   n.</description>
-    </item>
-    
-    <item>
-      <title>3. รูปแบบเลขที่ใบขนสินค้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/declaration-no/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/declaration-no/</guid>
-      <description> รูปแบบเลขที่ใบขนสินค้า </description>
     </item>
     
     <item>
@@ -421,6 +447,15 @@ E-Bill Payment
     </item>
     
     <item>
+      <title>รูปแบบเลขที่ใบขนสินค้า</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/declaration-no/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/declaration-no/</guid>
+      <description> รูปแบบเลขที่ใบขนสินค้า </description>
+    </item>
+    
+    <item>
       <title>ลักษณะหีบห่อ</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/package/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -467,15 +502,6 @@ E-Bill Payment
     </item>
     
     <item>
-      <title>4. ประเภทของเอกสาร</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/type-ducument/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/type-ducument/</guid>
-      <description>ประเภทของเอกสาร (Document Type)    Type ประเภทของเอกสาร ชนิดเอกสาร     0 ใบขนสินค้าขาเข้า e-Import   1 ใบขนสินค้าขาออก e-Export   2 ใบขนสินค้าผ่านแดน ยังไม่ใช้ระบบพิธีการศุลกากรทางอิเล็กทรอนิกส์   3 คำร้องขอรับของไปก่อน e-Import   4 คำร้องขอส่งของออกไปก่อน e-Export   5 ใบขนสินค้าขาเข้าปากระวาง ยังไม่ใช้ระบบพิธีการศุลกากรทางอิเล็กทรอนิกส์   6 ใบขนสินค้าพิเศษผ่านแดนขาออก ยังไม่ใช้ระบบพิธีการศุลกากรทางอิเล็กทรอนิกส์   7 ใบขนสินค้าพิเศษผ่านแดนขาเข้า ยังไม่ใช้ระบบพิธีการศุลกากรทางอิเล็กทรอนิกส์   8 ใบขนสินค้าถ่ายลำ (ใบแนบ 9) e-Transition (Transhipment) *   A ใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ คลังสินค้าทัณฑ์บน /ตามมาตรา 29 / BOI   B ใบขนสินค้าขาออกโอนย้ายภายในประเทศ คลังสินค้าทัณฑ์บน /ตามมาตรา 29 / BOI   C ใบขนสินค้าขาเข้าโอนย้ายจากเขตปลอดอากร เขตปลอดอากร / Free Zone และ เขตประกอบการเสรี / I-EA-T   D ใบขนสินค้าขาออกโอนย้ายเข้าเขตปลอดอากร เขตปลอดอากร / Free Zone และ เขตประกอบการเสรี / I-EA-T   P ใบขนสินค้าขาเข้าโอนย้ายชำระภาษีอากร**    X ใบขนสินค้าขาเข้าของเร่งด่วน*** e-Express   Y ใบขนสินค้าขาออกของเร่งด่วน**** e-Express    หมายเหตุ</description>
-    </item>
-    
-    <item>
       <title>ของตกค้าง</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/overtime-goods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -489,12 +515,21 @@ E-Bill Payment
     </item>
     
     <item>
+      <title>ประเภทของเอกสาร</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/type-ducument/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/type-ducument/</guid>
+      <description>ประเภทของเอกสาร (Document Type)    Type ประเภทของเอกสาร ชนิดเอกสาร     0 ใบขนสินค้าขาเข้า e-Import   1 ใบขนสินค้าขาออก e-Export   2 ใบขนสินค้าผ่านแดน ยังไม่ใช้ระบบพิธีการศุลกากรทางอิเล็กทรอนิกส์   3 คำร้องขอรับของไปก่อน e-Import   4 คำร้องขอส่งของออกไปก่อน e-Export   5 ใบขนสินค้าขาเข้าปากระวาง ยังไม่ใช้ระบบพิธีการศุลกากรทางอิเล็กทรอนิกส์   6 ใบขนสินค้าพิเศษผ่านแดนขาออก ยังไม่ใช้ระบบพิธีการศุลกากรทางอิเล็กทรอนิกส์   7 ใบขนสินค้าพิเศษผ่านแดนขาเข้า ยังไม่ใช้ระบบพิธีการศุลกากรทางอิเล็กทรอนิกส์   8 ใบขนสินค้าถ่ายลำ (ใบแนบ 9) e-Transition (Transhipment) *   A ใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ คลังสินค้าทัณฑ์บน /ตามมาตรา 29 / BOI   B ใบขนสินค้าขาออกโอนย้ายภายในประเทศ คลังสินค้าทัณฑ์บน /ตามมาตรา 29 / BOI   C ใบขนสินค้าขาเข้าโอนย้ายจากเขตปลอดอากร เขตปลอดอากร / Free Zone และ เขตประกอบการเสรี / I-EA-T   D ใบขนสินค้าขาออกโอนย้ายเข้าเขตปลอดอากร เขตปลอดอากร / Free Zone และ เขตประกอบการเสรี / I-EA-T   P ใบขนสินค้าขาเข้าโอนย้ายชำระภาษีอากร**    X ใบขนสินค้าขาเข้าของเร่งด่วน*** e-Express   Y ใบขนสินค้าขาออกของเร่งด่วน**** e-Express    หมายเหตุ</description>
+    </item>
+    
+    <item>
       <title>ภาค 4 ของที่ได้รับยกเว้นอากร</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/part-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/part-4/</guid>
-      <description>ภาค 4 ของที่ได้รับยกเว้นอากร 1 ภาค 4 รายการสุทธินำกลับ...1 ภาค 4 รายการสุทธินำกลับ  Re-Importation Certificate = Y (ในส่วนของ Export Declaration Detail) Export Tariff = 1PART4 Privilege Code = 004 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก  2 ภาค 4 รายการนำกลับไปซ่อม...2 ภาค 4 รายการนำกลับไปซ่อม  Re-Importation Certificate = Y (ในส่วนของ Export Declaration Detail) Export Tariff = 2PART4 Privilege Code = 004 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก Declaration No = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง ซึ่งนําของเข้ามาครั้งแรก Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง  3 ภาค 4 สิทธิ์ส่งออกทัณฑ์บนนําเข้าชั่วคราว.</description>
+      <description>ภาค 4 ของที่ได้รับยกเว้นอากร 1 ภาค 4 รายการสุทธินำกลับ  Re-Importation Certificate = Y (ในส่วนของ Export Declaration Detail) Export Tariff = 1PART4 Privilege Code = 004 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก  2 ภาค 4 รายการนำกลับไปซ่อม  Re-Importation Certificate = Y (ในส่วนของ Export Declaration Detail) Export Tariff = 2PART4 Privilege Code = 004 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก Declaration No = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง ซึ่งนําของเข้ามาครั้งแรก Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง  3 ภาค 4 สิทธิ์ส่งออกทัณฑ์บนนําเข้าชั่วคราว ของที่นําเข้ามาพร้อมกับตน หรือนําเข้ามาเป็นการชั่วคราวและ จะส่งกลับออกไปภายในไม่เกินหกเดือนนับตั้งแต่วันที่นําเข้ามา</description>
     </item>
     
     <item>
@@ -513,8 +548,8 @@ E-Bill Payment
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/input-tax-incentives/</guid>
-      <description> หลักการบันทึกข้อมูล เพื่อขอใช้สิทธิประโยชน์ทางภาษีอากร Re-Export ของนําเข้ามาแล้วส่งกลับออกไปภายใน 1 ปี โดยเสียอากร 1 ใน 10 (ตามมาตรา 28 พระราชบัญญัติศุลกากร พ.ศ. 2560) ให้ระบุค่าดังนี้
- Re-Export = Y (ในส่วนของ Export Declaration Detail) Privilege Code = 003 Export Tariff = 9PART3 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก Declaration NO = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง ซึ่งนําของเข้ามาตามมาตรา 28 Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง  ขอคืนอากรตามมาตรา 29  Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก (ใน ส่วนของ Export Decalration Detail) 19 bis = Y (ในส่วนของ Export Declaration Detail) Privilege Code = 003 Export Tariff = 9PART3 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก Model Number = เลขที่สูตรการผลิต Model Version = เวอร์ชันของสูตรการผลิต Model Company Tax Number = เลขประจําตัวผู้เสียภาษีอากรของบริษัทผู้ยื่นสูตร  คลังสินค้าทัณฑ์บนส่งออกไปต่างประเทศ  Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก (ในส่วนของ Export Decalration Detail) Bond = Y (ในส่วนของ Export Declaration Detail) ระบบจะตรวจสอบว่าเลขประจําตัวผู้เสียภาษีอากรของผู้ส่งของออกต้องเท่ากับเลขประจําตัว ผู้เสียภาษีอากรที่จดทะเบียนคลังสินค้าทัณฑ์บน หรือ ที่เจ้าของคลังทัณฑ์บนได้แจ้งอนุญาตไว้ ในระบบทะเบียนไว้ในระบบผู้ใช้สิทธิประโยชน์ทางภาษีอากร Privilege Code = 003 Export Tariff = 9PART3 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออกสําหรับคลังสินค้าทัณฑ์บน ทั่วไป Declaration No = เลขที่ใบขนสินค้าขาเข้า Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง สําหรับคลังสินค้าทัณฑ์บนประเภทโรงผลิต และแบ่งบรรจุ Model Number = เลขที่สูตรการผลิต Model Version = เวอร์ชันของสูตรการผลิต Model Company Tax Number = เลขประจําตัวผู้เสียภาษีอากรของบริษัทผู้ยื่นสูตร  ส่งออกจาก Free Zone ไปต่างประเทศ  Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก (ในส่วนของ Export Decalration Detail) Free Zone = Y (ในส่วนของ Export Declaration Detail) ระบบจะตรวจสอบว่าเลขประจําตัวผู้เสียภาษีอากรของผู้ส่งของออกต้องเท่ากับเลขประจําตัว ผู้เสียภาษีอากรที่จดทะเบียนผู้ ประกอบการในเขตปลอดอากร หรือที่ผู้ ประกอบการใน เขตปลอดอากรได้แจ้งอนุญาตไว้ในระบบทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากร Privilege Code = 003 Export Tariff = 9PART3 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก  ส่งออกจาก I-EAT Free Zone ไปต่างประเทศ  Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก (ใน ส่วนของ Export Decalration Detail) I-EAT Free Zone = Y (ในส่วนของ Export Declaration Detail) ระบบจะตรวจสอบว่าเลขประจําตัวผู้เสียภาษีอากรของผู้ส่งของออกต้องเท่ากับเลขประจําตัว ผู้เสียภาษีอากรที่จดทะเบียนผู้ประกอบการในเขตประกอบการเสรีหรือที่ผู้ประกอบการใน เขตประกอบการเสรีได้แจ้งอนุญาตําว้ในระบบทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากร Privilege Code = 003 Export Tariff = 9PART3 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก  ชดเชยค่าภาษีอากร  Compensation = Y (ในส่วนของ Export Declaration Detail) Privilege Code = 003 Export Tariff = 9PART3 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก  ส่งเสริมการลงทุน BOI  BOI = Y (ในส่วนของ Export Declaration Detail) Privilege Code = 003 Export Tariff = 9PART3 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก BOI License No = เลขที่บัตรส่งเสริมการลงทุน BOI กรณีมีการโอนสิทธิ์ BOI ให้ใช้สําเนาใบขนสินค้าขาออกฉบับพิมพ์จากผู้ส่งของออกโดยระบุวันที่ รับบรรทุก (Load Date) พร้อมแสดงรายการการโอนสิทธิ์ BOI ด้วย  </description>
+      <description> หลักการบันทึกข้อมูล เพื่อขอใช้สิทธิประโยชน์ทางภาษีอากร Re-Export &amp;#43; Re-Export ของนําเข้ามาแล้วส่งกลับออกไปภายใน 1 ปี โดยเสียอากร 1 ใน 10 (ตามมาตรา 28 พระราชบัญญัติศุลกากร พ.ศ. 2560) ให้ระบุค่าดังนี้
+ Re-Export = Y (ในส่วนของ Export Declaration Detail) Privilege Code = 003 Export Tariff = 9PART3 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก Declaration NO = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง ซึ่งนําของเข้ามาตามมาตรา 28 Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง  ขอคืนอากรตามมาตรา 29 &amp;#43; ขอคืนอากรตามมาตรา 29  Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก (ใน ส่วนของ Export Decalration Detail) 19 bis = Y (ในส่วนของ Export Declaration Detail) Privilege Code = 003 Export Tariff = 9PART3 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก Model Number = เลขที่สูตรการผลิต Model Version = เวอร์ชันของสูตรการผลิต Model Company Tax Number = เลขประจําตัวผู้เสียภาษีอากรของบริษัทผู้ยื่นสูตร  คลังสินค้าทัณฑ์บนส่งออกไปต่างประเทศ &amp;#43; คลังสินค้าทัณฑ์บนส่งออกไปต่างประเทศ  Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก (ในส่วนของ Export Decalration Detail) Bond = Y (ในส่วนของ Export Declaration Detail) ระบบจะตรวจสอบว่าเลขประจําตัวผู้เสียภาษีอากรของผู้ส่งของออกต้องเท่ากับเลขประจําตัว ผู้เสียภาษีอากรที่จดทะเบียนคลังสินค้าทัณฑ์บน หรือ ที่เจ้าของคลังทัณฑ์บนได้แจ้งอนุญาตไว้ ในระบบทะเบียนไว้ในระบบผู้ใช้สิทธิประโยชน์ทางภาษีอากร Privilege Code = 003 Export Tariff = 9PART3 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออกสําหรับคลังสินค้าทัณฑ์บน ทั่วไป Declaration No = เลขที่ใบขนสินค้าขาเข้า Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง สําหรับคลังสินค้าทัณฑ์บนประเภทโรงผลิต และแบ่งบรรจุ Model Number = เลขที่สูตรการผลิต Model Version = เวอร์ชันของสูตรการผลิต Model Company Tax Number = เลขประจําตัวผู้เสียภาษีอากรของบริษัทผู้ยื่นสูตร  ส่งออกจาก Free Zone ไปต่างประเทศ &amp;#43; ส่งออกจาก Free Zone ไปต่างประเทศ  Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก (ในส่วนของ Export Decalration Detail) Free Zone = Y (ในส่วนของ Export Declaration Detail) ระบบจะตรวจสอบว่าเลขประจําตัวผู้เสียภาษีอากรของผู้ส่งของออกต้องเท่ากับเลขประจําตัว ผู้เสียภาษีอากรที่จดทะเบียนผู้ ประกอบการในเขตปลอดอากร หรือที่ผู้ ประกอบการใน เขตปลอดอากรได้แจ้งอนุญาตไว้ในระบบทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากร Privilege Code = 003 Export Tariff = 9PART3 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก  ส่งออกจาก I-EAT Free Zone ไปต่างประเทศ &amp;#43; ส่งออกจาก I-EAT Free Zone ไปต่างประเทศ  Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก (ใน ส่วนของ Export Decalration Detail) I-EAT Free Zone = Y (ในส่วนของ Export Declaration Detail) ระบบจะตรวจสอบว่าเลขประจําตัวผู้เสียภาษีอากรของผู้ส่งของออกต้องเท่ากับเลขประจําตัว ผู้เสียภาษีอากรที่จดทะเบียนผู้ประกอบการในเขตประกอบการเสรีหรือที่ผู้ประกอบการใน เขตประกอบการเสรีได้แจ้งอนุญาตําว้ในระบบทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากร Privilege Code = 003 Export Tariff = 9PART3 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก  ชดเชยค่าภาษีอากร &amp;#43; ชดเชยค่าภาษีอากร  Compensation = Y (ในส่วนของ Export Declaration Detail) Privilege Code = 003 Export Tariff = 9PART3 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก  ส่งเสริมการลงทุน BOI &amp;#43; ส่งเสริมการลงทุน BOI  BOI = Y (ในส่วนของ Export Declaration Detail) Privilege Code = 003 Export Tariff = 9PART3 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก BOI License No = เลขที่บัตรส่งเสริมการลงทุน BOI กรณีมีการโอนสิทธิ์ BOI ให้ใช้สําเนาใบขนสินค้าขาออกฉบับพิมพ์จากผู้ส่งของออกโดยระบุวันที่ รับบรรทุก (Load Date) พร้อมแสดงรายการการโอนสิทธิ์ BOI ด้วย  </description>
     </item>
     
     <item>
@@ -555,18 +590,6 @@ E-Bill Payment
     </item>
     
     <item>
-      <title>5. ระบบทะเบียนผู้มาติดต่อ</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/contact-registration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/contact-registration/</guid>
-      <description>การตรวจสอบข้อมูลใบขนสินค้าขาเข้าและขาออก กับระบบทะเบียนผู้มาติดต่อ  การตรวจสอบลายเซ็นอิเล็กทรอนิกส์ (Digital Signature) มีเงื่อนไขดังนี้
- VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของผู้นำเข้า/ผู้ส่งออก (Company Tax No) หรือ VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของตัวแทนออกของ (Broker Tax No) หรือ VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของตัวแทนออกของรับจ้างช่วง (Sub Broker Tax Number) หรือ VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของ Company Tax No ของ Registration ID กรณีเป็น Service Counter เท่านั้น   การตรวจสอบความสัมพันธ์ของผู้นำเข้า/ผู้ส่งออกกับตัวแทนออกของ ต้องมีการว่าจ้างระหว่าง ผู้นำเข้า/ส่งออกกับตัวแทนออกของ จะตรวจสอบกับระบบทะเบียน ดังนี้
- ผู้นำเข้า/ผู้ส่งออกต้องว่าจ้างตัวแทนออกของ และ ตัวแทนออกของต้องได้รับจ้างผู้นำเข้า/ผู้ส่งออก  การตรวจสอบความสัมพันธ์ของตัวแทนออกของรับจ้างช่วง กับตัวแทนออกของที่มีความสัมพันธ์กับ ผู้นำเข้า/ผู้ส่งออก จะตรวจสอบกับระบบทะเบียน ดังนี้
- ผู้รับจ้างช่วงต้องได้รับการว่าจ้างจากตัวแทนออกของ และ ตัวแทนออกของต้องได้รับจ้างผู้นำเข้า/ผู้ส่งออก และ ผู้นำเข้า/ผู้ส่งออกต้องว่าจ้างตัวแทนออกของ    สำหรับกรณีผู้นำเข้า/ผู้ส่งออก มีการมอบอำนาจให้ตัวแทนออกของทำการว่าจ้างช่วงได้</description>
-    </item>
-    
-    <item>
       <title>จำนวนและน้ำหนักของสินค้า</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/quantity-and-weight/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -591,13 +614,15 @@ E-Bill Payment
     </item>
     
     <item>
-      <title>6. วันนำเข้า (Arrival Date)</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/arrival-date/</link>
+      <title>ระบบทะเบียนผู้มาติดต่อ</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/contact-registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/arrival-date/</guid>
-      <description> วันนำเข้า (Arrival Date) วันนำเข้า (Arrival Date) วันที่นำเข้ามาสำเร็จ ตามมาตรา 50 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560 วันที่นำเข้า ปี ค.ศ. เดือน วัน (CCYYMMDD) ให้กำหนดดังนี้
- ใบขนสินค้าขาเข้า ประเภทเอกสาร 0 คำร้องขอรับของไปก่อน ประเภทเอกสาร 3 ใบขนสินค้าขาเข้าปากระวาง ประเภทเอกสาร 5     การนำเข้า Mode of Transport วันนำเข้า คือ     ทางเรือ 1 วันที่เรือที่นำของเข้ามานั้นได้เข้ามาในเขตท่าที่จะขนถ่ายของขึ้นจากเรือหรือท่าที่มีชื่อส่งของถึง   ทางรถไฟ 2 วันที่รถไฟได้ผ่านเขตแดนเข้ามาในราชอาณาจักร   ทางรถยนต์ 3 วันที่รถที่นำของเข้ามานั้นได้เข้ามาถึงเขตด่านพรมแดน   คนเดินทางบก 3 วันที่เดินเข้ามาถึงเขตด่านพรมแดน   ทางเครื่องบิน 4 วันที่อากาศยานที่นำของเข้ามานั้นได้ถึงสนามบิน ที่เป็นด่านศุลกากร   ทางไปรษณีย์ 5 วันที่เปิดถุงไปรษณีย์   ทางท่อขนส่งทางบก /ทางสายส่งไฟฟ้า 7 วันแรกของเดือนที่มีการขนส่งของทางท่อขนส่งทางบก/ทางสายส่งไฟฟ้า (ให้รวบรวมทำใบขนสินค้าขาเข้าเดือนละฉบับ)   ทางเรือที่เข้าออกด่านศุลกากรทางบก 8 วันที่เรือมาถึงเขตจอดเรือหรือเขตท่าเรือด่านศุลกากรเช่น ด่านศุลกากรเชียงแสน,ด่านศุลกากรหนองคาย,ด่านศุลกากรแม่สอด   เรือเล็กทางทะเล สำหรับด่านศุลกากรทางทะเล 8 วันที่เรือมาถึงเขตจอดเรือหรือเขตท่าเรือด่านศุลกากร เช่น ด่านศุลกากรระนอง, ด่านศุลกากรคลองใหญ่   ทางผู้โดยสารนำพาจากอากาศยาน 9 วันที่อากาศยานที่นำของเข้ามานั้นได้ถึงสนามบินที่เป็นด่านศุลกากร    </description>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/contact-registration/</guid>
+      <description>การตรวจสอบข้อมูลใบขนสินค้าขาเข้าและขาออก กับระบบทะเบียนผู้มาติดต่อ  การตรวจสอบลายเซ็นอิเล็กทรอนิกส์ (Digital Signature) มีเงื่อนไขดังนี้
+ VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของผู้นำเข้า/ผู้ส่งออก (Company Tax No) หรือ VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของตัวแทนออกของ (Broker Tax No) หรือ VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของตัวแทนออกของรับจ้างช่วง (Sub Broker Tax Number) หรือ VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของ Company Tax No ของ Registration ID กรณีเป็น Service Counter เท่านั้น   การตรวจสอบความสัมพันธ์ของผู้นำเข้า/ผู้ส่งออกกับตัวแทนออกของ ต้องมีการว่าจ้างระหว่าง ผู้นำเข้า/ส่งออกกับตัวแทนออกของ จะตรวจสอบกับระบบทะเบียน ดังนี้
+ ผู้นำเข้า/ผู้ส่งออกต้องว่าจ้างตัวแทนออกของ และ ตัวแทนออกของต้องได้รับจ้างผู้นำเข้า/ผู้ส่งออก  การตรวจสอบความสัมพันธ์ของตัวแทนออกของรับจ้างช่วง กับตัวแทนออกของที่มีความสัมพันธ์กับ ผู้นำเข้า/ผู้ส่งออก จะตรวจสอบกับระบบทะเบียน ดังนี้
+ ผู้รับจ้างช่วงต้องได้รับการว่าจ้างจากตัวแทนออกของ และ ตัวแทนออกของต้องได้รับจ้างผู้นำเข้า/ผู้ส่งออก และ ผู้นำเข้า/ผู้ส่งออกต้องว่าจ้างตัวแทนออกของ    สำหรับกรณีผู้นำเข้า/ผู้ส่งออก มีการมอบอำนาจให้ตัวแทนออกของทำการว่าจ้างช่วงได้</description>
     </item>
     
     <item>
@@ -607,6 +632,19 @@ E-Bill Payment
       
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/check-data-declalation/</guid>
       <description> ระบบคอมพิวเตอร์ของศุลกากรตรวจสอบข้อมูลใบขนสินค้าขาออก  การตรวจสอบความถูกต้องเบื้องต้น ระบบคอมพิวเตอร์ของศุลกากรจะตรวจสอบความถูกต้อง เบื้องต้นกับแฟ้มข้อมูลอ้างอิง และกับข้อมูลการอนุมัติ/อนุญาตตามกฎหมายที่เกี่ยวข้อง การตรวจสอบพบความผิดพลาด ระบบคอมพิวเตอร์ของศุลกากรจะตอบรหัสข้อผิดพลาด ทุกข้อกลับไปให้ผู้ส่งข้อมูล (ตาม XML User) ในคราวเดียว ให้ผู้ส่งของออกทําการแก้ไขข้อมูลและส่งข้อมูลใหม่เพื่อแก้ไขข้อมูลใบขนสินค้าขาออกเข้าสู่ระบบคอมพิวเตอร์ของศุลกากร หากไม่พบข้อผิดพลาด ระบบคอมพิวเตอร์ของศุลกากรจะกําหนด เลขที่ใบขนสินค้า ขาออก ทางอิเล็กทรอนิกส์จํานวน 14 หลัก ในสถานะพร้อมชําระค่าภาษีอากร (ถ้ามี) และแจ้งเลขที่ใบขนสินค้าขาออกทางระบบอิเล็กทรอนิกส์ตอบกลับไปยังผู้ส่งข้อมูล (ตาม XML User) โดยมีประเภทของเอกสารหลักมีค่าเป็น 1 = ใบขนสินค้าขาออก การยื่นเอกสารใบแนบ 4 ใบขนสินค้าขาออกต่อศุลกากร เมื่อระบบคอมพิวเตอร์ของศุลกากร ผู้รับข้อมูลได้ทําการตอบรับข้อมูลอิเล็กทรอนิกส์นั้นในการปฏิบัติพิธีการ ถือเป็ นการยื่นเอกสารนั้น ๆ ตาม กฎหมายว่าด้วยศุลกากรและกฎหมายอื่นที่เกี่ยวข้องกับการศุลกากรแล้ว การยกเลิกใบขนสินค้าขาออก กรณี ผู้ส่งของออกไม่ประสงค์จะทําการส่งของออก ตามใบขนสินค้าขาออกที่ได้ส่งข้อมูลทางอิเล็กทรอนิกส์มายังระบบคอมพิวเตอร์ของศุลกากรแล้ว หรือข้อมูลใบขนสินค้าขาออกที่ได้รับการตอบรับเลขที่ใบขนสินค้าขาออกแล้วผิดพลาด ให้ผู้ส่งของออก (ตาม XML User) ขอยกเลิกเลขที่ใบขนสินค้าขาออกฉบับนั้น ๆ ทางอิเล็กทรอนิกส์ เพื่อให้ระบบคอมพิวเตอร์ของศุลกากรทําการยกเลิกเลขที่ใบขนสินค้าฉบับนั้นออกจากระบบ ก่อนการส่งข้อมูลอิเล็กทรอนิกส์ของใบขนสินค้าขาออกที่ถูกต้องมาใหม่  </description>
+    </item>
+    
+    <item>
+      <title>การยกเว้นอากรตามภาค 4</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/part-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/part-4/</guid>
+      <description>การยกเว้นอากรตามภาค 4 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530 1 ภาค 4 รายการสุทธินำกลับ...1 ภาค 4 รายการสุทธินำกลับ ของที่ส่งออกรวมทั้งของที่ส่งกลับออกไป ซึ่งนำกลับเข้ามา ภายในหนึ่งปีโดยไม่เปลี่ยนแปลงลักษณะหรือรูปแต่ประการใด และในเวลาที่ส่งออกนั้นได้รับใบสุทธิสำหรับนำกลับเข้ามาแล้วได้รับยกเว้นอากร ให้ผู้ขอยกเว้นอากร จัดทำและส่งข้อมูลใบขนสินค้าขาเข้า โดยระบุค่าดังนี้
+ ระบุ Re - Importation Certificate = Y ที่ส่วนรายการในใบขนสินค้า
+ การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า
+ ระบุ Import Tariff = 1PART4 ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า
+ อัตราอากร ใช้ Tariff Code และ Tariff Sequence อากร ยกเว้น (บันทึก Exemption Rate = 100%) VAT ยกเว้น (บันทึก Exemption Rate = 100%) บันทึกเลขที่ใบขนสินค้าขาออกและรายการที่ของใบขนสินค้าขาออกที่อ้างถึง</description>
     </item>
     
     <item>
@@ -631,13 +669,13 @@ E-Bill Payment
     </item>
     
     <item>
-      <title>7. เลขที่ใบตราส่ง (Bill of Lading)</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/bill-of-loading-no/</link>
+      <title>วันนำเข้า (Arrival Date)</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/arrival-date/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/bill-of-loading-no/</guid>
-      <description>เลขที่ใบตราส่ง (Bill of Lading) เลขที่ใบตราส่ง 1 (Master Bill of Lading) และเลขที่ใบตราส่ง 2 (House Bill of Lading) ในการจัดทำข้อมูลใบขนสินค้าขาเข้า ให้ระบุ ดังนี้
-   การนำเข้า Mode of Transport เลขที่ใบตราส่ง 1 (Master Bill of Lading) เลขที่ใบตราส่ง 2 (House Bill of Lading)     ทางเรือ 1 ไม่ต้องระบุ Bill of Lading   ทางรถไฟ 2 ไม่ต้องระบุ Bill of Lading   ทางรถยนต์ 3 Received Control No ของ ศ.บ.1 Item No ของ ศ.บ.1 ส่วนรายการ   คนเดินทางบก 3 Received Control No ของ ศ.</description>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/arrival-date/</guid>
+      <description> วันนำเข้า (Arrival Date) วันนำเข้า (Arrival Date) วันที่นำเข้ามาสำเร็จ ตามมาตรา 50 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560 วันที่นำเข้า ปี ค.ศ. เดือน วัน (CCYYMMDD) ให้กำหนดดังนี้
+ ใบขนสินค้าขาเข้า ประเภทเอกสาร 0 คำร้องขอรับของไปก่อน ประเภทเอกสาร 3 ใบขนสินค้าขาเข้าปากระวาง ประเภทเอกสาร 5     การนำเข้า Mode of Transport วันนำเข้า คือ     ทางเรือ 1 วันที่เรือที่นำของเข้ามานั้นได้เข้ามาในเขตท่าที่จะขนถ่ายของขึ้นจากเรือหรือท่าที่มีชื่อส่งของถึง   ทางรถไฟ 2 วันที่รถไฟได้ผ่านเขตแดนเข้ามาในราชอาณาจักร   ทางรถยนต์ 3 วันที่รถที่นำของเข้ามานั้นได้เข้ามาถึงเขตด่านพรมแดน   คนเดินทางบก 3 วันที่เดินเข้ามาถึงเขตด่านพรมแดน   ทางเครื่องบิน 4 วันที่อากาศยานที่นำของเข้ามานั้นได้ถึงสนามบิน ที่เป็นด่านศุลกากร   ทางไปรษณีย์ 5 วันที่เปิดถุงไปรษณีย์   ทางท่อขนส่งทางบก /ทางสายส่งไฟฟ้า 7 วันแรกของเดือนที่มีการขนส่งของทางท่อขนส่งทางบก/ทางสายส่งไฟฟ้า (ให้รวบรวมทำใบขนสินค้าขาเข้าเดือนละฉบับ)   ทางเรือที่เข้าออกด่านศุลกากรทางบก 8 วันที่เรือมาถึงเขตจอดเรือหรือเขตท่าเรือด่านศุลกากรเช่น ด่านศุลกากรเชียงแสน,ด่านศุลกากรหนองคาย,ด่านศุลกากรแม่สอด   เรือเล็กทางทะเล สำหรับด่านศุลกากรทางทะเล 8 วันที่เรือมาถึงเขตจอดเรือหรือเขตท่าเรือด่านศุลกากร เช่น ด่านศุลกากรระนอง, ด่านศุลกากรคลองใหญ่   ทางผู้โดยสารนำพาจากอากาศยาน 9 วันที่อากาศยานที่นำของเข้ามานั้นได้ถึงสนามบินที่เป็นด่านศุลกากร    </description>
     </item>
     
     <item>
@@ -663,7 +701,17 @@ E-Bill Payment
     </item>
     
     <item>
-      <title>8. รหัสสถานที่นำเข้า</title>
+      <title>เลขที่ใบตราส่ง (Bill of Lading)</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/bill-of-loading-no/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/bill-of-loading-no/</guid>
+      <description>เลขที่ใบตราส่ง (Bill of Lading) เลขที่ใบตราส่ง 1 (Master Bill of Lading) และเลขที่ใบตราส่ง 2 (House Bill of Lading) ในการจัดทำข้อมูลใบขนสินค้าขาเข้า ให้ระบุ ดังนี้
+   การนำเข้า Mode of Transport เลขที่ใบตราส่ง 1 (Master Bill of Lading) เลขที่ใบตราส่ง 2 (House Bill of Lading)     ทางเรือ 1 ไม่ต้องระบุ Bill of Lading   ทางรถไฟ 2 ไม่ต้องระบุ Bill of Lading   ทางรถยนต์ 3 Received Control No ของ ศ.บ.1 Item No ของ ศ.บ.1 ส่วนรายการ   คนเดินทางบก 3 Received Control No ของ ศ.</description>
+    </item>
+    
+    <item>
+      <title>รหัสสถานที่นำเข้า</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/area/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -685,7 +733,7 @@ E-Bill Payment
     </item>
     
     <item>
-      <title>9. Shipping Marks</title>
+      <title>Shipping Marks</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/shipping-marks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -736,15 +784,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>10. จำนวนและน้ำหนักของสินค้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/quantity-weight/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/quantity-weight/</guid>
-      <description> จำนวนและน้ำหนักของสินค้า  จำนวนหีบห่อรวม (Total Package Amount) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน หากสินค้ามีหลายลักษณะรวมกัน ให้ระบุจำนวนหีบห่อรวม ลักษณะหีบห่อรวม (Total Package Unit Code) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน UNECE Recommendation 21 หากสินค้ามีหลายลักษณะรวมกัน เช่น กล่อง Roll Drum ให้ระบุหน่วยเป็น &amp;ldquo;PK&amp;rdquo; น้ำหนักสุทธิรวม (Total Net Weight) ต้องมีค่าเท่ากับน้ำหนักสุทธิ (Net Weight) รวมทุกรายการเท่านั้น หน่วยของน้ำหนักสุทธิ (Net Weight Unit Code ตามมาตรฐาน UNECE Recommendation 20 มีค่าได้ดังต่อไปนี้ KGM – Kilogram , TNE – Metric Ton , GRM – Gram , CTM – Carat น้ำหนักรวม (Total Gross Weight) ต้องมีค่าเท่ากับหรือมากกว่าน้ำหนักสุทธิรวม (Total Net Weight) เท่านั้น สำหรับทางอากาศใช้น้ำหนักตาม D/O หน่วยของน้ำหนักรวม (Total Gross Weight Unit Code) ตามมาตรฐาน UNECE Recommendation 20 มีค่าได้ดังต่อไปนี้ KGM – Kilogram, TNE – Metric Ton , GRM – Gram , CTM – Carat  </description>
-    </item>
-    
-    <item>
       <title>คลังสินค้าทัณฑ์บน</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/transfer-of-goods/bond/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -763,23 +802,21 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
+      <title>จำนวนและน้ำหนักของสินค้า</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/quantity-weight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/quantity-weight/</guid>
+      <description> จำนวนและน้ำหนักของสินค้า  จำนวนหีบห่อรวม (Total Package Amount) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน หากสินค้ามีหลายลักษณะรวมกัน ให้ระบุจำนวนหีบห่อรวม ลักษณะหีบห่อรวม (Total Package Unit Code) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน UNECE Recommendation 21 หากสินค้ามีหลายลักษณะรวมกัน เช่น กล่อง Roll Drum ให้ระบุหน่วยเป็น &amp;ldquo;PK&amp;rdquo; น้ำหนักสุทธิรวม (Total Net Weight) ต้องมีค่าเท่ากับน้ำหนักสุทธิ (Net Weight) รวมทุกรายการเท่านั้น หน่วยของน้ำหนักสุทธิ (Net Weight Unit Code ตามมาตรฐาน UNECE Recommendation 20 มีค่าได้ดังต่อไปนี้ KGM – Kilogram , TNE – Metric Ton , GRM – Gram , CTM – Carat น้ำหนักรวม (Total Gross Weight) ต้องมีค่าเท่ากับหรือมากกว่าน้ำหนักสุทธิรวม (Total Net Weight) เท่านั้น สำหรับทางอากาศใช้น้ำหนักตาม D/O หน่วยของน้ำหนักรวม (Total Gross Weight Unit Code) ตามมาตรฐาน UNECE Recommendation 20 มีค่าได้ดังต่อไปนี้ KGM – Kilogram, TNE – Metric Ton , GRM – Gram , CTM – Carat  </description>
+    </item>
+    
+    <item>
       <title>โครงสร้างใบกำกับการขนย้าย</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/goods-control-list-structure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/goods-control-list-structure/</guid>
       <description>โครงสร้างข้อมูลใบกำกับการขนย้ายสินค้า ใบกํากับการขนย้ายสินค้า แบ่งออกเป็น 2 ส่วน ได้แก่  Goods Transition Control ประกอบด้วย 31 Field Goods Transition Detail ประกอบด้วย 8 Field  เงื่อนไขการบันทึกข้อมูล ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้  หาก Field ใด กำหนดให้ต้องระบุค่า (Value = M) แต่ผู้บันทึกไม่สามารถหาข้อมูลได้ สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์) หาก Field ใด กำหนดให้ไม่ต้องระบุค่า (Value = O) และผู้บันทึกไม่สามารถหาข้อมูลได้ ก็ไม่ต้องบันทึกค่าใด ๆ หาก Field ใด กำหนดให้ต้องระบุค่า เมื่อเข้าเงื่อนไขที่กำหนด (Value = C) แต่ผู้บันทึกไม่สามารถหาข้อมูลได้ สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)   อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล    อักษรย่อ คำอธิบาย     n3 ข้อมูลชนิดตัวเลข (Numeric Characters) คงที่คือ 3 ตัวอักษร   a3 ข้อมูลชนิดตัวอักษร (Alphabetic Characters) คงที่คือ 3 ตัวอักษร   an3 ข้อมูลชนิดตัวอักษรหรือตัวเลข คงที่ คือ 3 ตัวอักษร   n.</description>
-    </item>
-    
-    <item>
-      <title>11. ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%82%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%82%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2/</guid>
-      <description> มีปัญหาในเรื่องต่าง ๆ ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า (Assessment Request Code) &amp;ldquo;Assessment Request Code&amp;rdquo; &amp;ldquo;มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ ด่านศุลกากร ที่นำเข้า&amp;rdquo;
- กรณีมีปัญหาและต้องการพบพนักงานศุลกากร ณ ด่านศุลกากรที่นำของเข้า  ในเรื่องปัญหาพิกัดศุลกากร อัตราศุลกากร ราคาศุลกากร ในเรื่องที่ต้องแจ้งความไว้ต่อพนักงานศุลกากรก่อนการส่งมอบว่าจะยื่นคำขอคืนเงินอากร และได้มีการแจ้งเหตุผลไว้ในช่อง หมายเหตุ &amp;ldquo;Remark&amp;rdquo; แล้ว  กรณีของนำเข้าเป็นของที่มีลักษณะ ดังต่อไปนี้  ของนำเข้าตามภาค 4 แห่งพระราชกำหนดพิกัดอัตราศุลกากร ของเก่าใช้แล้ว ของด้อยสภาพ  ในการจัดทำข้อมูลใบขนสินค้าขาเข้าตาม (1) หรือ (2) ให้ระบุค่า &amp;ldquo;Y&amp;rdquo; ในช่อง &amp;ldquo;Assessment Request Code&amp;rdquo; “มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ด่านศุลกากรที่นำเข้า” ระบบคอมพิวเตอร์ของศุลกากรจะสั่งการตรวจใบขนสินค้าขาเข้าเป็น &amp;ldquo;เปิดตรวจ&amp;rdquo; พบพนักงานศุลกากร ณ หน่วยบริการศุลกากร ที่นำของเข้า เพื่อยื่นหลักฐานหรือเอกสารมาแสดง หรือร้องขอให้พนักงานศุลกากรพิจารณาดำเนินการใด ๆ
-  </description>
     </item>
     
     <item>
@@ -800,7 +837,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/prepare-goods-control-list/</guid>
-      <description> วิธีการจัดทําข้อมูลใบกํากับการขนย้ายสินค้า ทางเรือ ทางรถไฟ ทางรถยนต์ เรือตามลํานํ้า ทางท่อ/สายส่ง ทางเครื่องบิน ทางไปรษณีย์ ทางผู้โดยสารนําพาขึ้นอากาศยาน </description>
+      <description> วิธีการจัดทําข้อมูลใบกํากับการขนย้ายสินค้า ทางเรือ รหัสสถานที่ตรวจปล่อย และรับบรรทุก เหมือนกัน รหัสสถานที่ตรวจปล่อย และรับบรรทุก แตกต่างกัน การส่งออกทางด่านศุลกากรทางทะเลโดยเรือหางยาว ทางรถไฟ ทางรถยนต์ เรือตามลํานํ้า ทางท่อ/สายส่ง ทางเครื่องบิน ทางไปรษณีย์ ทางผู้โดยสารนําพาขึ้นอากาศยาน การส่งข้อมูลโดยใช้เคาน์เตอร์บริการ การจัดทําและยื่นใบในรูปแบบเอกสาร (Manual) </description>
     </item>
     
     <item>
@@ -816,12 +853,14 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>12. รหัสสกุลเงินและอัตราแลกเปลี่ยน</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/currency-code-exchange-rate/</link>
+      <title>ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/assessment-request-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/currency-code-exchange-rate/</guid>
-      <description>รหัสสกุลเงินตราและอัตราแลกเปลี่ยน รหัสสกุลเงินตรา (Currency Code)  รหัสสกุลเงินตรา (Currency Code) ในส่วน Import Declaration Control ให้บันทึกค่ารหัสสกุลเงินตราตามมาตรฐาน หากสินค้ามีหลายสกุลเงินตราในใบขนสินค้าให้ใช้รหัสสกุลเงินตราที่มีอัตราแลกเปลี่ยนสูงสุด รหัสสกุลเงินตรา (Currency Code) ในส่วน Import Declaration Control (Invoice) ให้บันทึกค่ารหัสสกุลเงินตราตามมาตรฐาน หากสินค้ามีหลายสกุลเงินตราในใบขนสินค้าให้ใช้รหัสสกุลเงินตราที่มีอัตราแลกเปลี่ยนสูงสุด รหัสสกุลเงินตรา (Currency) ในส่วน Import Declaration Detail ให้บันทึกค่ารหัสสกุลเงินตราจริงตามมาตรฐาน  อัตราแลกเปลี่ยนเงินตรา (Exchange Rate)  ให้บันทึกค่าโดยตรวจสอบกับแฟ้มข้อมูลอัตราแลกเปลี่ยนเงินตราขาเข้า ให้ใช้อัตราแลกเปลี่ยนของสกุลเงินตราที่มีอัตราแลกเปลี่ยนสูงสุด  หลักการคำนวณราคาของจากเงินตราต่างประเทศเป็นเงินตราไทย  การคำนวณราคาของให้เป็นเงินตราไทย ให้ปฏิบัติดังนี้  คำนวณตามอัตราแลกเปลี่ยนเงินตราต่างประเทศที่กรมศุลกากรประกาศกำหนด สำหรับการนำเข้าและการส่งออก ของที่นำเข้า ให้ใช้อัตราแลกเปลี่ยนที่ใช้อยู่ใน วันนำเข้า ของส่งออกให้ใช้อัตราแลกเปลี่ยนที่ใช้อยู่ใน วันที่ออกใบขนสินค้าให้  การประกาศกำหนดอัตราแลกเปลี่ยนเงินตราต่างประเทศ สำนักมาตรฐานพิธีการและราคาศุลกากร จะดำเนินการ ดังนี้  พิจารณากำหนดอัตราแลกเปลี่ยนเงินตราต่างประเทศเป็นเงินตราไทย จากข้อมูลของธนาคารแห่งประเทศไทยในรอบ 7 วัน ก่อนวันประกาศ โดยใช้อัตราซื้อสำหรับการส่งออก และอัตราขายสำหรับการนำเข้า ดำเนินการให้มีการประกาศใช้อัตราแลกเปลี่ยนเงินตราต่างประเทศก่อนสิ้นเดือนไม่น้อยกว่า 7 วัน และมีผลใช้ในเดือนถัดไป หากวันประกาศตรงกับวันหยุดราชการ ให้ประกาศในวันทำการถัดไป กรณีมีการเปลี่ยนแปลงเกี่ยวกับสถานการณ์ทางการเงินหรือในระหว่างเดือน ปรากฏว่าอัตราแลกเปลี่ยนของเงินตราต่างประเทศ เป็นเงินตราไทยสูงขึ้นหรือลดลงเกินกว่าร้อยละ 10 ของอัตราที่ใช้อยู่อาจประกาศเปลี่ยนแปลงได้ตามความเหมาะสม โดยจะประกาศล่วงหน้าไม่น้อยกว่า 5 วัน ก่อนวันบังคับใช้   อัตราแลกเปลี่ยนกรมศุลกากรประจำเดือนเมษายน 2563    No County Currency Code Export Import     1 สหรัฐอเมริกา ดอลลาร์สหรัฐ USD 32.</description>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/assessment-request-code/</guid>
+      <description> มีปัญหาในเรื่องต่าง ๆ ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า (Assessment Request Code) &amp;ldquo;Assessment Request Code&amp;rdquo; &amp;ldquo;มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ ด่านศุลกากร ที่นำเข้า&amp;rdquo;
+ กรณีมีปัญหาและต้องการพบพนักงานศุลกากร ณ ด่านศุลกากรที่นำของเข้า  ในเรื่องปัญหาพิกัดศุลกากร อัตราศุลกากร ราคาศุลกากร ในเรื่องที่ต้องแจ้งความไว้ต่อพนักงานศุลกากรก่อนการส่งมอบว่าจะยื่นคำขอคืนเงินอากร และได้มีการแจ้งเหตุผลไว้ในช่อง หมายเหตุ &amp;ldquo;Remark&amp;rdquo; แล้ว  กรณีของนำเข้าเป็นของที่มีลักษณะ ดังต่อไปนี้  ของนำเข้าตามภาค 4 แห่งพระราชกำหนดพิกัดอัตราศุลกากร ของเก่าใช้แล้ว ของด้อยสภาพ  ในการจัดทำข้อมูลใบขนสินค้าขาเข้าตาม (1) หรือ (2) ให้ระบุค่า &amp;ldquo;Y&amp;rdquo; ในช่อง &amp;ldquo;Assessment Request Code&amp;rdquo; “มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ด่านศุลกากรที่นำเข้า” ระบบคอมพิวเตอร์ของศุลกากรจะสั่งการตรวจใบขนสินค้าขาเข้าเป็น &amp;ldquo;เปิดตรวจ&amp;rdquo; พบพนักงานศุลกากร ณ หน่วยบริการศุลกากร ที่นำของเข้า เพื่อยื่นหลักฐานหรือเอกสารมาแสดง หรือร้องขอให้พนักงานศุลกากรพิจารณาดำเนินการใด ๆ
+  </description>
     </item>
     
     <item>
@@ -855,6 +894,15 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
+      <title>รหัสสกุลเงินและอัตราแลกเปลี่ยน</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/currency-code-exchange-rate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/currency-code-exchange-rate/</guid>
+      <description>รหัสสกุลเงินตราและอัตราแลกเปลี่ยน รหัสสกุลเงินตรา (Currency Code)  รหัสสกุลเงินตรา (Currency Code) ในส่วน Import Declaration Control ให้บันทึกค่ารหัสสกุลเงินตราตามมาตรฐาน หากสินค้ามีหลายสกุลเงินตราในใบขนสินค้าให้ใช้รหัสสกุลเงินตราที่มีอัตราแลกเปลี่ยนสูงสุด รหัสสกุลเงินตรา (Currency Code) ในส่วน Import Declaration Control (Invoice) ให้บันทึกค่ารหัสสกุลเงินตราตามมาตรฐาน หากสินค้ามีหลายสกุลเงินตราในใบขนสินค้าให้ใช้รหัสสกุลเงินตราที่มีอัตราแลกเปลี่ยนสูงสุด รหัสสกุลเงินตรา (Currency) ในส่วน Import Declaration Detail ให้บันทึกค่ารหัสสกุลเงินตราจริงตามมาตรฐาน  อัตราแลกเปลี่ยนเงินตรา (Exchange Rate)  ให้บันทึกค่าโดยตรวจสอบกับแฟ้มข้อมูลอัตราแลกเปลี่ยนเงินตราขาเข้า ให้ใช้อัตราแลกเปลี่ยนของสกุลเงินตราที่มีอัตราแลกเปลี่ยนสูงสุด  หลักการคำนวณราคาของจากเงินตราต่างประเทศเป็นเงินตราไทย  การคำนวณราคาของให้เป็นเงินตราไทย ให้ปฏิบัติดังนี้  คำนวณตามอัตราแลกเปลี่ยนเงินตราต่างประเทศที่กรมศุลกากรประกาศกำหนด สำหรับการนำเข้าและการส่งออก ของที่นำเข้า ให้ใช้อัตราแลกเปลี่ยนที่ใช้อยู่ใน วันนำเข้า ของส่งออกให้ใช้อัตราแลกเปลี่ยนที่ใช้อยู่ใน วันที่ออกใบขนสินค้าให้  การประกาศกำหนดอัตราแลกเปลี่ยนเงินตราต่างประเทศ สำนักมาตรฐานพิธีการและราคาศุลกากร จะดำเนินการ ดังนี้  พิจารณากำหนดอัตราแลกเปลี่ยนเงินตราต่างประเทศเป็นเงินตราไทย จากข้อมูลของธนาคารแห่งประเทศไทยในรอบ 7 วัน ก่อนวันประกาศ โดยใช้อัตราซื้อสำหรับการส่งออก และอัตราขายสำหรับการนำเข้า ดำเนินการให้มีการประกาศใช้อัตราแลกเปลี่ยนเงินตราต่างประเทศก่อนสิ้นเดือนไม่น้อยกว่า 7 วัน และมีผลใช้ในเดือนถัดไป หากวันประกาศตรงกับวันหยุดราชการ ให้ประกาศในวันทำการถัดไป กรณีมีการเปลี่ยนแปลงเกี่ยวกับสถานการณ์ทางการเงินหรือในระหว่างเดือน ปรากฏว่าอัตราแลกเปลี่ยนของเงินตราต่างประเทศ เป็นเงินตราไทยสูงขึ้นหรือลดลงเกินกว่าร้อยละ 10 ของอัตราที่ใช้อยู่อาจประกาศเปลี่ยนแปลงได้ตามความเหมาะสม โดยจะประกาศล่วงหน้าไม่น้อยกว่า 5 วัน ก่อนวันบังคับใช้   อัตราแลกเปลี่ยนกรมศุลกากรประจำเดือนเมษายน 2563    No County Currency Code Export Import     1 สหรัฐอเมริกา ดอลลาร์สหรัฐ USD 32.</description>
+    </item>
+    
+    <item>
       <title>ส่งเสริมการลงทุน BOI</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/transfer-of-goods/boi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -883,11 +931,11 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>13. หลักการรวมรายการสินค้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3/</link>
+      <title>หลักการรวมรายการสินค้า</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/merge-item/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/merge-item/</guid>
       <description>หลักการรวมรายการของบัญชีราคาสินค้า  เลขที่บัญชีราคาสินค้า (Invoice Number) ให้ระบุค่าตามจริง กรณีการนำเข้าไม่หมดในครั้งเดียวสามารถใช้เลขที่บัญชีราคาสินค้า ในใบขนสินค้าขาเข้าซ้ำได้อีก
  ลำดับรายการในบัญชีราคาสินค้า (Invoice Item Number) ให้ระบุค่าตามจริง
  เพื่อเป็นการแจ้งว่ารายการในใบขนสินค้าขาเข้ารายการนี้มาจาก Invoice Number และ Invoice Item Number ใด ในแต่ละรายการของใบขนสินค้าขาเข้าสามารถใช้ Invoice Number และ Invoice Item Number ซ้ำกันได้ เช่น กรณีใช้สิทธิ BOI, ใช้สิทธิตามมาตรา 29, สุทธินำกลับ   หลักการรวมเอกสาร Invoice เป็นข้อมูล Import Declaration Detail  สามารถบันทึกข้อมูลรายละเอียดใบขนสินค้าจัดกลุ่มรายการตามพิกัดศุลกากร (Tariff Code) และรหัสสถิติสินค้า (Statistical Code) เดียวกันรวมกันได้ภายใต้เงื่อนไข ดังนี้
@@ -918,21 +966,21 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>14. ราคาของ</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/cif-value/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/cif-value/</guid>
-      <description>ราคาของในการจัดทำข้อมูลใบขนสินค้าขาเข้า  ราคาของ CIF เงินต่างประเทศ (CIF Value Foreign) ราคาของ CIF เงินบาท (CIF Value Baht) มีค่าเท่ากับราคาของ CIF เงินต่างประเทศ คูณด้วยอัตราแลกเปลี่ยนเงินตรา  Total Invoice Total Invoice หมายถึง ยอดเงินรวมของราคาสินค้าตามบัญชีราคาสินค้าเป็นเงินบาท ทุกรายการในใบขนสินค้ารวมกันแล้วสามารถจะเท่ากับหรือไม่เท่ากับ Total Invoice ในส่วนควบคุม ได้ขึ้นอยู่กับ เงื่อนไขการซื้อขาย ตัวอย่างเช่น ข้อมูลในเอกสารบัญชีราคาสินค้า Total Invoice = 20,000 Term CIF แต่ Unit Price สำแดงราคาเป็น Term FOB โดยให้บันทึกข้อมูลตามจริง ดังนั้น Total Invoice ส่วน Control = Term CIF และ Unit Price ให้ใส่ข้อมูลตาม Term FOB ได้ มีผลให้ จำนวนเงินของแต่ละรายการเงินบาท ตามเอกสาร Invoice รวมกันทุกรายการ &amp;lt;&amp;gt; Total Invoice ใน Control</description>
-    </item>
-    
-    <item>
       <title>การชดเชยค่าภาษีอากร</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/compensate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/compensate/</guid>
       <description>การชดเชยค่าภาษีอากรสำหรับสินค้าส่งออกที่ผลิตในราชอาณาจักร การชดเชยค่าภาษีอากรคำจำกัดความที่สำคัญในการชดเชยค่าภาษีอากร  คำว่า &amp;ldquo;สินค้า&amp;rdquo; หมายความว่า สินค้าที่ผลิตในราชอาณาจักร คำว่า &amp;ldquo;ผลิต&amp;rdquo; หมายความว่า ประกอบ แปรรูป แปรสภาพ หรือทำการอย่างใดอย่างหนึ่งให้มีขึ้น ซึ่งสินค้าไม่ว่าด้วยวิธีใดๆ คำว่า &amp;ldquo;เงินชดเชย&amp;rdquo; หมายความว่า เงินที่จะจ่ายชดเชยค่าภาษีอากรซึ่งมีอยู่ในต้นทุนการผลิตสินค้าส่งออกให้แก่ผู้มีสิทธิได้รับเงินชดเชยในรูปของบัตรภาษีตามพระราชบัญญัติชดเชยค่าภาษีอากรสินค้าส่งออกที่ผลิตในราชอาณาจักร พ.ศ. 2524 คำว่า &amp;ldquo;อัตราเงินชดเชยค่าภาษีอากร&amp;rdquo; หมายความว่า อัตราเงินชดเชยสำหรับชนิดและประเภทสินค้าที่จะได้รับเงินชดเชยค่าภาษีอากรตามที่คณะกรรมการพิจารณาชดเชยค่าภาษีอากรสินค้าส่งออกที่ผลิตในราชอาณาจักรได้ประกาศในราชกิจจานุเบกษา คำว่า &amp;ldquo;การส่งสินค้าออก&amp;rdquo; หมายความว่า การส่งของออกตามกฎหมายว่าด้วยศุลกากร รวมถึงการขายสินค้าภายในประเทศให้แก่ส่วนราชการหรือรัฐวิสาหกิจตามโครงการเงินกู้หรือเงินช่วยเหลือจากต่างประเทศ และการขายสินค้าให้แก่องค์การระหว่างประเทศหรือหน่วยงานที่มีสิทธินำสินค้าเข้ามาในราชอาณาจักรโดยได้รับการยกเว้นอากรตามกฎหมายว่าด้วยพิกัดอัตราศุลกากร  ผู้มีสิทธิได้รับเงินชดเชยค่าภาษีอากร  ผู้ทำการส่งออกตามกฎหมายว่าด้วยศุลกากร หรือผู้ที่ขายสินค้าภายในประเทศให้แก่ ส่วนราชการหรือรัฐวิสาหกิจตามโครงการเงินกู้หรือเงินช่วยเหลือจากต่างประเทศ หรือผู้ที่ขายสินค้าให้แก่องค์การระหว่างประเทศหรือหน่วยงานที่มีสิทธินำสินค้านั้นเข้ามาในราชอาณาจักรโดยได้รับการยกเว้นอากรตามกฎหมายว่าด้วยพิกัดอัตราศุลกากร ผู้มีสิทธิได้รับเงินชดเชยจะต้องไม่ได้ใช้สิทธิคืนหรือยกเว้นหรือลดหย่อนภาษีอากร ตามกฎหมายศุลกากรและกฎหมายอื่นสำหรับสินค้าส่งออก การส่งออกไปจำหน่ายยังต่างประเทศต้องปฏิบัติให้ถูกต้องครบถ้วนตามกฎหมายศุลกากรและได้รับชำระเงินค่าขายสินค้าจากต่างประเทศ ถ้าหากเป็นการส่งออกเพื่อวัตถุประสงค์อื่นที่ไม่ใช่ทางการค้าเช่น การส่งออกเพียงเพื่อเป็นตัวอย่าง หรือเพื่อการวิเคราะห์ หรือเพื่อการอื่นที่มิได้จำหน่าย ไม่สามารถขอรับเงินชดเชยได้  ผู้ไม่มีสิทธิได้รับเงินชดเชยค่าภาษีอากร ผู้ไม่มีสิทธิได้รับเงินชดเชยค่าภาษีอากร ได้แก่ผู้ส่งออกที่ได้ใช้สิทธิขอคืนหรือยกเว้นหรือลดหย่อนอากรขาเข้าสำหรับของที่ส่งออกที่ใช้สิทธิประโยชน์ ดังต่อไปนี้ 1. การขอคืนอากรตามมาตรา 29 ตามกฎหมายว่าด้วยศุลกากร 2. การยกเว้นอากรขาเข้าแก่ของที่ปล่อยออกไปจากคลังสินค้าทัณฑ์บน ประเภทโรงผลิตสินค้าเพื่อส่งออกไปนอกราชอาณาจักร ตามกฎหมายว่าด้วยศุลกากร 3. การยกเว้นอากรขาเข้าเกี่ยวกับเขตประกอบการเสรี ตามกฎหมาย ว่าด้วยการนิคมอุตสาหกรรมแห่งประเทศไทย 4. การยกเว้นหรือลดหย่อนอากรขาเข้าที่ไม่ใช่เครื่องจักร ตามกฎหมายว่าด้วยส่งเสริมการลงทุน 5. การยกเว้นอากรขาเข้าเกี่ยวกับเขตปลอดอากรตามหมวด 6 ตามกฎหมายว่าด้วยศุลกากร</description>
+    </item>
+    
+    <item>
+      <title>ราคาของ</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/cif-value/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/cif-value/</guid>
+      <description>ราคาของในการจัดทำข้อมูลใบขนสินค้าขาเข้า  ราคาของ CIF เงินต่างประเทศ (CIF Value Foreign) ราคาของ CIF เงินบาท (CIF Value Baht) มีค่าเท่ากับราคาของ CIF เงินต่างประเทศ คูณด้วยอัตราแลกเปลี่ยนเงินตรา  Total Invoice Total Invoice หมายถึง ยอดเงินรวมของราคาสินค้าตามบัญชีราคาสินค้าเป็นเงินบาท ทุกรายการในใบขนสินค้ารวมกันแล้วสามารถจะเท่ากับหรือไม่เท่ากับ Total Invoice ในส่วนควบคุม ได้ขึ้นอยู่กับ เงื่อนไขการซื้อขาย ตัวอย่างเช่น ข้อมูลในเอกสารบัญชีราคาสินค้า Total Invoice = 20,000 Term CIF แต่ Unit Price สำแดงราคาเป็น Term FOB โดยให้บันทึกข้อมูลตามจริง ดังนั้น Total Invoice ส่วน Control = Term CIF และ Unit Price ให้ใส่ข้อมูลตาม Term FOB ได้ มีผลให้ จำนวนเงินของแต่ละรายการเงินบาท ตามเอกสาร Invoice รวมกันทุกรายการ &amp;lt;&amp;gt; Total Invoice ใน Control</description>
     </item>
     
     <item>
@@ -947,7 +995,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>15. INCOTERMS</title>
+      <title>INCOTERMS</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/incoterms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -969,7 +1017,7 @@ Group E (การออกจากสถานที่) EXW (1) EXW (…….n
     </item>
     
     <item>
-      <title>16. ภาค 4 ของที่ได้รับยกเว้นอากร</title>
+      <title>ภาค 4 ของที่ได้รับยกเว้นอากร</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/part-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -982,21 +1030,21 @@ Group E (การออกจากสถานที่) EXW (1) EXW (…….n
     </item>
     
     <item>
-      <title>17. สิทธิประโยชน์ทางภาษีอากร</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/</link>
+      <title>สิทธิประโยชน์ทางภาษีอากร</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/tax-incentives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/tax-incentives/</guid>
       <description>สิทธิประโยชน์ทางภาษีอากร สิทธิขอคืนอากรตามมาตรา 29  ระบุ 19bis = Y ที่ส่วนรายการในใบขนสินค้า ระบุ Import Tax Incentives ID = เลขที่ทะเบียนผู้ใช้สิทธิตามมาตรา 29 ที่ส่วนรายการในใบขนสินค้า ระบุ Privilege Code  กรณีชำระอากร ให้ระบุตามสิทธิที่มีขณะนำเข้า เช่น มาตรา 12, WTO, TAU, AFTA
 เป็นต้น และต้องคำนวณค่าภาษีอากรตามปกติ   กรณีวางประกัน ตามมาตรา 30 ให้ระบุ Privilege Code = 000 ตามอัตราปกติเท่านั้น  การชำระอากรตรวจสอบกับหลักการ ตามมาตรา 29 เช่น  ชำระอากรเต็มจำนวน ลดเหลือกึ่งหนึ่งจากอากรที่เรียกเก็บเป็นการทั่วไป ตามมาตรา 12 พระราชกำหนดพิกัดอัตราศุลกากร (สำหรับ จดทะเบียนตลาดหลักทรัพย์, บริษัทมหาชนจำกัด, สมาชิกสภาอุตสาหกรรม, สมาชิกหอการค้า, อื่น ๆ) ให้บันทึก Exemption Rate = 50 ลดเหลือร้อยละ 5 จากอากรที่เรียกเก็บเป็นการทั่วไป ตามมาตรา 12 พระราชกำหนดพิกัดอัตราศุลกากร (สำหรับ Gold Card) ให้บันทึก Exemption Rate = 95  วางประกันตามมาตรา 30 สำหรับของนำเข้าตามมาตรา 29 ให้บันทึกการวางประกัน โดย ระบุรหัสเหตุผลการวางประกันมาในช่อง Deposit Reason Code (D09) ที่ส่วนรายการในใบขนสินค้า (Deposit) ระบุจำนวนเงินวางประกันมาในช่อง Deposit Amount ที่ส่วนรายการในใบขนสินค้า (Duty) และที่ส่วนรายการในใบขนสินค้า (Deposit)   อากรศุลกากร ให้ยกยอดจากอากรศุลกากรที่ตรวจสอบกับหลักการ มาวางประกัน ภาษีสรรพสามิตและค่าภาษีอากรอื่น ๆ ต้องวางประกันเต็มจำนวน VAT ต้องชำระเต็ม ไม่สามารถวางประกันได้ การวางประกันให้ ปัดเศษของสตางค์ (ทศนิยมหลักที่ 3) ตามหลักสากล สิทธิคลังสินค้าทัณฑ์บน  ระบุ Bond = Y ที่ส่วนรายการในใบขนสินค้า ระบุ Import Tax Incentives ID = เลขที่ทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากร ที่นำสินค้า เข้าเก็บ ที่ส่วนรายการในใบขนสินค้า ให้ระบุเลขประจำตัวผู้เสียภาษีอากรของผู้นำเข้าตรงกับเลขประจำตัวผู้เสียภาษีอากรที่จดทะเบียนคลังสินค้าทัณฑ์บน หรือผู้ที่เจ้าของคลังแจ้งอนุญาตไว้กับกรมศุลกากร ระบุ Privilege Code ตามสิทธิที่มีขณะนำเข้า เช่น มาตรา 12, WTO, TAU, AFTA เป็นต้น และต้องคำนวณค่าภาษีอากรตามปกติ ใช้สิทธิยกเว้นอากรให้ใส่ Exemption Rate = 100 ระบุรหัสสถานที่นำเข้า (Discharge Port) เป็นรหัสสถานที่ของศุลกากร ณ ด่านศุลกากร ที่นำของเข้า (First Port) ระบุรหัสสถานที่ตรวจปล่อย (Release Port) ให้บันทึกข้อมูลรหัสสถานที่ตรวจปล่อย (Release Port) เป็น ด่านศุลกากร ที่นำของเข้า (First Port)</description>
     </item>
     
     <item>
-      <title>18. การขอวางประกันโต้แย้งพิกัดอัตราศุลกากร /การวางประกัน</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%82%E0%B8%95%E0%B9%89%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94/</link>
+      <title>การขอวางประกันโต้แย้งพิกัดอัตราศุลกากร /การวางประกัน</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/guarantee-argumentative/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%82%E0%B8%95%E0%B9%89%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/guarantee-argumentative/</guid>
       <description>การขอวางประกันโต้แย้งพิกัดอัตราศุลกากร /การวางประกัน การขอวางประกันในกรณีที่พนักงานศุลกากรเห็นว่ามีปัญหาเกี่ยวกับจำนวนค่าอากรสำหรับของที่กำลังผ่านศุลกากร การวางประกัน กรณีที่พนักงานศุลกากรเห็นว่ามีปัญหาเกี่ยวกับค่าอากรในการปฏิบัติพิธีการ ตามมาตรา 55 และถูกวางประกันไว้แล้ว หากผู้นำของเข้ามีความประสงค์ขอวางประกันของที่นำเข้าในลักษณะเดิมที่นำเข้ามาในภายหลัง ให้สำแดงพิกัดอัตราศุลกากรในอัตราสูง ชำระภาษีอากรในอัตราอากรที่สำแดงต่ำและถูกจับกุม โดยนำยอดอากรที่เป็นส่วนต่างของค่าภาษีขาเข้าสำแดงไว้ในช่องวางประกัน แต่ให้ชำระภาษีมูลค่าเพิ่มในพิกัดอัตราอากรสูงเต็มจำนวน โดยให้บันทึกพิกัดอัตราศุลกากรในอัตราที่ขอวางประกันในช่อง Argumentative ทั้ง 3 ช่องตามตัวอย่างด้านล่างนี้ พร้อมทั้ง ให้ระบุเลขที่ใบขนสินค้าขาเข้าฉบับที่มีปัญหาที่ช่อง Reference Declaration Number และ Reference Declaration Line Number โดยจัดทำข้อมูลใบขนสินค้าขาเข้าเพื่อขอพบพนักงานศุลกากรกรณีมีปัญหาพิกัด/ราคา (Assessment Request)
 หลักการสำแดงข้อมูลใบขนสินค้าขาเข้า กรณีขอวางประกันปัญหาพิกัดอัตราศุลกากร หลักการสำแดงข้อมูลใบขนสินค้าขาเข้า กรณีขอวางประกันปัญหาราคา การขอเรียกร้องขอคืนเงินอากรเพราะเหตุที่ได้เสียไว้เกินจำนวนที่พึงต้องเสียจริง การขอคืนเงินอากรกรณีที่เสียไว้เกิน ตามมาตรา 25 ผู้ประกอบการต้องสำแดงพิกัดอัตราศุลกากรในอัตราสูง ชำระอากรอัตราอากรสูง และขอคืนอากรไว้ในพิกัดอัตราอากรซึ่งต่ำกว่าที่สำแดง ในช่อง Argumentative ทั้ง 4 ช่องตามตัวอย่างด้านล่างนี้ โดยจัดทำข้อมูลใบขนสินค้าขาเข้าเพื่อขอพบพนักงานศุลกากรกรณีมีปัญหาพิกัด/ราคา (Assessment Request)
 หลักการสำแดงข้อมูลใบขนสินค้าขาเข้า กรณีขอโต้แย้งปัญหาพิกัดอัตราศุลกากร
@@ -1006,20 +1054,20 @@ Group E (การออกจากสถานที่) EXW (1) EXW (…….n
     </item>
     
     <item>
-      <title>19. การขอวางประกันโต้แย้งพิกัดอัตราศุลกากร /การวางประกัน</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%82%E0%B8%AD%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A1%E0%B8%B1%E0%B8%99/</link>
+      <title>ขอวางประกันกองทุนน้ำมันเชื้อเพลิงและเงินกองทุนเพื่อส่งเสริมการอนุรักษ์พลังงาน</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/guarantee-fuel-fund/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%82%E0%B8%AD%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A1%E0%B8%B1%E0%B8%99/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/guarantee-fuel-fund/</guid>
       <description>ขอวางประกันกองทุนน้ำมันเชื้อเพลิงและเงินกองทุนเพื่อส่งเสริมการอนุรักษ์พลังงาน หลักการสำแดงข้อมูลใบขนสินค้าขาเข้า กรณีขอวางประกันกองทุนน้ำมันเชื้อเพลิงและเงินกองทุนเพื่อส่งเสริมการอนุรักษ์พลังงาน</description>
     </item>
     
     <item>
-      <title>20. ขอชำระหรือวางประกันอากรตอบโต้การทุ่มตลาดและการอุดหนุน</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B9%82%E0%B8%95%E0%B9%89%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94/</link>
+      <title>ขอชำระหรือวางประกันอากรตอบโต้การทุ่มตลาดและการอุดหนุน</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/gurantee-anti-dumping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B9%82%E0%B8%95%E0%B9%89%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/gurantee-anti-dumping/</guid>
       <description>ขอชำระหรือวางประกันอากรตอบโต้การทุ่มตลาดและการอุดหนุน หลักการสำแดงข้อมูลใบขนสินค้าขาเข้า กรณีมีค่าอากรตอบโต้การทุ่มตลาดและการอุดหนุนต้องชำระ
 หลักการสำแดงข้อมูลใบขนสินค้าขาเข้า กรณีขอวางประกันค่าอากรตอบโต้การทุ่มตลาดและ การอุดหนุน
 ตัวอย่าง ราคาศุลกากรที่ต้องชำระ คือ 100,000
@@ -1027,17 +1075,17 @@ Group E (การออกจากสถานที่) EXW (1) EXW (…….n
     </item>
     
     <item>
-      <title>21. หลักการบันทึกค่าภาษีอากรและวางประกัน ในใบขนสินค้าขาเข้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5/</link>
+      <title>หลักการบันทึกค่าภาษีอากรและวางประกัน ในใบขนสินค้าขาเข้า</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/input-duty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/input-duty/</guid>
       <description> หลักการบันทึกค่าภาษีอากรและวางประกัน ในใบขนสินค้าขาเข้า หมายเหตุ
  ตัวอย่างด้านบนใช้ Duty rate เท่ากับ 20% การคำนวณอากรที่ชำระ (Amount Paid) ปกติแล้วจะต้องมีค่าเท่ากับอากรตามปกติ (Amount) ตาม Case 1 ยกเว้น Exemption Rate มีค่า อากรที่ชำระ (Amount Paid) ที่คำนวณได้นั้น หากต้องการวางประกัน ให้บันทึกค่าที่ช่อง Deposit Amount ให้เท่ากับ อากรที่ชำระ (Amount Paid) เท่านั้น   การคำนวณค่าวางประกัน ทุกกรณี ไม่ต้องปัดเป็นตัวกลมให้วางเท่ากับค่าอากรที่ชำระ </description>
     </item>
     
     <item>
-      <title>22. Payment Method and Guarantee Method Guideline</title>
+      <title>Payment Method and Guarantee Method Guideline</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/payment-method/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1047,16 +1095,16 @@ Group E (การออกจากสถานที่) EXW (1) EXW (…….n
     </item>
     
     <item>
-      <title>23. รหัสเหตุผลการโต้แย้ง</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%95%E0%B9%89%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%87/</link>
+      <title>รหัสเหตุผลการโต้แย้ง</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/argumentative-reason-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%95%E0%B9%89%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%87/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/argumentative-reason-code/</guid>
       <description> รหัสเหตุผลการโต้แย้ง (Argumentative Reason Code) </description>
     </item>
     
     <item>
-      <title>24. ประเภทค่าภาษีอากร</title>
+      <title>ประเภทค่าภาษีอากร</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/type-duty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1065,16 +1113,16 @@ Group E (การออกจากสถานที่) EXW (1) EXW (…….n
     </item>
     
     <item>
-      <title>25. หน่วยงานผู้ออกใบอนุญาต</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%83%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8D%E0%B8%B2%E0%B8%95/</link>
+      <title>หน่วยงานผู้ออกใบอนุญาต</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/permit-issue-authority/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%83%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8D%E0%B8%B2%E0%B8%95/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/permit-issue-authority/</guid>
       <description> เลขประจำตัวผู้เสียภาษีของหน่วยงานผู้ออกใบอนุญาต (Permit Issue Authority)    ลำดับที่ หน่วยงาน เลขประจำตัวผู้เสียภาษี 13 หลัก     1 กรมการขนส่งทางบก 0994000161328   2 กรมการขนส่งทางอากาศ 0994000158084   3 กรมการค้าต่างประเทศ 0994000159561   4 กรมการค้าภายใน 0994000161450   5 กรมควบคุมโรค 0994000241801   6 กรมเชื้อเพลิงธรรมชาติ 0994000036191   7 กรมทรัพยากรธรณี 0994000160887   8 กระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม 0994000044615   9 กรมธุรกิจพลังงาน 0994000036337   10 กรมประมง 0994000160259   11 กรมปศุสัตว์ 0994000159251   12 กรมป่าไม้ 0994000159897   13 กรมพัฒนาธุรกิจการค้า 0994000244746   14 กรมโรงงานอุตสาหกรรม 0994000528116   15 กรมวิชาการเกษตร 0994000158921   16 กรมวิทยาศาสตร์การแพทย์ 0994000160682   17 กรมศุลกากร 0994000163011   18 กรมส่งเสริมการส่งออก 0994000159668   19 กรมสรรพสามิต 0994000160461   20 กรมสรรพากร 0994000158441   21 กรมอุตสาหกรรมทหาร 0994000011679   22 กรมอุตสาหกรรมพื้นฐานและการเหมืองแร่ 0994000036213   23 กรมอุทยานแห่งชาติสัตว์ป่าและพันธุ์พืช 0994000041969   24 การท่าเรือแห่งประเทศไทย 0994000165480   25 การนิคมอุตสาหกรรมแห่งประเทศไทย 0994000164980   26 สำนักงานคณะกรรมการกิจการโทรคมนาคมแห่งชาติ 0994000049447   27 สภาหอการค้าไทย 0994000164921   28 สำนักงานคณะกรรมการส่งเสริมการลงทุน 0994000740964   29 สำนักงานคณะกรรมการอาหารและยา 0994000165676   30 สำนักงานพลังงานปรมาณูเพื่อสันติ 0994000159544   31 สำนักงานมาตรฐานสินค้าเกษตรและอาหารแห่งชาติ 0994000037015    หากเป็นใบอนุญาตจากต่างประเทศ เช่น ATIGA Form D ในช่องเลขประจำตัวผู้เสียภาษีอากร ของผู้ออกใบอนุญาตให้ระบุชื่อย่อประเทศผู้ออกใบอนุญาต นั้น เช่น MY = ประเทศมาเลเซีย เป็นต้น</description>
     </item>
     
     <item>
-      <title>26. การตัดบัญชีใบขนสินค้ากับรายงานการนำของเข้า</title>
+      <title>การตัดบัญชีใบขนสินค้ากับรายงานการนำของเข้า</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/checking-mainfest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1086,7 +1134,7 @@ Group E (การออกจากสถานที่) EXW (1) EXW (…….n
     </item>
     
     <item>
-      <title>27. รหัสสิทธิพิเศษ ตามความตกลงระหว่างประเทศ</title>
+      <title>รหัสสิทธิพิเศษ ตามความตกลงระหว่างประเทศ</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/privilege/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1164,6 +1212,22 @@ Follow the following steps:
     </item>
     
     <item>
+      <title>การยกเว้นอากร หน้ากากอนามัย และวัตถุดิบที่นำเข้ามาผลิตฯ</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/except-duty-mask/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/except-duty-mask/</guid>
+      <description> การยกเว้นอากร หน้ากากอนามัย และวัตถุดิบที่นำเข้ามาผลิตฯ จาก ประกาศกระทรวงการคลัง เรื่อง การลดอัตราอากรและยกเว้นอากรศุลกากร ตามมาตรา 12 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530 (ฉบับที่ 3) [ดาวน์โหลดประกาศ] และ ประกาศกรมศุลกากรที่ 61/ 2563 เรื่อง แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 144/ 2560 เรื่อง หลักเกณฑ์และพิธีการสำหรับการลดอัตราอากรและยกเว้นอากรศุลกากรตามมาตรา 12 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ.2530 [ดาวน์โหลดประกาศ] กำหนดให้เพิ่มข้อความต่อไปนี้
+&amp;ldquo;ของไม่ว่าจะจัดอยู่ในพิกัดประเภทใด ที่นำเข้ามาเพื่อผลิตเป็นหน้ากากชนิดที่ใช้ในห้องผ่าตัด ตามประเภทย่อย 6307.90.40 และหน้ากากกรองฝุ่น หมอกควัน หรือสารพิษ บรรดาที่เป็นอุปกรณ์เพื่อความปลอดภัย ตามประเภทย่อย 6307.90.90
+การยกเว้นอากรและการกำหนดให้ของที่ได้รับการยกเว้นอากร ให้เป็นไปตามหลักเกณฑ์และเงื่อนไข ดังต่อไปนี้
+(ก) ของที่ได้รับการยกเว้นอากร จะต้องนำไปใช้ผลิตหน้ากากชนิดที่ใช้ในห้องผ่าตัดตามประเภทย่อย 6307.90.40 และหน้ากากกรองฝุ่น หมอกควัน หรือสารพิษ บรรดาที่เป็นอุปกรณ์เพื่อความปลอดภัยตามประเภทย่อย 6307.90.90 ภายในกำหนดเวลาหนึ่งปี นับแต่วันที่นำของเข้า
+หากปรากฏในภายหลังว่า ของที่ได้รับการยกเว้นอากรไม่สามารถหรือมิได้นำไปใช้ผลิตภายในกำหนดเวลาหนึ่งปีนับแต่วันที่นำของเข้า ผู้นำของเข้าจะต้องชำระอากรตามปกติ หรือส่งของนั้นออกไปนอกราชอาณาจักร หากมีเหตุจำเป็นต้องขยายเวลาให้ขอต่ออธิบดีกรมศุลกากรก่อนครบกำหนดดังกล่าว อธิบดีกรมศุลกากรอาจอนุญาตให้ขยายเวลาได้ไม่เกินหกเดือน
+(ข) ผู้ขอใช้สิทธิต้องยื่นขออนุมัติก่อนการนำเข้า และจะได้รับการยกเว้นอากรเมื่อได้รับอนุมัติ&amp;rdquo;
+ ที่มาบทความ : กรมศุลกากร
+ </description>
+    </item>
+    
+    <item>
       <title>ของต้องห้ามต้องกำกัด</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/restricted-goods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1171,6 +1235,15 @@ Follow the following steps:
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/restricted-goods/</guid>
       <description>ของต้องห้ามต้องกำกัด ของต้องห้าม ของต้องห้าม หมายถึงของที่มีกฎหมายกำหนดห้ามนำเข้ามาหรือส่งออกไปนอกราชอาณาจักรโดยเด็ดขาด และในบางกรณีห้ามการส่งผ่านด้วย ผู้ใดนำสินค้าต้องห้ามเข้ามาหรือส่งออกไปนอกราชอาณาจักรจะมีความผิดต้องรับโทษตามกฎหมายที่เกี่ยวข้องและเป็นความผิดตามมาตรา 244 และ มาตรา 246 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560 ด้วย ตัวอย่างสินค้าต้องห้ามในการนำเข้า-ส่งออก มีดังนี้
  วัตถุลามก การนำเข้าและส่งออกวัตถุลามก ไม่ว่าจะอยู่ในรูปแบบหนังสือ ภาพเขียน ภาพพิมพ์ ภาพระบายสี สิ่งที่พิมพ์ขึ้น รูปภาพ ภาพโฆษณา เครื่องหมาย รูปถ่าย และภาพยนตร์ลามกหรือวัตถุลามกอื่น ๆ สินค้าที่มีตราหรือลวดลายเป็นรูปธงชาติ ยาเสพติดให้โทษ เงินตรา พันธบัตร ใบสำคัญรับดอกเบี้ยพันธบัตรอันเป็นของปลอมหรือแปลง เหรียญกษาปณ์ที่ทำให้น้ำหนักลดลงโดยทุจริต ดวงตราแผ่นดิน รอยตราแผ่นดินหรือพระปรมาภิไธย ดวงตราหรือรอยตราของทางราชการอันเป็นของปลอม สินค้าละเมิดลิขสิทธิ์ เช่น แถบบันทึกเสียง (เทปเพลง) แผ่นบันทึกเสียง (คอมแพคดิสก์) แถบบันทึกภาพ (วีดีโอเทป) โปรแกรม คอมพิวเตอร์ หนังสือ หรือสินค้าอื่นใดที่ทำซ้ำหรือดัดแปลงงานอันมีลิขสิทธิ์ของผู้อื่น สินค้าปลอมแปลงหรือเลียนแบบเครื่องหมายการค้า  ของต้องกำกัด ของต้องกำกัด หมายถึงสินค้าที่มีกฎหมายกำหนดว่าหากจะมีการนำเข้า-ส่งออกหรือผ่านราชอาณาจักรจะต้องได้รับอนุญาตหรือปฏิบัติให้ครบถ้วนตามที่กำหนดไว้ในกฎหมายนั้น ๆ เช่น ต้องมีใบอนุญาตการนำเข้าและส่งออก ต้องปฏิบัติตามประกาศอันเกี่ยวกับฉลากหรือใบรับรองการวิเคราะห์ หรือเอกสารกำกับยา เป็นต้น ผู้ใดนำของต้องกำกัดเข้ามา หรือส่งออก หรือส่งผ่านราชอาณาจักรโดยมิได้รับอนุญาตหรือไม่ปฏิบัติตามกฎหมายที่กำหนดไว้ให้ครบถ้วน จะมีความผิดตามที่กำหนดไว้ในกฎหมายนั้น ๆ และเป็นความผิดตามมาตรา 244 และ มาตรา 246 แห่งพระราชบัญญัติศุลกากร พ.</description>
+    </item>
+    
+    <item>
+      <title>ข้อมูลพื้นฐานสถานศึกษาในประเทศไทย</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/test-embed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/test-embed/</guid>
+      <description> ข้อมูลพื้นฐานสถานศึกษาในประเทศไทย   </description>
     </item>
     
     <item>

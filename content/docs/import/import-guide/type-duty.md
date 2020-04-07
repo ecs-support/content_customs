@@ -1,7 +1,7 @@
 ---
 weight: 24
 bookFlatSection: true
-title: 24. ประเภทค่าภาษีอากร
+title: ประเภทค่าภาษีอากร
 bookToc: false
 ---
 

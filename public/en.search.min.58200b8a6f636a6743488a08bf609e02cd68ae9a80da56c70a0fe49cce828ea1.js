@@ -1,0 +1,5 @@
+'use strict';(function(){const input=document.querySelector('#book-search-input');const results=document.querySelector('#book-search-results');input.addEventListener('focus',init);input.addEventListener('keyup',search);function init(){input.removeEventListener('focus',init);input.required=true;loadScript('/knowledge-center/customs-clearance/flexsearch.min.js');loadScript('/knowledge-center/customs-clearance/en.search-data.min.0a4287c47fd31a856a6ad259733399988e5148d4e9970c4b026d1359409484ad.js',function(){input.required=false;search();});}
+function search(){while(results.firstChild){results.removeChild(results.firstChild);}
+if(!input.value){return;}
+const searchHits=window.bookSearchIndex.search(input.value,10);searchHits.forEach(function(page){const li=document.createElement('li'),a=li.appendChild(document.createElement('a'));a.href=page.href;a.textContent=page.title;results.appendChild(li);});}
+function loadScript(src,callback){const script=document.createElement('script');script.defer=true;script.async=false;script.src=src;script.onload=callback;document.head.appendChild(script);}})();

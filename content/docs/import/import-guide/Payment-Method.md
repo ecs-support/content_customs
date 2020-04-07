@@ -1,7 +1,7 @@
 ---
 weight: 22
 bookFlatSection: true
-title: 22. Payment Method and Guarantee Method Guideline
+title: Payment Method and Guarantee Method Guideline
 bookToc: false
 ---
 

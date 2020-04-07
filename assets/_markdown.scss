@@ -11,8 +11,9 @@
   h1, h2, h3, h4, h5, h6 {
     font-weight: bolder;
     line-height: 1em;
-    margin-top: 1.5em;
-    margin-bottom: $padding-16;
+    margin-top: $padding-16;
+    margin-bottom: $padding-8;
+    font-weight: 600;
   }
 
   h4 {
@@ -40,16 +41,20 @@
   }
   a {
     text-decoration: none;
-
+    
     &:hover {
       text-decoration: underline;
       color:#E32934;
-      
     }
+    
+    
   }
 
   img {
     max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   code {
@@ -95,11 +100,11 @@
     display: block;
     border-spacing: 0;
     border-collapse: collapse;
-    margin-top: $padding-16;
-    margin-bottom: $padding-16;
+    
+    margin-bottom: $padding-8;
   
     tr th, tr td {
-      padding: $padding-8 $padding-16;
+      padding: $padding-8 $padding-8;
       border: $padding-1 solid $gray-500;
       
     }
@@ -121,18 +126,18 @@
   }
 
   ul, ol {
-    padding-left: $padding-16 * 2;
+    padding-left: $padding-16;
   }
 
   dl {
     dt {
       font-weight: bolder;
-      margin-top: $padding-16;
+      margin-top: $padding-4;
       
     }
 
     dd {
-      margin-left: $padding-16 * 2;
+      margin-left: $padding-16 ;
     }
   }
 

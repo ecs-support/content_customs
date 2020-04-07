@@ -1,7 +1,7 @@
 ---
 weight: 10
 bookFlatSection: true
-title: 10. จำนวนและน้ำหนักของสินค้า 
+title: จำนวนและน้ำหนักของสินค้า 
 bookToc: false
 ---
 

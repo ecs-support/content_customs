@@ -1,7 +1,7 @@
 ---
 weight: 6
 bookFlatSection: true
-title: 6. วันนำเข้า (Arrival Date)
+title: วันนำเข้า (Arrival Date)
 bookToc: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 weight: 15
 bookFlatSection: true
-title: 15. INCOTERMS
+title: INCOTERMS
 bookToc: true
 ---
 

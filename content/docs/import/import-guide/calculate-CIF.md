@@ -2,7 +2,7 @@
 
 weight: 2
 bookFlatSection: true
-title: 2. การคำนวณมูลค่าเงินนำเข้า
+title: การคำนวณมูลค่าเงินนำเข้า
 bookToc: false
 ---
 

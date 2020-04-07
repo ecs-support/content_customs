@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>พิกัดศุลกากร on Knowledge Center</title>
+    <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/</link>
+    <description>Recent content in พิกัดศุลกากร on Knowledge Center</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>การยกเว้นอากรตามภาค 4</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/part-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/part-4/</guid>
+      <description>การยกเว้นอากรตามภาค 4 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530 1 ภาค 4 รายการสุทธินำกลับ...1 ภาค 4 รายการสุทธินำกลับ ของที่ส่งออกรวมทั้งของที่ส่งกลับออกไป ซึ่งนำกลับเข้ามา ภายในหนึ่งปีโดยไม่เปลี่ยนแปลงลักษณะหรือรูปแต่ประการใด และในเวลาที่ส่งออกนั้นได้รับใบสุทธิสำหรับนำกลับเข้ามาแล้วได้รับยกเว้นอากร ให้ผู้ขอยกเว้นอากร จัดทำและส่งข้อมูลใบขนสินค้าโดยระบุค่าดังนี้
+ขาออก  Re-Importation Certificate = Y (ในส่วนของ Export Declaration Detail) Export Tariff = 1PART4 Privilege Code = 004 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก   ขาเช้า  ระบุ Re - Importation Certificate = Y ที่ส่วนรายการในใบขนสินค้า
+ การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า
+ ระบุ Import Tariff = 1PART4 ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า</description>
+    </item>
+    
+  </channel>
+</rss>

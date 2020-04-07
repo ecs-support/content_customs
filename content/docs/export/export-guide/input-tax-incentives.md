@@ -7,8 +7,10 @@ bookToc: true
 หลักการบันทึกข้อมูล เพื่อขอใช้สิทธิประโยชน์ทางภาษีอากร
 ===
 
+{{< expand "Re-Export" " + " >}}  
+## Re-Export   
 
-## Re-Export  
+{{< hint info>}}
 ของนําเข้ามาแล้วส่งกลับออกไปภายใน 1 ปี โดยเสียอากร 1 ใน 10 (ตามมาตรา 28 พระราชบัญญัติศุลกากร พ.ศ. 2560) ให้ระบุค่าดังนี้   
 
 - Re-Export = Y (ในส่วนของ Export Declaration Detail)
@@ -17,8 +19,13 @@ bookToc: true
 - Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก
 - Declaration NO = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง ซึ่งนําของเข้ามาตามมาตรา 28
 - Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง
+{{< /hint >}}
+{{< /expand >}}
 
+{{< expand "ขอคืนอากรตามมาตรา 29" " + " >}}  
 ## ขอคืนอากรตามมาตรา 29 
+
+{{< hint info>}}
 - Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก (ใน
 ส่วนของ Export Decalration Detail)
 - 19 bis = Y (ในส่วนของ Export Declaration Detail)
@@ -28,8 +35,13 @@ bookToc: true
 - Model Number = เลขที่สูตรการผลิต
 - Model Version = เวอร์ชันของสูตรการผลิต
 - Model Company Tax Number = เลขประจําตัวผู้เสียภาษีอากรของบริษัทผู้ยื่นสูตร
+{{< /hint >}}
+{{< /expand >}}
 
+{{< expand "คลังสินค้าทัณฑ์บนส่งออกไปต่างประเทศ" " + " >}}  
 ## คลังสินค้าทัณฑ์บนส่งออกไปต่างประเทศ 
+
+{{< hint info>}}
 - Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก
 (ในส่วนของ Export Decalration Detail)
 - Bond = Y (ในส่วนของ Export Declaration Detail)
@@ -46,8 +58,13 @@ bookToc: true
 - Model Number = เลขที่สูตรการผลิต
 - Model Version = เวอร์ชันของสูตรการผลิต
 - Model Company Tax Number = เลขประจําตัวผู้เสียภาษีอากรของบริษัทผู้ยื่นสูตร
+{{< /hint >}}
+{{< /expand >}}
 
+{{< expand "ส่งออกจาก Free Zone ไปต่างประเทศ" " + " >}}  
 ## ส่งออกจาก Free Zone ไปต่างประเทศ
+
+{{< hint info>}}
 - Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก
 (ในส่วนของ Export Decalration Detail)
 - Free Zone = Y (ในส่วนของ Export Declaration Detail)
@@ -57,8 +74,13 @@ bookToc: true
 - Privilege Code = 003
 - Export Tariff = 9PART3
 - Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก
+{{< /hint >}}
+{{< /expand >}}
 
+{{< expand "ส่งออกจาก I-EAT Free Zone ไปต่างประเทศ" " + " >}}  
 ## ส่งออกจาก I-EAT Free Zone ไปต่างประเทศ
+
+{{< hint info>}}
 - Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก (ใน
 ส่วนของ Export Decalration Detail)
 - I-EAT Free Zone = Y (ในส่วนของ Export Declaration Detail)
@@ -68,14 +90,24 @@ bookToc: true
 - Privilege Code = 003
 - Export Tariff = 9PART3
 - Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก
+{{< /hint >}}
+{{< /expand >}}
 
+{{< expand "ชดเชยค่าภาษีอากร" " + " >}}  
 ## ชดเชยค่าภาษีอากร
+
+{{< hint info>}}
 - Compensation = Y (ในส่วนของ Export Declaration Detail)
 - Privilege Code = 003
 - Export Tariff = 9PART3
 - Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก
+{{< /hint >}}
+{{< /expand >}}
 
+{{< expand "ส่งเสริมการลงทุน BOI" " + " >}}  
 ## ส่งเสริมการลงทุน BOI 
+
+{{< hint info>}}
 - BOI = Y (ในส่วนของ Export Declaration Detail)
 - Privilege Code = 003
 - Export Tariff = 9PART3
@@ -83,3 +115,5 @@ bookToc: true
 - BOI License No = เลขที่บัตรส่งเสริมการลงทุน BOI
 - กรณีมีการโอนสิทธิ์ BOI ให้ใช้สําเนาใบขนสินค้าขาออกฉบับพิมพ์จากผู้ส่งของออกโดยระบุวันที่
 รับบรรทุก (Load Date) พร้อมแสดงรายการการโอนสิทธิ์ BOI ด้วย
+{{< /hint >}}
+{{< /expand >}}

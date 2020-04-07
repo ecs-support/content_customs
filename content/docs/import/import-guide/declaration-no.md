@@ -1,7 +1,7 @@
 ---
 weight: 3
 bookFlatSection: true
-title: 3. รูปแบบเลขที่ใบขนสินค้า
+title: รูปแบบเลขที่ใบขนสินค้า
 bookToc: false
 ---
 

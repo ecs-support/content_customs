@@ -9,6 +9,19 @@ bookToc: false
 ===
 ![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/Tax%20Incentives.png)
 
+## Table of Content  
+
+{{<hint  warning>}}
+-   [โครงสร้างข้อมูลใบขนสินค้าขาออก](/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/data_structure_export/)
+-   [โครงสร้างข้อมูลใบขนสินค้าขาเข้า](/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/data_structure_import/)
+-   [ตรวจสอบทะเบียนผู้มาติดต่อ](/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/visitor-registration/)
+-   [เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks)](/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/shipping-marks/)
+-   [จำนวนและน้ำหนักของสินค้า](/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/quantity-and-weight/)
+-   [ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า](/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/assessment-request/)
+-   [การโอนย้ายของออกจากสิทธิประโยชน์](/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/transfer-of-goods/)
+-   [เลขทะเบียนสิทธิประโยชน์ทางภาษีอากร](/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/incentive-registration-no/)
+{{< /hint>}}
+
 ## ขอบเขตการใช้งานคู่มือระบบพิธีการศุลกากรทางอิเล็กทรอนิกส์สำหรับสิทธิประโยชน์ทางภาษีอากร
 
 คู่มือระบบพิธีการศุลกากรทางอิเล็กทรอนิกส์สำหรับสิทธิประโยชน์ทางภาษีอากร (e-Tax Incentives) กำหนดขึ้นเพื่อ ประโยชน์พิธีการโอนย้ายของภายในประเทศ ระหว่างผู้ประกอบการที่ได้รับสิทธิประโยชน์ทางภาษีอากร  ให้การผ่านพิธีการศุลกากรสามารถกระทำโดยวิธีการทางอิเล็กทรอนิกส์แบบไร้เอกสาร โดยให้ใช้บังคับเป็นการทั่วไปสำหรับการโอนย้ายของภายในประเทศระหว่างผู้ประกอบการที่ได้รับสิทธิประโยชน์ทางภาษีอากร 
@@ -29,7 +42,7 @@ bookToc: false
 ![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page2.jpg)
 
 {{< hint info >}}
-**ที่มา :**  [ประกาศกรมศุลกากรที่ 119 / 2561 เรื่อง คู่มือการผ่านพิธีการศุลกากรทางอิเล็กทรอนิกส์ ว่าด้วยกระบวนการทางศุลกากรสำหรับการใช้สิทธิประโยชน์ทางภาษีอากร (e-Tax Incentives)](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&top_menu=menu_homepage&current_id=14223132414d505f4a464a4e464b4b)
+**ที่มา :**  ประกาศกรมศุลกากรที่ 119 / 2561 เรื่อง คู่มือการผ่านพิธีการศุลกากรทางอิเล็กทรอนิกส์ ว่าด้วยกระบวนการทางศุลกากรสำหรับการใช้สิทธิประโยชน์ทางภาษีอากร (e-Tax Incentives) . [[ดาวน์โหลดประกาศ]](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&top_menu=menu_homepage&current_id=14223132414d505f4a464a4e464b4b)
 
 {{< /hint >}}
 

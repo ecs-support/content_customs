@@ -1,7 +1,7 @@
 ---
 weight: 8
 bookFlatSection: true
-title: 8. รหัสสถานที่นำเข้า
+title: รหัสสถานที่นำเข้า
 bookToc: false
 ---
 

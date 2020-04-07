@@ -25,20 +25,20 @@ $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black: #000 !default;
 
-$color-link: #006690 !default;
-$color-visited-link: #006699 !default;
+$color-link: #003366 !default;
+$color-visited-link: #006690 !default;
 $color-hover: #E32934 !default;
 
 $body-background: #F5F5F5 !default;
 $body-font-color: #202020 !default;
 $body-font-weight: normal !default;
 
-$body-min-width: 20rem !default;
-$container-max-width: 80rem !default;
+$body-min-width: 35rem !default;
+$container-max-width: 90rem !default;
 
 $header-height: 3.5rem !default;
-$menu-width: 16rem !default;
-$toc-width: 16rem !default;
+$menu-width: 15rem !default;
+$toc-width: 15rem !default;
 
 $md-breakpoint: $menu-width + $body-min-width * 1.25 + $toc-width !default;
 $sm-breakpoint: $menu-width + $body-min-width !default;

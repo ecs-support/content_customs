@@ -10,7 +10,7 @@
     
     
     <item>
-      <title>1. โครงสร้างข้อมูลใบขนสินค้า</title>
+      <title>โครงสร้างข้อมูลใบขนสินค้า</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/data-structure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -19,7 +19,7 @@
     </item>
     
     <item>
-      <title>2. การคำนวณมูลค่าเงินนำเข้า</title>
+      <title>การคำนวณมูลค่าเงินนำเข้า</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/calculate-cif/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -28,7 +28,7 @@
     </item>
     
     <item>
-      <title>3. รูปแบบเลขที่ใบขนสินค้า</title>
+      <title>รูปแบบเลขที่ใบขนสินค้า</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/declaration-no/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -37,7 +37,7 @@
     </item>
     
     <item>
-      <title>4. ประเภทของเอกสาร</title>
+      <title>ประเภทของเอกสาร</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/type-ducument/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -46,7 +46,7 @@
     </item>
     
     <item>
-      <title>5. ระบบทะเบียนผู้มาติดต่อ</title>
+      <title>ระบบทะเบียนผู้มาติดต่อ</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/contact-registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -58,7 +58,7 @@
     </item>
     
     <item>
-      <title>6. วันนำเข้า (Arrival Date)</title>
+      <title>วันนำเข้า (Arrival Date)</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/arrival-date/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -68,7 +68,7 @@
     </item>
     
     <item>
-      <title>7. เลขที่ใบตราส่ง (Bill of Lading)</title>
+      <title>เลขที่ใบตราส่ง (Bill of Lading)</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/bill-of-loading-no/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -78,7 +78,7 @@
     </item>
     
     <item>
-      <title>8. รหัสสถานที่นำเข้า</title>
+      <title>รหัสสถานที่นำเข้า</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/area/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -91,7 +91,7 @@
     </item>
     
     <item>
-      <title>9. Shipping Marks</title>
+      <title>Shipping Marks</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/shipping-marks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -102,7 +102,7 @@
     </item>
     
     <item>
-      <title>10. จำนวนและน้ำหนักของสินค้า</title>
+      <title>จำนวนและน้ำหนักของสินค้า</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/quantity-weight/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -111,18 +111,18 @@
     </item>
     
     <item>
-      <title>11. ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%82%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2/</link>
+      <title>ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/assessment-request-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%82%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/assessment-request-code/</guid>
       <description> มีปัญหาในเรื่องต่าง ๆ ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า (Assessment Request Code) &amp;ldquo;Assessment Request Code&amp;rdquo; &amp;ldquo;มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ ด่านศุลกากร ที่นำเข้า&amp;rdquo;
  กรณีมีปัญหาและต้องการพบพนักงานศุลกากร ณ ด่านศุลกากรที่นำของเข้า  ในเรื่องปัญหาพิกัดศุลกากร อัตราศุลกากร ราคาศุลกากร ในเรื่องที่ต้องแจ้งความไว้ต่อพนักงานศุลกากรก่อนการส่งมอบว่าจะยื่นคำขอคืนเงินอากร และได้มีการแจ้งเหตุผลไว้ในช่อง หมายเหตุ &amp;ldquo;Remark&amp;rdquo; แล้ว  กรณีของนำเข้าเป็นของที่มีลักษณะ ดังต่อไปนี้  ของนำเข้าตามภาค 4 แห่งพระราชกำหนดพิกัดอัตราศุลกากร ของเก่าใช้แล้ว ของด้อยสภาพ  ในการจัดทำข้อมูลใบขนสินค้าขาเข้าตาม (1) หรือ (2) ให้ระบุค่า &amp;ldquo;Y&amp;rdquo; ในช่อง &amp;ldquo;Assessment Request Code&amp;rdquo; “มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ด่านศุลกากรที่นำเข้า” ระบบคอมพิวเตอร์ของศุลกากรจะสั่งการตรวจใบขนสินค้าขาเข้าเป็น &amp;ldquo;เปิดตรวจ&amp;rdquo; พบพนักงานศุลกากร ณ หน่วยบริการศุลกากร ที่นำของเข้า เพื่อยื่นหลักฐานหรือเอกสารมาแสดง หรือร้องขอให้พนักงานศุลกากรพิจารณาดำเนินการใด ๆ
   </description>
     </item>
     
     <item>
-      <title>12. รหัสสกุลเงินและอัตราแลกเปลี่ยน</title>
+      <title>รหัสสกุลเงินและอัตราแลกเปลี่ยน</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/currency-code-exchange-rate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -131,11 +131,11 @@
     </item>
     
     <item>
-      <title>13. หลักการรวมรายการสินค้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3/</link>
+      <title>หลักการรวมรายการสินค้า</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/merge-item/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/merge-item/</guid>
       <description>หลักการรวมรายการของบัญชีราคาสินค้า  เลขที่บัญชีราคาสินค้า (Invoice Number) ให้ระบุค่าตามจริง กรณีการนำเข้าไม่หมดในครั้งเดียวสามารถใช้เลขที่บัญชีราคาสินค้า ในใบขนสินค้าขาเข้าซ้ำได้อีก
  ลำดับรายการในบัญชีราคาสินค้า (Invoice Item Number) ให้ระบุค่าตามจริง
  เพื่อเป็นการแจ้งว่ารายการในใบขนสินค้าขาเข้ารายการนี้มาจาก Invoice Number และ Invoice Item Number ใด ในแต่ละรายการของใบขนสินค้าขาเข้าสามารถใช้ Invoice Number และ Invoice Item Number ซ้ำกันได้ เช่น กรณีใช้สิทธิ BOI, ใช้สิทธิตามมาตรา 29, สุทธินำกลับ   หลักการรวมเอกสาร Invoice เป็นข้อมูล Import Declaration Detail  สามารถบันทึกข้อมูลรายละเอียดใบขนสินค้าจัดกลุ่มรายการตามพิกัดศุลกากร (Tariff Code) และรหัสสถิติสินค้า (Statistical Code) เดียวกันรวมกันได้ภายใต้เงื่อนไข ดังนี้
@@ -143,7 +143,7 @@
     </item>
     
     <item>
-      <title>14. ราคาของ</title>
+      <title>ราคาของ</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/cif-value/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -152,7 +152,7 @@
     </item>
     
     <item>
-      <title>15. INCOTERMS</title>
+      <title>INCOTERMS</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/incoterms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -163,7 +163,7 @@ Group E (การออกจากสถานที่) EXW (1) EXW (…….n
     </item>
     
     <item>
-      <title>16. ภาค 4 ของที่ได้รับยกเว้นอากร</title>
+      <title>ภาค 4 ของที่ได้รับยกเว้นอากร</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/part-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -176,21 +176,21 @@ Group E (การออกจากสถานที่) EXW (1) EXW (…….n
     </item>
     
     <item>
-      <title>17. สิทธิประโยชน์ทางภาษีอากร</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/</link>
+      <title>สิทธิประโยชน์ทางภาษีอากร</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/tax-incentives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/tax-incentives/</guid>
       <description>สิทธิประโยชน์ทางภาษีอากร สิทธิขอคืนอากรตามมาตรา 29  ระบุ 19bis = Y ที่ส่วนรายการในใบขนสินค้า ระบุ Import Tax Incentives ID = เลขที่ทะเบียนผู้ใช้สิทธิตามมาตรา 29 ที่ส่วนรายการในใบขนสินค้า ระบุ Privilege Code  กรณีชำระอากร ให้ระบุตามสิทธิที่มีขณะนำเข้า เช่น มาตรา 12, WTO, TAU, AFTA
 เป็นต้น และต้องคำนวณค่าภาษีอากรตามปกติ   กรณีวางประกัน ตามมาตรา 30 ให้ระบุ Privilege Code = 000 ตามอัตราปกติเท่านั้น  การชำระอากรตรวจสอบกับหลักการ ตามมาตรา 29 เช่น  ชำระอากรเต็มจำนวน ลดเหลือกึ่งหนึ่งจากอากรที่เรียกเก็บเป็นการทั่วไป ตามมาตรา 12 พระราชกำหนดพิกัดอัตราศุลกากร (สำหรับ จดทะเบียนตลาดหลักทรัพย์, บริษัทมหาชนจำกัด, สมาชิกสภาอุตสาหกรรม, สมาชิกหอการค้า, อื่น ๆ) ให้บันทึก Exemption Rate = 50 ลดเหลือร้อยละ 5 จากอากรที่เรียกเก็บเป็นการทั่วไป ตามมาตรา 12 พระราชกำหนดพิกัดอัตราศุลกากร (สำหรับ Gold Card) ให้บันทึก Exemption Rate = 95  วางประกันตามมาตรา 30 สำหรับของนำเข้าตามมาตรา 29 ให้บันทึกการวางประกัน โดย ระบุรหัสเหตุผลการวางประกันมาในช่อง Deposit Reason Code (D09) ที่ส่วนรายการในใบขนสินค้า (Deposit) ระบุจำนวนเงินวางประกันมาในช่อง Deposit Amount ที่ส่วนรายการในใบขนสินค้า (Duty) และที่ส่วนรายการในใบขนสินค้า (Deposit)   อากรศุลกากร ให้ยกยอดจากอากรศุลกากรที่ตรวจสอบกับหลักการ มาวางประกัน ภาษีสรรพสามิตและค่าภาษีอากรอื่น ๆ ต้องวางประกันเต็มจำนวน VAT ต้องชำระเต็ม ไม่สามารถวางประกันได้ การวางประกันให้ ปัดเศษของสตางค์ (ทศนิยมหลักที่ 3) ตามหลักสากล สิทธิคลังสินค้าทัณฑ์บน  ระบุ Bond = Y ที่ส่วนรายการในใบขนสินค้า ระบุ Import Tax Incentives ID = เลขที่ทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากร ที่นำสินค้า เข้าเก็บ ที่ส่วนรายการในใบขนสินค้า ให้ระบุเลขประจำตัวผู้เสียภาษีอากรของผู้นำเข้าตรงกับเลขประจำตัวผู้เสียภาษีอากรที่จดทะเบียนคลังสินค้าทัณฑ์บน หรือผู้ที่เจ้าของคลังแจ้งอนุญาตไว้กับกรมศุลกากร ระบุ Privilege Code ตามสิทธิที่มีขณะนำเข้า เช่น มาตรา 12, WTO, TAU, AFTA เป็นต้น และต้องคำนวณค่าภาษีอากรตามปกติ ใช้สิทธิยกเว้นอากรให้ใส่ Exemption Rate = 100 ระบุรหัสสถานที่นำเข้า (Discharge Port) เป็นรหัสสถานที่ของศุลกากร ณ ด่านศุลกากร ที่นำของเข้า (First Port) ระบุรหัสสถานที่ตรวจปล่อย (Release Port) ให้บันทึกข้อมูลรหัสสถานที่ตรวจปล่อย (Release Port) เป็น ด่านศุลกากร ที่นำของเข้า (First Port)</description>
     </item>
     
     <item>
-      <title>18. การขอวางประกันโต้แย้งพิกัดอัตราศุลกากร /การวางประกัน</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%82%E0%B8%95%E0%B9%89%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94/</link>
+      <title>การขอวางประกันโต้แย้งพิกัดอัตราศุลกากร /การวางประกัน</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/guarantee-argumentative/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%82%E0%B8%95%E0%B9%89%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/guarantee-argumentative/</guid>
       <description>การขอวางประกันโต้แย้งพิกัดอัตราศุลกากร /การวางประกัน การขอวางประกันในกรณีที่พนักงานศุลกากรเห็นว่ามีปัญหาเกี่ยวกับจำนวนค่าอากรสำหรับของที่กำลังผ่านศุลกากร การวางประกัน กรณีที่พนักงานศุลกากรเห็นว่ามีปัญหาเกี่ยวกับค่าอากรในการปฏิบัติพิธีการ ตามมาตรา 55 และถูกวางประกันไว้แล้ว หากผู้นำของเข้ามีความประสงค์ขอวางประกันของที่นำเข้าในลักษณะเดิมที่นำเข้ามาในภายหลัง ให้สำแดงพิกัดอัตราศุลกากรในอัตราสูง ชำระภาษีอากรในอัตราอากรที่สำแดงต่ำและถูกจับกุม โดยนำยอดอากรที่เป็นส่วนต่างของค่าภาษีขาเข้าสำแดงไว้ในช่องวางประกัน แต่ให้ชำระภาษีมูลค่าเพิ่มในพิกัดอัตราอากรสูงเต็มจำนวน โดยให้บันทึกพิกัดอัตราศุลกากรในอัตราที่ขอวางประกันในช่อง Argumentative ทั้ง 3 ช่องตามตัวอย่างด้านล่างนี้ พร้อมทั้ง ให้ระบุเลขที่ใบขนสินค้าขาเข้าฉบับที่มีปัญหาที่ช่อง Reference Declaration Number และ Reference Declaration Line Number โดยจัดทำข้อมูลใบขนสินค้าขาเข้าเพื่อขอพบพนักงานศุลกากรกรณีมีปัญหาพิกัด/ราคา (Assessment Request)
 หลักการสำแดงข้อมูลใบขนสินค้าขาเข้า กรณีขอวางประกันปัญหาพิกัดอัตราศุลกากร หลักการสำแดงข้อมูลใบขนสินค้าขาเข้า กรณีขอวางประกันปัญหาราคา การขอเรียกร้องขอคืนเงินอากรเพราะเหตุที่ได้เสียไว้เกินจำนวนที่พึงต้องเสียจริง การขอคืนเงินอากรกรณีที่เสียไว้เกิน ตามมาตรา 25 ผู้ประกอบการต้องสำแดงพิกัดอัตราศุลกากรในอัตราสูง ชำระอากรอัตราอากรสูง และขอคืนอากรไว้ในพิกัดอัตราอากรซึ่งต่ำกว่าที่สำแดง ในช่อง Argumentative ทั้ง 4 ช่องตามตัวอย่างด้านล่างนี้ โดยจัดทำข้อมูลใบขนสินค้าขาเข้าเพื่อขอพบพนักงานศุลกากรกรณีมีปัญหาพิกัด/ราคา (Assessment Request)
 หลักการสำแดงข้อมูลใบขนสินค้าขาเข้า กรณีขอโต้แย้งปัญหาพิกัดอัตราศุลกากร
@@ -200,20 +200,20 @@ Group E (การออกจากสถานที่) EXW (1) EXW (…….n
     </item>
     
     <item>
-      <title>19. การขอวางประกันโต้แย้งพิกัดอัตราศุลกากร /การวางประกัน</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%82%E0%B8%AD%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A1%E0%B8%B1%E0%B8%99/</link>
+      <title>ขอวางประกันกองทุนน้ำมันเชื้อเพลิงและเงินกองทุนเพื่อส่งเสริมการอนุรักษ์พลังงาน</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/guarantee-fuel-fund/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%82%E0%B8%AD%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A1%E0%B8%B1%E0%B8%99/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/guarantee-fuel-fund/</guid>
       <description>ขอวางประกันกองทุนน้ำมันเชื้อเพลิงและเงินกองทุนเพื่อส่งเสริมการอนุรักษ์พลังงาน หลักการสำแดงข้อมูลใบขนสินค้าขาเข้า กรณีขอวางประกันกองทุนน้ำมันเชื้อเพลิงและเงินกองทุนเพื่อส่งเสริมการอนุรักษ์พลังงาน</description>
     </item>
     
     <item>
-      <title>20. ขอชำระหรือวางประกันอากรตอบโต้การทุ่มตลาดและการอุดหนุน</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B9%82%E0%B8%95%E0%B9%89%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94/</link>
+      <title>ขอชำระหรือวางประกันอากรตอบโต้การทุ่มตลาดและการอุดหนุน</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/gurantee-anti-dumping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B9%82%E0%B8%95%E0%B9%89%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/gurantee-anti-dumping/</guid>
       <description>ขอชำระหรือวางประกันอากรตอบโต้การทุ่มตลาดและการอุดหนุน หลักการสำแดงข้อมูลใบขนสินค้าขาเข้า กรณีมีค่าอากรตอบโต้การทุ่มตลาดและการอุดหนุนต้องชำระ
 หลักการสำแดงข้อมูลใบขนสินค้าขาเข้า กรณีขอวางประกันค่าอากรตอบโต้การทุ่มตลาดและ การอุดหนุน
 ตัวอย่าง ราคาศุลกากรที่ต้องชำระ คือ 100,000
@@ -221,17 +221,17 @@ Group E (การออกจากสถานที่) EXW (1) EXW (…….n
     </item>
     
     <item>
-      <title>21. หลักการบันทึกค่าภาษีอากรและวางประกัน ในใบขนสินค้าขาเข้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5/</link>
+      <title>หลักการบันทึกค่าภาษีอากรและวางประกัน ในใบขนสินค้าขาเข้า</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/input-duty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/input-duty/</guid>
       <description> หลักการบันทึกค่าภาษีอากรและวางประกัน ในใบขนสินค้าขาเข้า หมายเหตุ
  ตัวอย่างด้านบนใช้ Duty rate เท่ากับ 20% การคำนวณอากรที่ชำระ (Amount Paid) ปกติแล้วจะต้องมีค่าเท่ากับอากรตามปกติ (Amount) ตาม Case 1 ยกเว้น Exemption Rate มีค่า อากรที่ชำระ (Amount Paid) ที่คำนวณได้นั้น หากต้องการวางประกัน ให้บันทึกค่าที่ช่อง Deposit Amount ให้เท่ากับ อากรที่ชำระ (Amount Paid) เท่านั้น   การคำนวณค่าวางประกัน ทุกกรณี ไม่ต้องปัดเป็นตัวกลมให้วางเท่ากับค่าอากรที่ชำระ </description>
     </item>
     
     <item>
-      <title>22. Payment Method and Guarantee Method Guideline</title>
+      <title>Payment Method and Guarantee Method Guideline</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/payment-method/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -241,16 +241,16 @@ Group E (การออกจากสถานที่) EXW (1) EXW (…….n
     </item>
     
     <item>
-      <title>23. รหัสเหตุผลการโต้แย้ง</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%95%E0%B9%89%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%87/</link>
+      <title>รหัสเหตุผลการโต้แย้ง</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/argumentative-reason-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%95%E0%B9%89%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%87/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/argumentative-reason-code/</guid>
       <description> รหัสเหตุผลการโต้แย้ง (Argumentative Reason Code) </description>
     </item>
     
     <item>
-      <title>24. ประเภทค่าภาษีอากร</title>
+      <title>ประเภทค่าภาษีอากร</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/type-duty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -259,16 +259,16 @@ Group E (การออกจากสถานที่) EXW (1) EXW (…….n
     </item>
     
     <item>
-      <title>25. หน่วยงานผู้ออกใบอนุญาต</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%83%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8D%E0%B8%B2%E0%B8%95/</link>
+      <title>หน่วยงานผู้ออกใบอนุญาต</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/permit-issue-authority/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%83%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8D%E0%B8%B2%E0%B8%95/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/permit-issue-authority/</guid>
       <description> เลขประจำตัวผู้เสียภาษีของหน่วยงานผู้ออกใบอนุญาต (Permit Issue Authority)    ลำดับที่ หน่วยงาน เลขประจำตัวผู้เสียภาษี 13 หลัก     1 กรมการขนส่งทางบก 0994000161328   2 กรมการขนส่งทางอากาศ 0994000158084   3 กรมการค้าต่างประเทศ 0994000159561   4 กรมการค้าภายใน 0994000161450   5 กรมควบคุมโรค 0994000241801   6 กรมเชื้อเพลิงธรรมชาติ 0994000036191   7 กรมทรัพยากรธรณี 0994000160887   8 กระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม 0994000044615   9 กรมธุรกิจพลังงาน 0994000036337   10 กรมประมง 0994000160259   11 กรมปศุสัตว์ 0994000159251   12 กรมป่าไม้ 0994000159897   13 กรมพัฒนาธุรกิจการค้า 0994000244746   14 กรมโรงงานอุตสาหกรรม 0994000528116   15 กรมวิชาการเกษตร 0994000158921   16 กรมวิทยาศาสตร์การแพทย์ 0994000160682   17 กรมศุลกากร 0994000163011   18 กรมส่งเสริมการส่งออก 0994000159668   19 กรมสรรพสามิต 0994000160461   20 กรมสรรพากร 0994000158441   21 กรมอุตสาหกรรมทหาร 0994000011679   22 กรมอุตสาหกรรมพื้นฐานและการเหมืองแร่ 0994000036213   23 กรมอุทยานแห่งชาติสัตว์ป่าและพันธุ์พืช 0994000041969   24 การท่าเรือแห่งประเทศไทย 0994000165480   25 การนิคมอุตสาหกรรมแห่งประเทศไทย 0994000164980   26 สำนักงานคณะกรรมการกิจการโทรคมนาคมแห่งชาติ 0994000049447   27 สภาหอการค้าไทย 0994000164921   28 สำนักงานคณะกรรมการส่งเสริมการลงทุน 0994000740964   29 สำนักงานคณะกรรมการอาหารและยา 0994000165676   30 สำนักงานพลังงานปรมาณูเพื่อสันติ 0994000159544   31 สำนักงานมาตรฐานสินค้าเกษตรและอาหารแห่งชาติ 0994000037015    หากเป็นใบอนุญาตจากต่างประเทศ เช่น ATIGA Form D ในช่องเลขประจำตัวผู้เสียภาษีอากร ของผู้ออกใบอนุญาตให้ระบุชื่อย่อประเทศผู้ออกใบอนุญาต นั้น เช่น MY = ประเทศมาเลเซีย เป็นต้น</description>
     </item>
     
     <item>
-      <title>26. การตัดบัญชีใบขนสินค้ากับรายงานการนำของเข้า</title>
+      <title>การตัดบัญชีใบขนสินค้ากับรายงานการนำของเข้า</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/checking-mainfest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -280,7 +280,7 @@ Group E (การออกจากสถานที่) EXW (1) EXW (…….n
     </item>
     
     <item>
-      <title>27. รหัสสิทธิพิเศษ ตามความตกลงระหว่างประเทศ</title>
+      <title>รหัสสิทธิพิเศษ ตามความตกลงระหว่างประเทศ</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/privilege/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
