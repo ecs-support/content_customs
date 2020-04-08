@@ -11,6 +11,7 @@ bookToc: false
 ![](https://anti-cor.nrct.go.th/Portals/0/EasyDNNNews/2046/740740p542EDNmainAntilaw-list.JPG)
 
 {{< tabs "uniqueid" >}}
+
 {{< tab "กฎหมายหลัก" >}} 
 
 ## กฎหมายหลัก
@@ -56,6 +57,17 @@ bookToc: false
 |  1  | [เกณฑ์การเปรียบเทียบงดการฟ้องร้องตามพระราชบัญญัติศุลกากร พ.ศ.2560](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=142328324146505f49464b4b464a4e) | 24 พฤษภาคม 2562  |
 
 
+
+{{< /tab >}}
+
+{{< tab "ประกาศกรมศุลกากร" >}} 
+
+<dev class = 'container'>
+ <h2>ประกาศกรมศุลกากร</h1>
+    <iframe src="http://www.customs.go.th/list_strc_download_with_docno_date.php?ini_content=announce_160426_01&ini_menu=menu_Interest_and_law_160421_07&left_menu=menu_Interest_and_law_160421_07_160421_01&order_by=date&sort_type=0&lang=th&left_menu=menu_Interest_and_law_160421_07_160421_01" width="100%" height="900px">
+    </iframe>
+
+</dev>
 
 {{< /tab >}}
 

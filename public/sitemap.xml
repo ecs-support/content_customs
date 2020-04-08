@@ -15,10 +15,6 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/re-export/</loc>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/postal-guide/</loc>
   </url>
   
@@ -163,7 +159,7 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/payment/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/service/payment/</loc>
   </url>
   
   <url>
@@ -184,6 +180,10 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/unit/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/service/payment/bank_e-bill/</loc>
   </url>
   
   <url>
@@ -240,6 +240,10 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/price_structure/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/re-export/</loc>
   </url>
   
   <url>
