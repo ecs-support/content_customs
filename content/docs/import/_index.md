@@ -19,5 +19,6 @@ bookToc: false
 -   [ของตกค้าง](/knowledge-center/customs-clearance/docs/import/overtime-goods/)
 -   [ภาษีสรรพสามิต](/knowledge-center/customs-clearance/docs/import/excise/)
 -   [มาตรการปกป้องและตอบโต้ทางการค้า](/knowledge-center/customs-clearance/docs/import/trade-protection/)
+-   [การนำเข้ารถยนต์สำเร็จรูป](/knowledge-center/customs-clearance/docs/import/import_car/)
 
 {{< /hint>}}
