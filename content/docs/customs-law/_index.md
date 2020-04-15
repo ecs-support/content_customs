@@ -59,17 +59,4 @@ bookToc: false
 
 
 {{< /tab >}}
-
-{{< tab "ประกาศกรมศุลกากร" >}} 
-
-<dev class = 'container'>
- <h2>ประกาศกรมศุลกากร</h1>
-    <iframe src="http://www.customs.go.th/list_strc_download_with_docno_date.php?ini_content=announce_160426_01&ini_menu=menu_Interest_and_law_160421_07&left_menu=menu_Interest_and_law_160421_07_160421_01&order_by=date&sort_type=0&lang=th&left_menu=menu_Interest_and_law_160421_07_160421_01" width="100%" height="900px">
-    </iframe>
-
-</dev>
-
-{{< /tab >}}
-
-
 {{< /tabs >}}

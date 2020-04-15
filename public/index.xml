@@ -359,7 +359,7 @@ E-Bill Payment
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/area/</guid>
-      <description>รหัสสถานที่ (AREA CODE)     table { width:100%; } .input-group { width:100%; } .container-fluid { min-width:100%; margin: 10px auto; } td { font-size: 15px; font-weight:300; color:black; } th { min-width:100%; font-size: 14.5px; font-weight:500; }         รหัส สถานที่ Release(Ex) Load(Ex) Release(Im) Load(Im)     0010 กรมศุลกากร N N N N   0011 สิทธิ์ BOI (สำหรับใบขนสินค้าโอนย้ายภายในประเทศ) N N Y Y   0019 สิทธิ์ 19 ทวิ (สำหรับใบขนสินค้าโอนย้ายภายในประเทศ) N N Y Y   0100 กองคลัง (กคล.</description>
+      <description>รหัสสถานที่ (AREA CODE)     table { width:100%; } .input-group { width:100%; right: 0px; } .container-fluid { min-width:100%; margin: 10px ; } td { font-size: 15px; font-weight:300; color:black; } th { min-width:100%; font-size: 14.5px; font-weight:500; }         รหัส สถานที่ Release(Ex) Load(Ex) Release(Im) Load(Im)     0010 กรมศุลกากร N N N N   0011 สิทธิ์ BOI (สำหรับใบขนสินค้าโอนย้ายภายในประเทศ) N N Y Y   0019 สิทธิ์ 19 ทวิ (สำหรับใบขนสินค้าโอนย้ายภายในประเทศ) N N Y Y   0100 กองคลัง (กคล.</description>
     </item>
     
     <item>
@@ -735,6 +735,16 @@ E-Bill Payment
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/container-code/</guid>
       <description>ขนาดและประเภทตู้สินค้า (Container Size and Type Code)       
    NO. ContainerCode ContainerDescription ContainerSize     1 2020 G0GENERAL PURPOSE CONT. (General - Openings at one or both ends) 20x8x8   2 20G0 GENERAL PURPOSE CONT. (General - Openings at one or both ends) 20x8x8   3 20G1 GENERAL PURPOSE CONT. (General - Passive vents at upper part of cargo space) 20x8x8   4 20H0 INSULATED CONTAINER(Refrigerated or heated with removable equipment located externally;heat transfer coefficient K=0.</description>
+    </item>
+    
+    <item>
+      <title>ประกาศกรมศุลกากร</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs-law/customs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs-law/customs/</guid>
+      <description> ประกาศกรมศุลกากร  
+ function myFunction() { var iframe = document.getElementById(&#34;myFrame&#34;); var elmnt = iframe.contentWindow.document.getElementsByTagName(&#34;H1&#34;)[0]; elmnt.style.display = &#34;none&#34;; }  </description>
     </item>
     
     <item>
