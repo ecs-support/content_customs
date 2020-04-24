@@ -121,11 +121,12 @@ a.book-btn {
   text-decoration: none !important;
   border: $padding-2 solid $color-link;
   border-radius: $border-radius;
-  padding: 14px 28px;
+  padding: 15px;
   margin-top: $padding-8;
   margin-bottom: $padding-8;  
   font-weight: 600;
   cursor: pointer;
+  box-shadow: 10px 10px 5px grey;
 
   &:hover {
     color: white !important;

@@ -26,6 +26,8 @@ bookToc: false
 
 {{< button href="https://ecs-support.github.io/knowledge-center/single-page/reference/part4_code.html">}}พิกัดศุลกากรภาค 4 (ของที่ได้รับการยกเว้นอากร){{< /button >}}
 
+{{< button href="https://ecs-support.github.io/knowledge-center/single-page/reference/privilege_code.html">}}รหัสสิทธิพิเศษ (Privilege Code){{< /button >}}
+
 <br>
 
 {{< button href="https://ecs-support.github.io/knowledge-center/single-page/reference/country_code.html">}}รหัสประเทศ (Country Code){{< /button >}}
