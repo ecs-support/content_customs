@@ -1,7 +1,7 @@
 ---
 title: การตรวจปล่อยสินค้าขาออกเพื่อบรรทุกลงเรือเฉพาะเขต
 bookCollapseSection: true
-weight: 
+weight: 10
 bookToc: true
 ---
 

@@ -19,7 +19,6 @@ bookToc: false
 -   [การตรวจปล่อยสินค้าขาออกเพื่อบรรทุกลงเรือเฉพาะเขต](/knowledge-center/customs-clearance/docs/interesting-facts/specific-local-vessel/)
 -   [การปรับเปลี่ยนกระบวนการตรวจปล่อยสินค้าขาเข้า](/knowledge-center/customs-clearance/docs/interesting-facts/process-modification-e_import-system/)
 -   [การยกเว้นอากร หน้ากากอนามัย และวัตถุดิบที่นำเข้ามาผลิตฯ](/knowledge-center/customs-clearance/docs/interesting-facts/except-duty-mask/)
--   [ของต้องห้ามต้องกำกัด](/knowledge-center/customs-clearance/docs/interesting-facts/restricted-goods/)
 -   [หลักการปัดเศษทศนิยมยอดรวมภาษี](/knowledge-center/customs-clearance/docs/interesting-facts/rounding-decimal/)
 -   [แนวทางการพัฒนาระบบภาษีที่เกี่ยวข้องกับพาณิชย์อิเล็กทรอนิกส์](/knowledge-center/customs-clearance/docs/interesting-facts/duty-e_commerce/)
 {{< /hint>}}

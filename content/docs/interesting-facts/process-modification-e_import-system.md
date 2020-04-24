@@ -1,7 +1,7 @@
 ---
 title: การปรับเปลี่ยนกระบวนการตรวจปล่อยสินค้าขาเข้า
 bookCollapseSection: true
-weight: 
+weight: 10
 bookToc: false
 ---
 

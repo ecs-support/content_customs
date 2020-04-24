@@ -1,7 +1,7 @@
 ---
 title: หลักการปัดเศษทศนิยมยอดรวมภาษี
 bookCollapseSection: true
-weight: 
+weight: 10
 bookToc: false
 ---
 

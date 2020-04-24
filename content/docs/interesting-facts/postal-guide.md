@@ -1,7 +1,7 @@
 ---
 title: การนำของเข้าและส่งของออกทางไปรษณีย์ 
 bookCollapseSection: true
-weight: 1
+weight: 10
 bookToc: true
 ---
 

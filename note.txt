@@ -26,7 +26,7 @@ success: green,
 ## Button
 
 {{< button relref="/docs/import/trade-protection/SG" >}}Safeguard Measure: SG{{< /button >}}
-{{< button href="https://github.com/alex-shpak/hugo-book" >}}Contribute{{< /button >}}
+
 
 
 {{< tabs "uniqueid" >}}

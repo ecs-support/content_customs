@@ -1,7 +1,7 @@
 ---
 title: พ.ร.บ.ศุลกากร 2560 ปรับตัวอย่างไร?
 bookCollapseSection: true
-weight: 2
+weight: 10
 bookToc: false
 ---
 

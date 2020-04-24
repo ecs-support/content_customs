@@ -1,7 +1,7 @@
 ---
 title: แนวทางการพัฒนาระบบภาษีที่เกี่ยวข้องกับพาณิชย์อิเล็กทรอนิกส์
 bookCollapseSection: true
-weight: 
+weight: 10
 bookToc: false
 ---
 
