@@ -5,10 +5,10 @@ weight: 1
 bookToc: false
 ---
 
-การนำเข้าสินค้า
+พิธีการการนำเข้าสินค้า
 ===
 
-![](https://github.com/dragon-library/library/raw/master/img/import.png)
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/cover/import-Customs-clearance.png)
 
 ## Table of Content
 

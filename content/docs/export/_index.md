@@ -5,7 +5,7 @@ weight: 2
 bookToc: false
 ---
 
-การส่งออกสินค้า
+พิธีการการส่งออกสินค้า
 ===
 
-![](https://github.com/dragon-library/library/raw/master/img/export.png)
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/cover/export-Customs-clearance.png)

@@ -1,14 +1,14 @@
 ---
-title: คู่มือใบขนสินค้าขาเข้า
+title: คู่มือพิธีการขาเข้า
 bookCollapseSection: true
 weight: 1
 bookToc: false
 ---
 
-คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า (e-Import)
+คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import)
 ====
 
-![enter image description here](https://www.aseanbriefing.com/news/wp-content/uploads/2018/03/ASEAN-Briefing-Comprehensive-Progressive-Agreement-for-the-Tran-Pacific-Partnership-Way-Ahead-002.jpg)
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/cover/import-Customs-clearance-handbook.png)
 
 ## Table of Content  
 

@@ -5,9 +5,10 @@ weight: 3
 bookToc: false
 ---
 
-
 พิธีการสำหรับสินค้าถ่ายลำ/ผ่านแดน
 ===
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/cover/transit.png)
 
 ## นิยาม
 

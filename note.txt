@@ -1,4 +1,4 @@
-Run : hugo server --minify --theme book
+Run : hugo server --minify --theme book 
 For full rebuilds on change: hugo server --disableFastRender
 Doc : https://themes.gohugo.io//theme/hugo-book/
 GitHub : https://github.com/gohugoio/hugo/tree/master/docs
