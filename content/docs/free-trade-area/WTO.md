@@ -2,7 +2,7 @@
 title: WTO
 bookCollapseSection: true
 weight: 2
-bookToc: false
+bookToc: true
 ---
 
 ข้อตกลงองค์การการค้าโลก (WTO)

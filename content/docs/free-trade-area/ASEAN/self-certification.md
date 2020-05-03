@@ -2,7 +2,7 @@
 title: การรับรองถิ่นกำเนิดสินค้าด้วยตนเอง
 bookCollapseSection: true
 weight: 1
-bookToc: false
+bookToc: true
 ---
 
 การรับรองถิ่นกำเนิดสินค้าด้วยตนเอง (Self - Certification)

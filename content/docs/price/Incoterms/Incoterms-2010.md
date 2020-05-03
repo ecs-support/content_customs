@@ -108,7 +108,7 @@ bookToc: true
 
 ภาพประกอบ : https://fbabee.com
 
-**เอกสารเพิ่มเติม**
+Reference : 
 
 - [**Incoterms Explained | Definitions and Practical Examples**](https://fbabee.com/incoterms/)
 - [EXIM Bank](http://www.exim.go.th/doc/newsCenter/40379.pdf)
