@@ -12,6 +12,7 @@ bookToc: false
 
 {{< button relref="/docs/service/e-tracking" >}}e-Tracking{{< /button >}}
 {{< button relref="/docs/service/thai-nsw" >}}National Single Window{{< /button >}}
+{{< button relref="/docs/service/payment" >}}การชำระค่าภาษีอากร{{< /button >}}
 
 
 

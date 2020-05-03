@@ -18,7 +18,6 @@ bookToc: false
 -   [พ.ร.บ.ศุลกากร 2560 ปรับตัวอย่างไร?](/knowledge-center/customs-clearance/docs/interesting-facts/thai-customs-act-2560/)
 -   [การตรวจปล่อยสินค้าขาออกเพื่อบรรทุกลงเรือเฉพาะเขต](/knowledge-center/customs-clearance/docs/interesting-facts/specific-local-vessel/)
 -   [การปรับเปลี่ยนกระบวนการตรวจปล่อยสินค้าขาเข้า](/knowledge-center/customs-clearance/docs/interesting-facts/process-modification-e_import-system/)
--   [การยกเว้นอากร หน้ากากอนามัย และวัตถุดิบที่นำเข้ามาผลิตฯ](/knowledge-center/customs-clearance/docs/interesting-facts/except-duty-mask/)
 -   [หลักการปัดเศษทศนิยมยอดรวมภาษี](/knowledge-center/customs-clearance/docs/interesting-facts/rounding-decimal/)
 -   [แนวทางการพัฒนาระบบภาษีที่เกี่ยวข้องกับพาณิชย์อิเล็กทรอนิกส์](/knowledge-center/customs-clearance/docs/interesting-facts/duty-e_commerce/)
 {{< /hint>}}

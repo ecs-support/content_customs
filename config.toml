@@ -2,7 +2,7 @@
 
 baseURL = 'https://ecs-support.github.io/knowledge-center/customs-clearance'
 title = 'Knowledge Center'
-theme = "book"
+theme = 'book'
 disableKinds = ['taxonomy', 'taxonomyTerm']
 
 [build]
@@ -20,6 +20,14 @@ enableGitInfo = true
 # pygmentsStyle = 'monokailight'
 pygmentsCodeFences = true
 
+# Needed for mermaid/katex shortcodes
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1
+
 # Multi-lingual mode config
 # There are different options to translate files
 # See https://gohugo.io/content-management/multilingual/#translation-by-filename
@@ -30,12 +38,24 @@ pygmentsCodeFences = true
   contentDir = 'content'
   weight = 1
 
+[menu]
+# [[menu.before]]
+[[menu.after]]
+  name = "Github"
+  url = "https://github.com/alex-shpak/hugo-book"
+  weight = 10
+
+[[menu.after]]
+  name = "Hugo Themes"
+  url = "https://themes.gohugo.io/hugo-book/"
+  weight = 20
+
 
 [params]
   # (Optional, default 6) Set how many table of contents levels to be showed on page.
   # Use false to hide ToC, note that 0 will default to 6 (https://gohugo.io/functions/default/)
   # You can also specify this parameter per page in front matter
-  BookToC = 3
+  BookToC = true
 
   # (Optional, default none) Set the path to a logo for the book. If the logo is
   # /static/logo.png then the path would be logo.png
@@ -61,7 +81,7 @@ pygmentsCodeFences = true
   # Configure the date format used on the pages
   # - In git information
   # - In blog posts
-  BookDateFormat = '01/02/2006'
+  BookDateFormat = 'Jan 2, 2006'
 
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
@@ -71,13 +91,17 @@ pygmentsCodeFences = true
   # By default partals/docs/comments.html includes Disqus template
   # See https://gohugo.io/content-management/comments/#configure-disqus
   # Can be overwritten by same param in page frontmatter
-  BookComments = true
+  BookComments = false
 
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables portable links and link checks in markdown pages.
   # Portable links meant to work with text editors and let you write markdown without {{< relref >}} shortcode
   # Theme will print warning if page referenced in markdown does not exists.
   BookPortableLinks = true
+
+  # /!\ This is an experimental feature, might be removed or changed at any time
+  # (Optional, experimental, default false) Enables service worker that caches visited pages and resources for offline use.
+  BookServiceWorker = true
 
  
 

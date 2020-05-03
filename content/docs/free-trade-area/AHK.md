@@ -2,7 +2,7 @@
 title: อาเซียน-ฮ่องกง (ASEAN – Hong Kong)
 bookCollapseSection: true
 weight: 15
-bookToc: false
+bookToc: true
 ---
 
 ความตกลงการค้าเสรีอาเซียน-ฮ่องกง (ASEAN – Hong Kong, China Free Trade Agreement)
