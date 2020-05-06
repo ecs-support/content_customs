@@ -1,5 +1,5 @@
 ---
-title: ถ่ายลำ/ผ่านแดน
+title: สินค้าถ่ายลำ/ผ่านแดน
 bookCollapseSection: true
 weight: 3
 bookToc: false
